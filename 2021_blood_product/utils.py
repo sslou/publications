@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 from sklearn import metrics
-from map_cpt_to_text import map_cpt_to_name, map_cpt_to_ancestor
 
 class ProcessData:
     def __init__(self, normalizer, imputer, vectorizer, pca):
@@ -46,12 +45,6 @@ def load_NSQIP_data(data_filename, historical_filename='puf16-18_lite_v3.csv', f
         - returns dataframe
     '''
     df = pd.read_csv(data_filename)
-
-    # map cpt to words
-    cpt = pd.read_table('CPT4_procedures.tsv')
-    puf_wnames = map_cpt_to_name(df, cpt)
-    cpt_ancestor = pd.read_table('CPT4_ancestors_leaf.tsv')
-    df = map_cpt_to_ancestor(puf_wnames, cpt_ancestor) # adds CPT_name, CPT_group features
 
     # reassign percent_transfused based on historical practice
     if forward:

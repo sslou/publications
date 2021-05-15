@@ -40,36 +40,28 @@ def single_force_plot(i, html=True):
 
 if __name__ == '__main__':
     data_pipeline = joblib.load('model/XGB_pipeline.joblib')
-    # data_to_explain = load_NSQIP_data('puf16-18_lite_v3.csv', forward = False)
-    data = load_BJH_data('./raw_data/2020_BJH_Labs_Notes.csv', prefilter=50)
 
-    use_static = data_pipeline.use_static
-    perform_impute = data_pipeline.perform_impute
-    use_words = data_pipeline.use_words
-    best_threshold = data_pipeline.best_threshold
-    feat_used = data_pipeline.feat_used
     model = data_pipeline.model
     imputer = data_pipeline.imputer
     scaler = data_pipeline.normalizer
+    feat_used = data_pipeline.feat_used
 
-    data_to_explain = data[feat_used]
+    # this is made up patient data
+    example_data = {'PRSODM' : 140, 'PRALBUM' : 4.0, 'DIALYSIS' : 0, 'PRPLATE' : 100, 'HYPERMED' : 1,
+              'HEIGHT' : 65, 'PRHCT' : 30, 'PRCREAT' : 1.0 , 'PRPTT' : 33, 'HXCHF' : 0, 'WEIGHT' : 190,
+              'ELECTSURG' : 1, 'HXCOPD' : 1, 'PRBILI' : 1.0, 'ASA': 3, 'SEX' : 1, 'percent_transfused': 1.3,
+              'PRINR' : 1, 'DIABETES' : 1, 'SMOKE' : 1, 'Age': 70}
+    example_data = pd.DataFrame(example_data, index=[0])
+
+    # transform data
+    data_to_explain = example_data[feat_used]
     data_to_explain = pd.DataFrame(imputer.transform(data_to_explain), columns=feat_used)
     data_scaled = pd.DataFrame(scaler.transform(data_to_explain), columns=feat_used)
+    print('model predicted probability: ', predict_example(model, imputer, scaler, example_data.loc[0, feat_used]))
 
+    # calculate SHAP values and visualize
     explainer = shap.TreeExplainer(model)
     shap_values = explainer.shap_values(data_scaled)
+    single_force_plot(0)
 
-    # force plot for individual example
-    fig = single_force_plot(100, html=True)
-    # wrong examples: 3117, 601, 437
 
-    # shap summary plot
-    # plt.figure()
-    # shap.summary_plot(shap_values, data[feat_used])
-    # plt.savefig('./result/shap_summary.svg')
-
-    # shap dependence plots
-    # shap.dependence_plot("PRHCT", shap_values, data_to_explain, interaction_index="percent_transfused")
-    # plt.savefig('./result/shap_HCT.svg')
-    # shap.dependence_plot("percent_transfused", shap_values, data_to_explain, interaction_index="PRHCT")
-    # plt.savefig('./result/shap_percent_transfused.svg')
