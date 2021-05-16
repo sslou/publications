@@ -30,9 +30,11 @@
 
 ## Python environment
 - python: 3.7.6 
-- [GCC 7.3.0]
+- GCC: 7.3.0
 - scipy: 1.4.1
 - numpy: 1.18.1
 - matplotlib: 3.1.3
 - pandas: 1.0.1
 - sklearn: 0.22.1
+- XGBoost: 1.2.0
+- SHAP 0.37.0
