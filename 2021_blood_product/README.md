@@ -42,3 +42,6 @@
 - sklearn: 0.22.1
 - XGBoost: 1.2.0
 - SHAP 0.37.0
+
+
+*Disclaimer: Please use at your own risk. These models provide estimates of transfusion risk based on certain variables, and there may be other factors not included that can either increase or decrease transfusion risk. These estimates are not a guarantee of results. Transfusion may happen even if the risk is low. This information is not intended to replace the advice of a doctor or healthcare provider about diagnosis, treatment, or potential outcomes.*
