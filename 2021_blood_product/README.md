@@ -14,11 +14,15 @@
     - prints output to stdout, also writes .csv files for bootstrap output
 4. shap_explain.py
     - usage: `python shap_explain.py`
-    - example data for a fake patient is included; this script outputs model predicted transfusion risk and illustrates model explanation for this fake patient (see result folder). feel free to change fake patient data to see how model predicted probabilities change.
+    - example data for a fake patient is included; this script outputs model predicted transfusion risk and illustrates model explanation for this fake patient (see result folder). see also jupyter notebook below.
 5. utils.py
     - utility classes and functions needed by other scripts
 6. NSQIP_clean.R
     - processes raw NSQIP PUF files
+
+
+## Notebooks
+[jupyter notebook](https://colab.research.google.com/drive/1PavgJqsxjkRvQ6-2psj-crBCV8gmJZzk?usp=sharing) for making and visualizing model predictions on new patient data, running on Google Colab.
 
 
 ## Folders
