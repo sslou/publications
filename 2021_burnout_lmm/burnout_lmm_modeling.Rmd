@@ -1,0 +1,123 @@
+---
+title: "burnout_lmm_manuscript"
+author: "Sunny Lou"
+date: "5/26/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(ggplot2)
+library(readxl)
+library(ggpubr)
+library(lmerTest)
+library(stringr)
+library(repr)
+library(lubridate)
+library(tidyr)
+```
+
+## Load data
+
+```{r}
+df = read_xlsx('~/Data/IGNITE/survey_data_combined.xlsx') %>%
+  mutate(
+    sex = as.factor(sex),
+    marital_status = as.factor(marital_status),
+    children = as.factor(children),
+    specialty = factor(specialty, c('Medicine', 'Anesthesiology', 'Pediatrics')),
+    norm_inbox_time = as.numeric(norm_inbox_time),
+    burnout = as.numeric(burnout),
+    norm_review_time = as.numeric(norm_review_time),
+    norm_order_time = as.numeric(norm_order_time),
+    norm_ehr_time = as.numeric(norm_ehr_time),
+    norm_actions = as.numeric(norm_actions),
+    month = factor(month(survey_time), levels = c(10, 9, 11, 12, 1, 2, 3))
+  ) %>%
+  filter(year_in_program == 1)
+
+head(df)
+```
+
+
+## Modeling
+
+```{r defining the cohort}
+dm = df %>%
+  filter(num_actions > 3000) %>%   # had at least 3000 EHR actions in preceding month
+  filter(!is.na(burnout))          # and completed a survey
+```
+
+```{r vif}
+library(car)
+car::vif(lm(burnout ~ total_ehr_time + num_pts_max + afterhours_ehr_time + inbox_time
+            + norm_num_orders + norm_time_note + norm_review_time,
+            data=dm))
+```
+
+```{r lmer}
+m = lmer(burnout ~ specialty + sex + inbox_time + afterhours_ehr_time
+         + total_ehr_time 
+         + num_pts_max 
+         + norm_review_time
+         # + norm_num_orders
+         # + norm_time_note
+         # + month
+         + (1|record_id), dm)
+summary(m)
+confint(m)
+
+MuMIn::r.squaredGLMM(m)
+```
+
+```{r overall variable p values}
+drop1(m)
+```
+
+```{r coeffs scaled by iqr}
+betas = fixef(m)
+cis = confint(m)
+vars = c('afterhours_ehr_time', 'inbox_time', 'norm_review_time', 'num_pts_max', 'total_ehr_time')
+betas = betas[vars]
+betas
+lower_ci = cis[vars, 1]
+upper_ci = cis[vars, 2]
+lower_ci
+upper_ci
+
+iqrs = rstatix::get_summary_stats(dm[vars], type='median_iqr')
+iqrs = iqrs %>%
+  mutate(
+    beta_scaled = iqr*betas,
+    lower = iqr*lower_ci,
+    upper = iqr*upper_ci
+         )
+iqrs
+```
+
+## RAR
+
+```{r load rar data}
+df_rar = read.csv('~/Data/IGNITE/survey_data_rar.csv') %>%
+  filter(year_in_program == 1 & num_actions > 3000)
+head(df_rar)
+```
+
+```{r number or rar errors}
+sum(df_rar$num_errors)
+sum(df_rar$is_error)
+```
+
+```{r poisson w offset}
+df_ = df_rar %>%
+  filter(!is.na(burnout)) %>%
+  filter(num_orders > 0) # 2 examples removed (optho clinic)
+
+rar_model = glm(num_errors ~ burnout 
+                + specialty
+                + offset(log(num_orders)),
+                family = poisson, data = df_)
+summary(rar_model)
+drop1(rar_model, test = 'LRT')
+exp(cbind(rate_ratio=coef(rar_model), confint(rar_model)))
+```

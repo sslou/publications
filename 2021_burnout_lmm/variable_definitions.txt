@@ -1,0 +1,41 @@
+Variables                   Description
+- record_id                 anonymized participant identifier
+- specialty                 medicine / anesthesiology / pediatrics
+- year_in_program           1 / 2 / 3
+- sex                       male / female / prefer not to say
+- race                      while / black / asian / hispanic / other
+- marital_status            married / single / domestic partner
+- children                  yes / no
+- rot_type                  name of monthly rotation
+- rot_class                 rotation categorized to inpatient / outpatient / elective
+- num_pts                   total number of unique patients with chart viewed in some way over the time interval
+- num_actions               total number of EHR actions
+- num_messages              total number of inbox messages viewed
+- num_orders                total number of orders placed 'order list changed'
+- num_note                  total number of notes written 'clinical note signed'
+- total_ehr_time            total time in hours spent using the EHR
+- afterhours_ehr_time       total time in hours spent using EHR between 1800 and 0600
+- time_note                 total time in hours spent writing notes
+- time_prog                 total time in hours spent writing progress notes / consults / H&P
+- review_time               total time in hours spent reviewing notes, results etc
+- order_time                total time in hours spent viewing or modifying orders
+- inbox_time                total time in hours spent working in inbox
+- num_pts_per_day           avg # uniq patients viewed per day (denom = days with >= 1 chart action)
+- num_pts_w_orders          avg # uniq patients with >= 1 order (denom = days with >= 1 order placed)
+- num_pts_w_notes           avg # uniq patients with >= 1 note written (denom = days with >= 1 note written)
+- num_days_w_orders         # days with at least 1 order
+- num_days_w_notes          # days with at least 1 note written
+- norm_time_note            avg time in hours spent writing notes per patient day
+- norm_num_orders           avg # orders placed per patient day
+- num_pts_max               max(num_pts_w_orders, num_pts_w_notes) -> to measure # patients user was responsible for
+- norm_actions              avg # EHR actions taken per patient day
+- norm_ehr_time             avg # hours spent using EHR per patient day
+- fraction_afterhours       fraction of total EHR time spent between 1800 and 0600
+- norm_review_time          avg # hours spent reviewing data per patient day
+- fraction_review           fraction of total EHR time spent reviewing data
+- norm_order_time           avg time in seconds spent on orders per order placed
+- norm_inbox_time           avg time in seconds spent on inbox per inbox message received
+
+Outcome variables
+- burnout                   burnout as measured by Professional Fulfillment Index survey instrument
+- burnout_bin               dichotomized to 0/1 where 1 = burnout score > 1.33
