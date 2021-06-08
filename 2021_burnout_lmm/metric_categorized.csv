@@ -1,0 +1,1653 @@
+METRIC_ID,METRIC_NAME,REPORT_NAME,count,total_hours,metric_category
+34005.0,Notes viewed,Notes Activity Display,437612,2486.80782960123,Note Review
+34140.0,Inpatient system list accessed,,779862,1894.46747740003,Navigation
+20620.0,Visit Navigator template loaded,,325660,1609.5435405657,Navigator
+17256.0,Results Review accessed,,208511,1375.72156905121,Chart Review
+34002.0,Viewed Handoff Data,,224767,1295.33495988369,Handoff
+17108.0,Order list changed,,124964,855.886872957017,Order Entry
+17008.0,Report with patient data viewed,IP Vitals Patient List,206223,684.159699938827,Chart Review
+17008.0,Report with patient data viewed,IP Sidebar Physician Index,282916,672.395375913514,Chart Review
+17007.0,Report viewed for an order,,97119,624.79592550781,Chart Review
+17227.0,Chart Review Note report viewed,Progress Notes,74946,584.897426298724,Note Review
+,ED Workup Activity viewed,,94822,497.897523698541,Chart Review
+17027.0,Chart Review Notes tab selected,,126730,463.266904527346,Chart Review
+17703.0,Problem and relevant info viewed in Problem List,,40225,383.068996932506,Chart Review
+20607.0,Storyboard viewed,IP Inpatient Physician Storyboard,332478,361.751723598109,Navigator
+20001.0,In Basket message viewed,,91728,329.58743030813,Inbox
+34150.0,Order Reconciliation Section accessed,,39119,326.81927231974,Order Entry
+17250.0,Problem List accessed,,83730,323.086520134343,Chart Review
+17000.0,Chart Review Encounters tab selected,,130237,300.123400356504,Chart Review
+17012.0,Chart Review Other Orders tab selected,,87408,272.640334658887,Chart Review
+17258.0,Results Review exited,,114810,259.659667174286,Navigation
+17008.0,Report with patient data viewed,IP Comprehensive Flowsheet,28664,256.76774282217,Chart Review
+17008.0,Report with patient data viewed,MR STORYBOARD PREFERRED NAME HOVER BUBBLE,27510,252.315765496359,Chart Review
+20080.0,Imaging PACS accessed,,13631,243.055226478046,Imaging
+17008.0,Report with patient data viewed,IP Vitals,31461,237.027730723751,Chart Review
+34003.0,Edited Handoff Data,,67752,228.226503465705,Handoff
+17288.0,Schedule loaded,,71921,198.73944293287,Navigation
+14200.0,Printing occurred,,24734,196.492972894509,NULL
+17338.0,BestPractice Advisories displayed,,78708,189.405854862796,BPA
+17008.0,Report with patient data viewed,IP Labs Since Admission,38763,180.40931763596,Chart Review
+,ED Triage Activity viewed,,25137,179.842214384343,Chart Review
+17008.0,Report with patient data viewed,IP Patient Header Treatment Team,17868,172.932320800092,Chart Review
+17008.0,Report with patient data viewed,IP MAR History,14646,152.340606645478,Chart Review
+17008.0,Report with patient data viewed,AMB PATIENT SNAPSHOT (HTML/CSS),28205,151.640441044966,Chart Review
+17008.0,Report with patient data viewed,ED Notewriter Triage,12467,151.227722286648,Chart Review
+17008.0,Report with patient data viewed,MR NOTEWRITER SNAPSHOT,14950,151.13523279137,Chart Review
+34704.0,Intake/Output activity accessed,,15237,148.509188246197,Chart Review
+17141.0,Image viewed,,12635,147.932984199258,Imaging
+17336.0,BestPractice Advisories viewed,,19167,142.554979270564,BPA
+17008.0,Report with patient data viewed,IP Labs 72h,42717,140.507248774369,Chart Review
+17227.0,Chart Review Note report viewed,H&P,11360,132.026375373999,Note Review
+17234.0,Chart Review Order report viewed,RAD Results Report,21595,131.454242684841,Results Review
+17008.0,Report with patient data viewed,IP Adult Clinical Overview,107741,130.874898094866,Chart Review
+20008.0,In Basket message created,,100437,129.055360118548,NULL
+17227.0,Chart Review Note report viewed,Discharge Summary,10056,120.130149111217,Note Review
+34161.0,Inpatient Patient Lists list loaded,,474284,119.656789422829,Navigation
+72001.0,Care Everywhere document accessed,,14048,119.174397029346,Chart Review
+17234.0,Chart Review Order report viewed,BW Result Report: Lab Integrated Result Template,38797,118.787664231194,Chart Review
+94023.0,Report viewed,Progress Notes,12807,115.13364787605,Note Review
+60005.0,View clinical notes section,,21699,113.506013564798,Note Review
+60005.0,View clinical notes section,IP Hospital Course Note,21466,112.821540249718,Note Review
+14070.0,User authenticated,,75621,109.757887091901,Navigation
+60012.0,Clinical Note Signed,Assessment & Plan Note,26463,109.228494036197,Note Entry
+17227.0,Chart Review Note report viewed,ED Provider Notes,11182,106.414243669509,Note Review
+17227.0,Chart Review Note report viewed,Consults,10420,104.358602805932,Note Review
+49005.0,Viewed Discharge Instructions,,9521,102.01478082021,Discharge
+17008.0,Report with patient data viewed,IP Handoff Report,26707,101.42780958467,Handoff
+17008.0,Report with patient data viewed,IP MD Discharge Status,35913,98.9025737513436,Chart Review
+17008.0,Report with patient data viewed,ED HOME MEDS (NAVIGATOR),18457,97.5150343065791,Chart Review
+17228.0,Chart Review Encounter report viewed,Amb Encounter Summary with Link to Core Summary,10913,95.8803104866875,Chart Review
+20607.0,Storyboard viewed,MR Primary Care Storyboard,70463,90.7659488985273,Navigator
+17008.0,Report with patient data viewed,IP Pediatric Clinical Overview,57973,89.136686931716,Chart Review
+,ED Disposition Activity viewed,,41729,86.4651292522748,Discharge
+17008.0,Report with patient data viewed,IP Glucose Management,12229,85.9736603938208,Chart Review
+60006.0,View clinical note from copy previous,Progress Notes,6079,83.5695376065042,Note Entry
+17008.0,Report with patient data viewed,Patient Header New Results Hover,18968,83.0043044975068,Chart Review
+94023.0,Report viewed,HKU PATIENT SUMMARY WITH ROUNDING INFO,30216,81.9092483215861,Chart Review
+17008.0,Report with patient data viewed,AN NoteWriter Patient Snapshot Pre/Post Dynamic,6949,80.2176625029246,Chart Review
+17281.0,Chart Search result hover bubble viewed,,38262,79.398135573599,Chart Review
+17008.0,Report with patient data viewed,Encounter Vitals Hover,7248,79.2870559038056,Chart Review
+17227.0,Chart Review Note report viewed,Telephone Encounter,33078,78.1810210299491,Note Review
+17158.0,Visit diagnoses viewed,,18045,77.2537479962243,Chart Review
+20022.0,In Basket folder loaded,,54882,77.2044681694772,Inbox
+20030.0,SmartLink used,,10862,74.8633186509874,NULL
+17008.0,Report with patient data viewed,IP Nursing Clinical Overview,49132,62.9291810989379,Chart Review
+94018.0,Results table viewed,,10894,60.5234939175182,Results Review
+17251.0,Problem List modified,,44242,58.8685003985299,Note Entry
+17008.0,Report with patient data viewed,IP All Signed and Held Orders,5994,57.4646898372968,Chart Review
+17008.0,Report with patient data viewed,IP Patient Header Active Meds Hover,7690,56.8300769511858,Chart Review
+94270.0,Active Orders viewed,,4178,54.4337475286589,Order Entry
+17008.0,Report with patient data viewed,IP Microbiology Results,7134,54.0706482916408,Chart Review
+17008.0,Report with patient data viewed,Rx Recent Medication Administrations,6648,52.6226920069588,Chart Review
+17006.0,Chart Review Medications tab selected,,8822,50.2989087520705,Chart Review
+20607.0,Storyboard viewed,ED Physician Storyboard,55507,49.0912871588601,Navigator
+27115.0,History activity accessed,,15709,47.9898568616972,Chart Review
+17008.0,Report with patient data viewed,ED Orders - Sidebar Report,24248,47.1009412344296,Chart Review
+17228.0,Chart Review Encounter report viewed,Report Redirector,8308,45.9688040426042,Chart Review
+17234.0,Chart Review Order report viewed,CV Echo Report,4484,45.5934402632713,Results Review
+17008.0,Report with patient data viewed,BW Shared Storyboard Allergies Override - Rx,5964,44.6394855546951,Chart Review
+17008.0,Report with patient data viewed,ED Notes from Clinical Staff,28119,44.5882953561676,Note Review
+94013.0,Notes Review accessed,,19870,44.5629326783286,Note Review
+17228.0,Chart Review Encounter report viewed,AMB Appointment Report,9363,41.8031561136245,Chart Review
+17008.0,Report with patient data viewed,SEC_REVIEWABLE_INFO_VERT_PAMH,28926,40.1093739697668,Chart Review
+17008.0,Report with patient data viewed,AMB Pediatric Review,5031,38.9284323342641,Chart Review
+94012.0,Results List viewed,,12918,38.2204013776779,Results Review
+17245.0,Demographics viewed,,5122,38.0762700623936,Chart Review
+60012.0,Clinical Note Signed,Progress Notes,17531,37.6977104526095,Note Entry
+20607.0,Storyboard viewed,CV Cardiology IP Physician Storyboard,32480,37.686329872873,Navigator
+19041.0,Patient selected from Patient Lookup,,14330,37.46764318996,Navigation
+17008.0,Report with patient data viewed,IP 72h I/O,8668,37.1039025057686,Chart Review
+17008.0,Report with patient data viewed,MR SnapShot - Mark as Reviewed,11942,36.6657778694894,Chart Review
+60010.0,Pend clinical note,Progress Notes,18011,36.534943593608,Note Entry
+17008.0,Report with patient data viewed,IP Weights,5719,35.2417035712136,Chart Review
+17008.0,Report with patient data viewed,Patient Code Status Adv Directives Hover,5164,34.9665142006344,Chart Review
+34245.0,Sign In viewed,,7082,34.7265476255946,NULL
+17234.0,Chart Review Order report viewed,LAB CHART REVIEW ORDERS REPORT - HYPERLINK,11000,34.7138700048128,Chart Review
+17008.0,Report with patient data viewed,IP Newborn Rounding Report,3590,33.9158972771962,Chart Review
+94023.0,Report viewed,H&P,2505,33.5295365752114,Note Review
+17008.0,Report with patient data viewed,ED Visit - Physician,5534,33.1976262426376,Note Review
+17821.0,Care Teams viewed,,6012,33.141806250943,NULL
+,Orders accessed in Single Screen Disposition,,11637,32.5074865844514,Order Entry
+17008.0,Report with patient data viewed,IP ORD MANAGE RELEASE ORDERS,8044,32.4738612360424,Chart Review
+94200.0,Haiku login,,16319,32.189503583908,Navigation
+17380.0,Automatic actions performed by a BestPractice Advisory,,11779,31.6148782904942,BPA
+17008.0,Report with patient data viewed,IP Labs 21 Day,3786,30.9534635138511,Chart Review
+17213.0,Pharmacy for encounter modified,,2654,30.6541383245256,Order Entry
+14011.0,Login failed,,6194,29.2457494086689,Navigation
+17008.0,Report with patient data viewed,Sidebar Report Top,27408,29.204083650377,Chart Review
+49003.0,Visit diagnoses modified,,9690,29.0417293511496,Note Entry
+34118.0,Order sets accessed,,1572,28.4704266606436,Order Entry
+17008.0,Report with patient data viewed,AMB History Navigator Report,9735,28.3113747694757,Chart Review
+17008.0,Report with patient data viewed,IP Readmission Risk Admission Nav,1753,28.190067750083,Chart Review
+17624.0,Communication Management exited,,7149,28.1825330758094,Inbox
+94023.0,Report viewed,HKU ORDER RESULTS,3842,27.6705647145377,Chart Review
+17228.0,Chart Review Encounter report viewed,Encounter: Conversation BW,7120,27.6531860645612,Chart Review
+20607.0,Storyboard viewed,OB Newborn Provider Storyboard,28600,27.6270325915018,Navigator
+17008.0,Report with patient data viewed,Blood Admin Procedure Ordering Report,10257,26.7548691127035,Chart Review
+17822.0,Care Teams exited,,6008,26.1769045665529,NULL
+17008.0,Report with patient data viewed,IP Fever/Antibiotic Dosing,4499,26.0504296342531,Chart Review
+17008.0,Report with patient data viewed,IP Radiology Results,4339,24.5862247496181,Chart Review
+49015.0,Vist Navigator SmartForm Flowsheet section viewed,,18279,24.1150596833229,Navigator
+20005.0,Page triggered based on In Basket message,,11329,24.0941778993606,Inbox
+17227.0,Chart Review Note report viewed,,6565,23.6944211167759,Note Review
+17227.0,Chart Review Note report viewed,Plan of Care,9236,23.6102791841824,Note Review
+17008.0,Report with patient data viewed,Rx acetaminophen ordering instructions,9015,23.5871927791171,Chart Review
+94023.0,Report viewed,Consults,2092,23.2560276910993,Note Review
+34706.0,Flowsheet viewed,,3495,23.1506755736139,Chart Review
+17228.0,Chart Review Encounter report viewed,ED Encounter: ED,2996,22.8941004652447,Chart Review
+17008.0,Report with patient data viewed,IP Patient Header Length of Stay - Admitted Patient,2963,22.585014869372,Chart Review
+,MyNote opened,ED Provider Notes,3251,22.4350411430994,Note Entry
+17234.0,Chart Review Order report viewed,Medication Order Report,3444,21.9854315956433,Chart Review
+17008.0,Report with patient data viewed,ED Orders - Sidebar Report Without Sepsis Checklist,9259,21.5519228802786,Chart Review
+17321.0,New alternative orders accepted,,1609,21.1460537550184,Order Entry
+72013.0,Other Results tab accessed in Care Everywhere activity,,2047,20.4547424038251,Chart Review
+60006.0,View clinical note from copy previous,Subjective & Objective,1439,20.4269250962469,Note Entry
+17008.0,Report with patient data viewed,CV STORYBOARD PATIENT IMPLANT REPORT,1319,20.2546902974446,Chart Review
+17008.0,Report with patient data viewed,Sidebar Report,2126,20.1083768555853,Chart Review
+,In Basket glance plugin accessed in Radar,,1863,20.0207032873895,Inbox
+17008.0,Report with patient data viewed,IP Orders Need Cosign for Navigator,13504,19.6401198148727,Chart Review
+72012.0,Lab Results tab accessed in Care Everywhere activity,,2523,19.5043771319919,Chart Review
+20607.0,Storyboard viewed,ED Track Board Workspace Header,60246,19.4943582126829,Navigator
+49025.0,Edited Discharge Instructions,,5960,19.4888763464821,Discharge
+17280.0,Chart searched,,11822,19.4776086338361,Chart Review
+17008.0,Report with patient data viewed,CAR Snapshot,16280,19.2372487126456,Chart Review
+17360.0,Reconcile Outside Information accessed,,1743,19.1590853508313,Order Entry
+17227.0,Chart Review Note report viewed,Significant Event,3324,18.7727236776881,Note Review
+17008.0,Report with patient data viewed,RX CRCL HOVER,1478,18.7488605785369,Chart Review
+17008.0,Report with patient data viewed,Storyboard Registries Report,2631,18.666004002624,Chart Review
+17234.0,Chart Review Order report viewed,Amb/IP Result Report v2: Lab and Imaging,5118,18.4820080134603,Chart Review
+17008.0,Report with patient data viewed,IP MAR,2409,18.3178410747316,Chart Review
+19125.0,Patient Chart Advisories viewed,PATIENT CHART ADVISORIES REPORT,7374,18.1692235496309,BPA
+19120.0,Identity report accessed,ID PATIENT LOOKUP: EXPANDED DETAILS REPORT BJC,11566,17.6451127677493,Navigator
+17259.0,Patient SnapShot viewed,AMB PATIENT SNAPSHOT (HTML/CSS),11543,17.5306953234142,Navigator
+17215.0,Release Orders activity accessed,,4393,17.4180777653058,Order Entry
+33500.0,Radar Dashboard accessed,,3504,17.3113309680091,Navigator
+,Growth Chart activity accessed,,1335,17.1567790728145,Chart Review
+17008.0,Report with patient data viewed,ED RESIDENT RESUSCITATION CRITERIA,7254,17.0760802033212,Chart Review
+17234.0,Chart Review Order report viewed,HSD Results Report: OR GI Procedure Performed,4923,17.069107240041,Chart Review
+17008.0,Report with patient data viewed,Rx ordering instructions vancomycin,5847,17.0118889986144,Chart Review
+17333.0,Actions taken from a BestPractice Advisory,,3631,16.9884657054477,BPA
+,Follow-up modified,,2197,16.8536392413245,Note Entry
+17227.0,Chart Review Note report viewed,ED Triage Notes,3858,16.5885847992367,Note Review
+17174.0,Document created,,1589,16.2887589799033,Note Entry
+17008.0,Report with patient data viewed,ED Storyboard Bed and Status Hover Bubble,2577,16.2074796920352,Chart Review
+17234.0,Chart Review Order report viewed,BW IMAGING REPORT HYPERLINK - DYNAMIC,4660,15.9655154424243,Results Review
+17008.0,Report with patient data viewed,AN Procedure Summary Report for Storyboard,1343,15.8261201755205,Chart Review
+17234.0,Chart Review Order report viewed,BW CV Cardiac Cath Report,1241,15.5729234030511,Results Review
+17008.0,Report with patient data viewed,IP Pain Management,2446,15.0853954315185,Chart Review
+34160.0,Patient List printed,,21478,14.5720178174972,NULL
+17008.0,Report with patient data viewed,BW IP NURSING TUBE DRAIN CARE EXISTING TUBES AND DRAINS ORDER REPORT,3172,13.8578713300493,Chart Review
+17210.0,Child order released for a procedure order,,2384,13.5978489555252,Order Entry
+72011.0,Documents tab accessed in Care Everywhere activity,,4233,13.526253639592,Chart Review
+34119.0,Orders section accessed,,2881,13.393113392459,Order Entry
+17228.0,Chart Review Encounter report viewed,OR Perioperative Record,1924,13.1207529629601,Chart Review
+17008.0,Report with patient data viewed,IP Peds/Newborn/NICU Nursing Clinical Overview,9930,13.0477678200933,Chart Review
+17008.0,Report with patient data viewed,MR Encounter Care Team Hover,1891,12.954298010932,Chart Review
+17008.0,Report with patient data viewed,IP Patient Header Infection,1951,12.865812950664,Chart Review
+60012.0,Clinical Note Signed,Subjective & Objective,5371,12.8655537957615,Note Entry
+17008.0,Report with patient data viewed,IP FLOWSHEET REPORT DOCKED DETAILS REPORT,3410,12.8226806036631,Chart Review
+17008.0,Report with patient data viewed,BW ED Single Order Results,3382,12.3574722833103,Chart Review
+17008.0,Report with patient data viewed,BW MEDD Report,1105,12.3001068353652,Chart Review
+17008.0,Report with patient data viewed,IP Physician Sidebar LDAs,1273,12.2185171238581,Chart Review
+17008.0,Report with patient data viewed,ED Storyboard Vitals Hover Bubble,1186,11.7746198413107,Chart Review
+17008.0,Report with patient data viewed,OR Signed and Held Orders,3172,11.7356512056456,Chart Review
+17030.0,Chart Review Media tab selected,,4246,11.6676988715595,Chart Review
+17227.0,Chart Review Note report viewed,Nursing Note,3871,11.6426850965287,Note Review
+94009.0,Patient photo viewed,,15386,11.5949548914697,Chart Review
+17008.0,Report with patient data viewed,HIM DEF COMPLETION CENTER DEFICIENCY DETAILS,5935,11.498751302825,Chart Review
+17008.0,Report with patient data viewed,ED NoteWriter Nursing,897,11.386255182955,Chart Review
+20003.0,App Report Viewed,,4258,11.177707871596,Chart Review
+17008.0,Report with patient data viewed,IP Admission Status,2714,11.1757702165179,Chart Review
+,Bilirubin viewed,,965,11.0924329853057,Results Review
+17008.0,Report with patient data viewed,IP ICU Labs Overview,1819,10.9674286704593,Chart Review
+,Eye exam accessed,,728,10.6446827597088,Chart Review
+72009.0,Home tab accessed in Care Everywhere activity,,6221,10.3602606140242,Chart Review
+17008.0,Report with patient data viewed,IP Patient Header Problem List,1330,10.1919647844632,Chart Review
+17008.0,Report with patient data viewed,OR POST-OP CALL UPCOMING CASES AND APPTS,1680,10.1814010702239,Chart Review
+17008.0,Report with patient data viewed,MR NOTEWRITER NOTES,1230,9.83661859353383,Chart Review
+17008.0,Report with patient data viewed,IP Blood Transfusion Summary,2005,9.74595544868045,Chart Review
+17227.0,Chart Review Note report viewed,Op Note,957,9.63031563970777,Note Review
+17381.0,BestPractice Advisories acknowledged,,6201,9.52188097715377,BPA
+17319.0,Alternative selection form aborted,,791,9.52156131876839,NULL
+17623.0,Communication Management accessed,,7165,9.38132016923692,Inbox
+,Level of Service modified,,1550,9.23850263701544,Note Entry
+94023.0,Report viewed,Telephone Encounter,2410,9.05655141247643,Chart Review
+60010.0,Pend clinical note,Anesthesia Preprocedure Evaluation,1185,8.92364984432856,Note Entry
+17320.0,Alternative orders not taken and original order placed,,657,8.91751461161507,Order Entry
+48033.0,Med warning displayed,,6591,8.85158143997192,BPA
+17008.0,Report with patient data viewed,IP Patient Header Precaution Orders,993,8.84738128821055,Chart Review
+94024.0,Medications viewed,,28044,8.70137550963295,Chart Review
+17008.0,Report with patient data viewed,OB Pregnancy Episode,652,8.60744911617703,Chart Review
+17008.0,Report with patient data viewed,IMMUNIZATION HISTORY NEW1(HTML),1080,8.59026663674248,Chart Review
+94500.0,Mobile session created,,14087,8.56869144095314,NULL
+17008.0,Report with patient data viewed,Rx ordering instructions cefepime,3181,8.55586797316869,Chart Review
+,Active Guidelines web integration record accessed,,566,8.5312670914332,NULL
+17227.0,Chart Review Note report viewed,ED Re-evaluation Note,1609,8.37286575953165,Note Review
+17227.0,Chart Review Note report viewed,Anesthesia Preprocedure Evaluation,1457,8.34295458210839,Note Review
+17008.0,Report with patient data viewed,IP AVS,914,8.3350421335962,Chart Review
+17008.0,Report with patient data viewed,IP Current IP Meds,2823,8.30291712601979,Chart Review
+17008.0,Report with patient data viewed,IP Labs Unresulted,17989,8.27541480170355,Chart Review
+17146.0,Image imported,,770,8.2562655989329,NULL
+17008.0,Report with patient data viewed,BW VENT REPORT,1598,8.10492863178253,Chart Review
+17824.0,Care Teams modified,,4173,8.0128315284517,NULL
+17008.0,Report with patient data viewed,Orthopaedics SnapShot,534,7.97136474741829,Chart Review
+17228.0,Chart Review Encounter report viewed,Encounter: Conversation,1345,7.6912623975012,Chart Review
+17233.0,Chart Review Media report viewed,HIM MEDIA REPORT,12577,7.45093188020918,Chart Review
+94023.0,Report viewed,Significant Event,1086,7.29921832429038,Chart Review
+17227.0,Chart Review Note report viewed,Procedures,1963,7.2669381181399,Note Review
+17008.0,Report with patient data viewed,IP Active Orders Report,1693,7.12690448628531,Chart Review
+34110.0,Inpatient Synopsis activity accessed,,703,7.09471117337544,Navigator
+17008.0,Report with patient data viewed,OB Delivery Summary,712,6.97172426064809,Chart Review
+,Medication taking status modified,,2280,6.96764235549502,Order Entry
+17008.0,Report with patient data viewed,HP Storyboard - Care Gaps Row Hoverbubble,1075,6.86728529877132,Chart Review
+17008.0,Report with patient data viewed,CE STORYBOARD HOVER BUBBLE REPORT,1202,6.816711499691,Chart Review
+15629.0,Patient communication preferences subcomponent,,1832,6.79682468997107,Chart Review
+34099.0,Secure chat activity accessed,,1472,6.78769008504019,Inbox
+94023.0,Report viewed,CTO PATIENT ALLERGIES REPORT,1019,6.77908119519551,Chart Review
+,LOS task accessed,,1845,6.708824798531,NULL
+60010.0,Pend clinical note,H&P,3636,6.69123150640063,Note Entry
+15604.0,Patient Emergency contacts grid accessed,,9823,6.61971432738834,Chart Review
+17007.0,Report viewed for an order,MR Meds Adherence Overview,775,6.61666854275597,Note Review
+17008.0,Report with patient data viewed,IP LDA Active and Removed,729,6.42402027951346,Chart Review
+49040.0,Clinical References viewed,,579,6.36194385051727,NULL
+94023.0,Report viewed,Discharge Summary,609,6.10606820583343,Chart Review
+17008.0,Report with patient data viewed,IP Pediatric Comprehensive Flowsheet,701,6.07456604162851,Chart Review
+17008.0,Report with patient data viewed,SINCE LAST VISIT PAF HOVER BUBBLE REPORT,623,6.05378363609314,Chart Review
+17234.0,Chart Review Order report viewed,FS AMB ORDER REPORT HYPERLINK - DYNAMIC,1896,5.93284977462556,Chart Review
+17008.0,Report with patient data viewed,IP Apnea and Bradycardia Report,798,5.90223221143086,Chart Review
+60011.0,Save clinical note,Hospital Course,11130,5.87903721279568,Note Entry
+17008.0,Report with patient data viewed,History: Default Activity Report (Rich Text),6319,5.84898435804579,Chart Review
+60012.0,Clinical Note Signed,H&P,3747,5.77909395509295,Note Entry
+17008.0,Report with patient data viewed,IP LDA Documentation,744,5.74685401651594,Chart Review
+17008.0,Report with patient data viewed,AN Relevant Encounters,1965,5.74405608707004,Chart Review
+17201.0,Medication List reviewed,,2946,5.6702092663447,Order Entry
+94023.0,Report viewed,HKU ROUNDING REPORT W HANDOFF,639,5.63908607668346,Chart Review
+34246.0,Sign In modified,,6240,5.5524020409584,NULL
+17234.0,Chart Review Order report viewed,CV FS ORDER REPORT HYPERLINK - DYNAMIC,1034,5.45206533352533,Chart Review
+17239.0,Note printed from Chart Review,H&P,532,5.43103966050677,NULL
+94023.0,Report viewed,Nursing Note,1178,5.39498884942796,Chart Review
+60010.0,Pend clinical note,Discharge Summary,3566,5.22866367260615,Note Entry
+17234.0,Chart Review Order report viewed,IP NEURO RESULT REPORT CHART REVIEW,793,5.19586947335137,Chart Review
+17008.0,Report with patient data viewed,IP Intake Output,791,5.1804202138053,Chart Review
+17227.0,Chart Review Note report viewed,ED Notes,3020,5.17756892389721,Note Review
+17008.0,Report with patient data viewed,IP Patient Header Isolation,774,5.15797896411683,Chart Review
+17008.0,Report with patient data viewed,RX ALBUMIN ORDER INSTRUCTIONS,1841,5.09766668611102,Chart Review
+17008.0,Report with patient data viewed,IP ORD MANAGE HOME MEDS,10471,5.08182480096817,Chart Review
+60010.0,Pend clinical note,ED Provider Notes,3838,5.01883503278096,Note Entry
+94023.0,Report viewed,ED Provider Notes,454,5.01599269707997,Chart Review
+60005.0,View clinical notes section,Discharge Summary,2372,4.98540979862213,Note Review
+17278.0,Order Review activity accessed,,10666,4.96412206888198,Order Entry
+,Medications activity accessed,,593,4.94038137250476,Order Entry
+,Snapboard report run,,854,4.92148383855819,Navigator
+17325.0,Episode viewed,,1198,4.87699956973393,Chart Review
+49041.0,Clinical References accepted,,619,4.64215542660819,NULL
+17008.0,Report with patient data viewed,Order Report,571,4.63028891324996,Chart Review
+17227.0,Chart Review Note report viewed,ED Procedure Note,2298,4.61998955594168,Note Review
+60010.0,Pend clinical note,Telephone Encounter,1541,4.60440218713548,Note Entry
+17008.0,Report with patient data viewed,IP Provider Notes,1176,4.59189534266789,Chart Review
+17008.0,Report with patient data viewed,IP URO Clinical Overview,571,4.58384074105156,Chart Review
+,Image Selector tab opened,,369,4.44260998778873,NULL
+17227.0,Chart Review Note report viewed,Medical Student,634,4.43498342408074,Note Review
+17228.0,Chart Review Encounter report viewed,rxamb Refill Encounter Review Report,1787,4.34313363446129,Chart Review
+,Visit Navigator Flowsheet section viewed,,1563,4.27131242089801,Navigator
+17008.0,Report with patient data viewed,IP Therapy/Clerk/Case Management Clinical Overview,1434,4.25525471157497,Chart Review
+17008.0,Report with patient data viewed,RECENT RESULTS PAF HOVER BUBBLE REPORT,619,4.21223276217778,Chart Review
+17664.0,Synopsis activity accessed,ONCBCN Synopsis Labs - Hematology,352,4.14197047710418,Navigator
+17008.0,Report with patient data viewed,,605,4.12218160443835,Chart Review
+,Patient Goals accessed,,767,4.04308412048551,NULL
+17008.0,Report with patient data viewed,MR STORYBOARD CHIEF COMPLAINT HOVER BUBBLE,408,3.98353318638271,Chart Review
+19019.0,Potential Duplicates checked,,8808,3.96334697431988,NULL
+94027.0,Mobile platform opened patient,,28765,3.95245344373914,NULL
+17117.0,SmartSets activity selected,,12047,3.90213186793857,NULL
+17008.0,Report with patient data viewed,AN History Report,1621,3.87557641320758,Chart Review
+17228.0,Chart Review Encounter report viewed,BW Encounter: Orders Only with Scans,2149,3.87402604103088,Chart Review
+17008.0,Report with patient data viewed,BW Result Report: Lab Integrated Result Template,18170,3.85867090331183,Chart Review
+17008.0,Report with patient data viewed,Rx ordering instructions meropenem,1300,3.85746395428975,Chart Review
+17008.0,Report with patient data viewed,AMB Current Meds and Allergies,678,3.83695731295479,Chart Review
+94011.0,Encounter List viewed,,1169,3.72674145460128,NULL
+17075.0,Allergies reviewed,,2510,3.68001584132512,Order Entry
+34097.0,Secure chat conversation opened,,1543,3.67168650229771,Inbox
+17008.0,Report with patient data viewed,OB Mother Hover Information,901,3.65602162467108,Chart Review
+17664.0,Synopsis activity accessed,AMB Synopsis Adult Timeline,1825,3.64645528528425,NULL
+60010.0,Pend clinical note,,2255,3.63887540896733,Note Entry
+17008.0,Report with patient data viewed,rx ketorolac split screen,1384,3.63463656584421,Chart Review
+72010.0,Summary tab accessed in Care Everywhere activity,,1304,3.59359242359797,Chart Review
+14500.0,External web page accessed,,589,3.58492962148454,NULL
+17008.0,Report with patient data viewed,Rx ordering instructions cefazolin,1050,3.58052093082004,Chart Review
+94023.0,Report viewed,Procedures,758,3.55238611274295,Chart Review
+17008.0,Report with patient data viewed,Rx Antimicrobial Monitoring,649,3.5238019267718,Chart Review
+,Problem List reviewed,,2464,3.51404808256361,Chart Review
+20607.0,Storyboard viewed,ONC Inpatient Oncology Physician Storyboard,3586,3.48226186752319,Navigator
+17008.0,Report with patient data viewed,IP ORD MANAGE ORDERS NEEDING COSIGN,1455,3.47666792525185,Chart Review
+17008.0,Report with patient data viewed,ACCORDION RESULT DETAIL REPORT,334,3.46456061204274,Chart Review
+17008.0,Report with patient data viewed,CE DEFAULT HOVER BUBBLE REPORT,502,3.44602286789152,Chart Review
+,Flowsheets activity selected,,434,3.38144182735019,Chart Review
+17008.0,Report with patient data viewed,AMB HOME MEDS (NAVIGATOR) - NO ACTIVE,1040,3.34450404776467,Chart Review
+17227.0,Chart Review Note report viewed,Pre-Procedure Instructions,2136,3.33411933342615,Note Review
+17008.0,Report with patient data viewed,BW ACTIVITY ORDERS REPORT,549,3.33021287467744,Chart Review
+17171.0,Document viewed,,352,3.31458821455637,Chart Review
+17234.0,Chart Review Order report viewed,BW Pathology Results,774,3.29427905744976,Results Review
+17227.0,Chart Review Note report viewed,Post-Procedure Note,612,3.28636476728651,Note Review
+17008.0,Report with patient data viewed,IP PT Overview,324,3.24773132960001,Chart Review
+,Chart Review Referral report viewed,BW AMB REFERRAL REPORT - RFL (HTML),526,3.23452907058927,Chart Review
+20607.0,Storyboard viewed,AN Anesthesia Storyboard,4792,3.22900985664791,Navigator
+,Chart Review Referrals tab selected,,786,3.20419999996821,Chart Review
+17227.0,Chart Review Note report viewed,ED Pre-Arrival Note,634,3.18449794001049,Note Review
+34707.0,Flowsheet accepted,,3231,3.18393866962856,Chart Review
+17239.0,Note printed from Chart Review,Progress Notes,250,3.15238954676522,NULL
+,OR report viewed,OR Prov Sched Case Report,503,3.12647695885764,NULL
+60012.0,Clinical Note Signed,Anesthesia Preprocedure Evaluation,1157,3.07768083122041,Note Entry
+17008.0,Report with patient data viewed,RAD Results Report,26976,2.97846612321005,Chart Review
+94014.0,Notes Entry accessed,,1197,2.97515947792265,Note Entry
+17126.0,Allergies activity accessed,,1000,2.93932835472954,NULL
+,Patient Sidebar report accessed,Patient Sidebar Details (w/o Visit Acct),290,2.90846313820944,NULL
+34117.0,Opened Inpatient Order Set Activity,,2038,2.89861581457985,NULL
+95250.0,Epic Monitor activity accessed,,410,2.89485090096791,NULL
+17008.0,Report with patient data viewed,BW Chart Review Note Filed Report with Hyperlink Printing,283,2.84880109469095,Chart Review
+17100.0,Media Manager accessed,,405,2.74530112690395,NULL
+17228.0,Chart Review Encounter report viewed,BW AN REPORT,596,2.74231891738043,Chart Review
+17008.0,Report with patient data viewed,PEDS GI SnapShot,255,2.7325211517016,Chart Review
+17008.0,Report with patient data viewed,Ophth Exam: Standard Exam VN,732,2.71913594749238,Chart Review
+17008.0,Report with patient data viewed,LEGAL GUARDIAN HOVER BUBBLE,326,2.69840493122736,Chart Review
+17008.0,Report with patient data viewed,INSURANCE COVERAGE PAF HOVER BUBBLE REPORT,322,2.68692965057161,Chart Review
+17008.0,Report with patient data viewed,HEALTH MAINTENANCE ACTIVITY,363,2.67936557266447,Chart Review
+17904.0,SmartForm viewed,,957,2.63568736420737,NULL
+17008.0,Report with patient data viewed,Rx ordering instructions ciprofloxacin oral,807,2.61360795868767,Chart Review
+17040.0,Diagnosis association updated,,11607,2.58648026784261,NULL
+17008.0,Report with patient data viewed,FS AMB ORDER REPORT HYPERLINK - DYNAMIC,7542,2.55738620413674,Chart Review
+,Communication printed,,215,2.54737310038672,NULL
+17008.0,Report with patient data viewed,MD New Order Time Mark,819,2.50872945944468,Chart Review
+17228.0,Chart Review Encounter report viewed,Encounter: Outpatient,930,2.46987512323591,Chart Review
+,Routing Section Viewed,,435,2.45367598719067,NULL
+17008.0,Report with patient data viewed,Reg Storyboard FYI,347,2.4037322364913,Chart Review
+,Provider team added,,1243,2.35827129125595,NULL
+,Obstetrics redirected print group viewed,,23204,2.3220801477962,NULL
+17008.0,Report with patient data viewed,OR Demographic Summary,429,2.31072734038035,Chart Review
+94023.0,Report viewed,HKU OP ENCOUNTER REPORT,388,2.3024856768714,Chart Review
+17008.0,Report with patient data viewed,AMB Last Department Note,298,2.30023627016279,Chart Review
+17008.0,Report with patient data viewed,COVID-19 Storyboard Hover,370,2.29008518987231,Chart Review
+17008.0,Report with patient data viewed,IP MD Patient Overview Patient Lists,760,2.28642644617292,Chart Review
+17227.0,Chart Review Note report viewed,Anesthesia Procedure Notes,750,2.26246735413869,Note Review
+17234.0,Chart Review Order report viewed,CV Stress Echo Report,270,2.24142225291993,Results Review
+17227.0,Chart Review Note report viewed,Pre-Procedure Note,385,2.21868932300143,Note Review
+17008.0,Report with patient data viewed,Rx Warfarin OE Summary Report,774,2.20675201945834,Chart Review
+17008.0,Report with patient data viewed,AN Medical History Report,132,2.18831686231825,Chart Review
+,Contacts section saved,,414,2.14928754515118,NULL
+94023.0,Report viewed,,262,2.1465761507882,Chart Review
+17008.0,Report with patient data viewed,AMB Ped History Navigator Report Under 9,1160,2.13005546490351,Chart Review
+,Eye exam saved,,607,2.11203726530075,NULL
+17227.0,Chart Review Note report viewed,Brief Op Note,299,2.10053002728356,Note Review
+,Letter saved,,1790,2.07622567521201,NULL
+17784.0,Results acknowledged in IB,,2062,2.05436894681718,NULL
+17227.0,Chart Review Note report viewed,Anesthesia Postprocedure Evaluation,771,2.046164074209,Note Review
+17008.0,Report with patient data viewed,Rx Storyboard Hover - Hazardous Med Orders,178,2.04267419258753,Chart Review
+,Specialty comments modified,,598,2.00688378440009,NULL
+17664.0,Synopsis activity accessed,ONCBCN Synopsis Labs - Chem/LFT,319,1.99259158002005,NULL
+17008.0,Report with patient data viewed,Problem List for Storyboard Hover Bubble,242,1.98898019631703,Chart Review
+17008.0,Report with patient data viewed,IP Admission Encounter,1382,1.96930705149968,Chart Review
+,Contacts navigator section viewed,,2542,1.96695001443227,NULL
+,MAR accessed,,245,1.96610675520367,NULL
+,Detailed report viewed in Reporting Workbench,OR RTF CASELOG SUMMARY,391,1.96486607392629,NULL
+17008.0,Report with patient data viewed,AMB Click to Edit Hx Instructions,10786,1.96205615149603,Chart Review
+17008.0,Report with patient data viewed,BW ED AFTER VISIT SUMMARY REPORT (STYLED),455,1.95987342066235,Chart Review
+17008.0,Report with patient data viewed,ALG Snapshot,213,1.89724210659662,Chart Review
+17008.0,Report with patient data viewed,BW AMB LAST COVID SCREENING REVIEW FLOWSHEET,519,1.86020618915557,Chart Review
+17008.0,Report with patient data viewed,AMB Call Sidebar Report,286,1.85942436006334,Chart Review
+17228.0,Chart Review Encounter report viewed,Encounter: WU Ophth Report,270,1.85511081404156,Chart Review
+94019.0,Allergies viewed,,28052,1.84292238103018,NULL
+17008.0,Report with patient data viewed,IP MAR Active,241,1.82790055990219,Chart Review
+60012.0,Clinical Note Signed,,830,1.82267672724194,Note Entry
+60006.0,View clinical note from copy previous,Anesthesia Preprocedure Evaluation,134,1.80891210132175,NULL
+60012.0,Clinical Note Signed,Discharge Summary,2741,1.8052544122272,Note Entry
+17008.0,Report with patient data viewed,IP Sidebar Index,1380,1.80078381856282,Chart Review
+17008.0,Report with patient data viewed,ONC Patient Has Active Plans Hoverbubble,294,1.77931934992472,Chart Review
+17008.0,Report with patient data viewed,Express Lane Acute and Follow Up Sidebar Report,489,1.76808182636896,Chart Review
+17008.0,Report with patient data viewed,BW IP NICU SUMMARY REPORT,170,1.76638560930887,Chart Review
+,Report with patient data printed,AMB Smarttext Prescription Elect Sig Ladder Style - Controlled Subst,138,1.76092285421159,NULL
+17008.0,Report with patient data viewed,IP Blood Administration Procedure,431,1.75310555908415,Chart Review
+17008.0,Report with patient data viewed,END Snapshot,299,1.74683441029654,Chart Review
+17234.0,Chart Review Order report viewed,CV Cardiac Services Report,638,1.74446781502829,Results Review
+17008.0,Report with patient data viewed,OB Last Weight and Baby Weight Hover,218,1.74116376373502,Chart Review
+,Chart Review Letter report viewed,,256,1.73761606958177,NULL
+17008.0,Report with patient data viewed,BW AMB ENC DEP WARNING,232,1.73433830711576,Chart Review
+94023.0,Report viewed,ED Triage Notes,573,1.72667627678977,Chart Review
+17008.0,Report with patient data viewed,Sidebar Report Bottom,366,1.71818129857381,Chart Review
+17008.0,Report with patient data viewed,LPOC Care Gaps - Storyboard Summary Hoverbubble,268,1.70755273130204,Chart Review
+,Detailed report viewed in Reporting Workbench,MPM Patient Snapshot,856,1.70344985379113,NULL
+60010.0,Pend clinical note,Consults,731,1.68083619912465,Note Entry
+17008.0,Report with patient data viewed,Rx ordering instructions piperacillin-tazobactam,399,1.67736195431815,Chart Review
+17008.0,Report with patient data viewed,NON-SPECIALTY PROBLEM LIST,136,1.6599665485488,Chart Review
+17008.0,Report with patient data viewed,IP Vitals Graph,155,1.65903642018636,Chart Review
+17227.0,Chart Review Note report viewed,Interval H&P Note,459,1.6522606033749,Note Review
+,HTML table viewed using HTML Table Viewer,,1040,1.63530548334121,NULL
+17008.0,Report with patient data viewed,BW AMB END Snapshot,314,1.62626330190234,Chart Review
+72002.0,Care Everywhere Request Outside Records activity accessed,,167,1.6166144129965,NULL
+17008.0,Report with patient data viewed,IP Anticoagulation Management,511,1.61041687382592,Chart Review
+,Letter printed,,162,1.6072996075948,NULL
+17228.0,Chart Review Encounter report viewed,ort amb encounter summary with link to core summary,198,1.57669376876619,Chart Review
+17008.0,Report with patient data viewed,IMG Order Report,164,1.56240284840265,Chart Review
+60012.0,Clinical Note Signed,Significant Event,927,1.54803931448194,Note Entry
+17008.0,Report with patient data viewed,IP MAR Administration Info,153,1.54038252300686,Chart Review
+27116.0,History activity accepted,,2234,1.53939553870095,NULL
+17008.0,Report with patient data viewed,Visit Info Reports: Recent Visits to Others in Visit Providers Specialty,692,1.51651325013902,Chart Review
+17008.0,Report with patient data viewed,IP Orders Needing Cosign,983,1.47122155957751,Chart Review
+60012.0,Clinical Note Signed,ED Provider Notes,1934,1.44655928161409,Note Entry
+17008.0,Report with patient data viewed,SEC_REVIEWABLE_INFO_VERT,942,1.42936706966824,Chart Review
+17008.0,Report with patient data viewed,ED Storyboard New Results Hover Bubble,229,1.41027757485707,Chart Review
+,Consents navigator section accessed,,226,1.39763590786192,NULL
+17008.0,Report with patient data viewed,AMB Ped History Navigator Report,457,1.38953800413343,Chart Review
+17008.0,Report with patient data viewed,RX MAR ADMINISTRATION HISTORY,339,1.38762241919835,Chart Review
+60012.0,Clinical Note Signed,Telephone Encounter,1423,1.38411122189627,Note Entry
+,Letter viewed,,1146,1.38328744305504,NULL
+35000.0,Reporting Workbench report run,,347,1.3827697443962,NULL
+17008.0,Report with patient data viewed,AN PROCEDURE INFO REPORT W/CPT,2465,1.37424486239751,Chart Review
+60005.0,View clinical notes section,Pre-Procedure Instructions,674,1.37381521251466,Note Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - Diclofenac topical gel,400,1.3725780028767,Chart Review
+,Active Medications viewed,,135,1.37120828866958,NULL
+17008.0,Report with patient data viewed,Amb/IP Result Report v2: Lab and Imaging,3009,1.35609922250111,Chart Review
+49010.0,ED Visit Navigator Follow-Up section accessed,,10312,1.33635771883858,NULL
+94023.0,Report viewed,HKU CARE TEAM,203,1.330731332567,Chart Review
+17008.0,Report with patient data viewed,Order Report - Labs,183,1.32204168770048,Chart Review
+94023.0,Report viewed,OPH HKU OP ENCOUNTER REPORT,99,1.32134095218446,Chart Review
+17227.0,Chart Review Note report viewed,Perioperative Nursing Note,621,1.30767093420028,Note Review
+17228.0,Chart Review Encounter report viewed,TXP Visit Summary (Clinical),99,1.28574824545118,Chart Review
+17008.0,Report with patient data viewed,ED Admit - Widget,150,1.28052934514151,Chart Review
+17008.0,Report with patient data viewed,Retina SnapShot,80,1.27936879369947,Chart Review
+17228.0,Chart Review Encounter report viewed,AMB Letter Report: Encounter,358,1.27496947924296,Chart Review
+17008.0,Report with patient data viewed,PROBLEM LIST: ALL ASSESSMENT & PLAN NOTES HISTORY,216,1.27341639783647,Chart Review
+17008.0,Report with patient data viewed,COVERAGE PAF HOVERBUBBLE,229,1.27023675839106,Chart Review
+,Provider team removed,,367,1.24754805194007,NULL
+17008.0,Report with patient data viewed,ED PRINT TRANSFER DOCUMENTS BJC,203,1.24475271595848,Chart Review
+94023.0,Report viewed,ED Re-evaluation Note,166,1.23301248629887,Chart Review
+17008.0,Report with patient data viewed,ED Storyboard Total Time and Acuity Hover Bubble,268,1.22983191384209,Chart Review
+15046.0,Patient Additional Information subcomponent accessed,,425,1.1962166791492,NULL
+17008.0,Report with patient data viewed,ED Patient Care Timeline - Widget,122,1.1938255490197,Chart Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - chlorothiazide injection,517,1.17978816774156,Chart Review
+17008.0,Report with patient data viewed,Patient Infections and Isolations,202,1.17327967060936,Chart Review
+,Quick Communication toggled for send upon sign visit,,88,1.15724041541417,NULL
+17008.0,Report with patient data viewed,IP Physician Sidebar Meds,156,1.13874248425165,Chart Review
+17008.0,Report with patient data viewed,AN Staff Summary Report,108,1.12289354165395,Chart Review
+94023.0,Report viewed,HKU IP ENCOUNTER REPORT,131,1.11014506340026,Chart Review
+17008.0,Report with patient data viewed,AMB My Last Note,197,1.09391016562779,Chart Review
+20607.0,Storyboard viewed,CV Cardiology Clinic Storyboard,568,1.08903967989815,NULL
+17008.0,Report with patient data viewed,PED RHU SNAPSHOT BW,196,1.08696098645528,Chart Review
+17008.0,Report with patient data viewed,Rx Current TPN Summary (OE),296,1.08301084756851,Chart Review
+17008.0,Report with patient data viewed,IP Physician Sidebar I/O and Results,174,1.08121197594536,Chart Review
+17008.0,Report with patient data viewed,BJC ED NOTE STATUS REPORT,1374,1.07201920588811,Chart Review
+17008.0,Report with patient data viewed,IP Signed and Held Other Orders,253,1.06933843586179,Chart Review
+60010.0,Pend clinical note,ED Re-evaluation Note,1251,1.0619911315706,Note Entry
+17008.0,Report with patient data viewed,DER Snapshot,172,1.05474571651882,Chart Review
+17227.0,Chart Review Note report viewed,Provider Query,483,1.05462918334537,Note Review
+60017.0,Delete clinical note,,1034,1.05115834527545,NULL
+15637.0,Document deleted,,190,1.05024659421708,NULL
+17008.0,Report with patient data viewed,Screening Report,203,1.04664091746012,Chart Review
+60005.0,View clinical notes section,ED Pre-Arrival Note,172,1.04134980705049,Note Review
+,Authentication for controlled substances failed,,198,1.03364143715964,NULL
+17008.0,Report with patient data viewed,ACP Filed Documents,168,1.0336208044158,Chart Review
+17008.0,Report with patient data viewed,ONCBCN Current Encounter - Nurse,212,1.0330716003312,Chart Review
+17008.0,Report with patient data viewed,AMB SMARTTEXT RAD REPORT - FUTURE,160,1.00427722533543,Chart Review
+,SmartSet suggested,,315,0.993953042560153,NULL
+17228.0,Chart Review Encounter report viewed,HH Redirect to LCT,290,0.990128269990285,Chart Review
+17041.0,Allergies modified,,192,0.98356403377321,NULL
+17008.0,Report with patient data viewed,ICU Prospective Calorie / Fluid Management,462,0.980479191409217,Chart Review
+17227.0,Chart Review Note report viewed,Assessment & Plan Note,210,0.977462346288893,Note Review
+17008.0,Report with patient data viewed,RHU Snapshot,161,0.974227859973907,Chart Review
+,OR Log Entry accessed,,383,0.972252355151706,NULL
+17234.0,Chart Review Order report viewed,CV Electrophysiology Report,96,0.946957084867689,Results Review
+,Chart Review Letters tab selected,,421,0.934234059386783,NULL
+17060.0,Patient Implants section or activity accessed,,430,0.926370684305826,NULL
+17008.0,Report with patient data viewed,Rx Renal Monitoring/Renal Replacement Therapy,296,0.901577590571509,Chart Review
+60012.0,Clinical Note Signed,Patient Instructions,2325,0.89084892378913,Note Entry
+15652.0,Registration subcomponent viewed,,93,0.887936163743337,NULL
+60012.0,Clinical Note Signed,Pre-Procedure Instructions,468,0.886349377367231,Note Entry
+17008.0,Report with patient data viewed,MR ONC Active Plans Summary,90,0.885061909357706,Chart Review
+17008.0,Report with patient data viewed,Rx ordering instructions ertapenem,218,0.875682805114322,Chart Review
+94023.0,Report viewed,Anesthesia Preprocedure Evaluation,102,0.86749517891142,Chart Review
+60006.0,View clinical note from copy previous,Assessment & Plan Note,182,0.855047448476155,NULL
+17008.0,Report with patient data viewed,BW IP LONGITUDINAL VITAL SIGNS AND WEIGHT,116,0.826772738827599,Chart Review
+20607.0,Storyboard viewed,OR Surgeon Day-of-Surgery Storyboard,886,0.822615674071841,NULL
+20607.0,Storyboard viewed,OB Labor Provider Storyboard,2676,0.822065415912204,NULL
+17008.0,Report with patient data viewed,Medication Order Report,11231,0.807623300287458,Chart Review
+17008.0,Report with patient data viewed,NICU Delivery Summary,73,0.79987555027008,Chart Review
+17008.0,Report with patient data viewed,Rx ordering instructions ciprofloxacin IV,215,0.799521182907952,Chart Review
+,Reporting Workbench report result viewed,,150,0.798671798441145,NULL
+17008.0,Report with patient data viewed,AN Record Report,474,0.791995738082461,Chart Review
+94023.0,Report viewed,ED Notes,208,0.791336616145239,Chart Review
+17457.0,Outside historical medications filed,,258,0.790060849189758,NULL
+32035.0,MyChart Admin Viewed,,144,0.781710583898756,NULL
+17008.0,Report with patient data viewed,Amb Encounter Summary with Link to Core Summary,142,0.781638252470228,Chart Review
+17008.0,Report with patient data viewed,PROBLEM DETAIL (RICH TEXT),143,0.776081585884094,Chart Review
+17008.0,Report with patient data viewed,IND Narrative/Impression Hover Bubble,62,0.76867678589291,Chart Review
+94023.0,Report viewed,ED Procedure Note,262,0.767902433077494,Chart Review
+17008.0,Report with patient data viewed,PUL Snapshot,166,0.7641027686331,Chart Review
+,Health Maintenance activity accessed,,120,0.762477718989054,NULL
+17008.0,Report with patient data viewed,AMB Appointment Report,371,0.762460587819417,Chart Review
+17008.0,Report with patient data viewed,IP ACP PATIENT REPORT,142,0.759513204627566,Chart Review
+17008.0,Report with patient data viewed,MR Recent Medication Actions,117,0.74950284216139,Chart Review
+17008.0,Report with patient data viewed,ED Storyboard Chief Complaint,100,0.747003274228837,Chart Review
+17227.0,Chart Review Note report viewed,Result QuickNote,377,0.74174369626575,Note Review
+17008.0,Report with patient data viewed,PSY Snapshot,102,0.733895876937442,Chart Review
+17259.0,Patient SnapShot viewed,AMB PEDIATRIC PATIENT SNAPSHOT (HTML/CSS),275,0.733280165195465,NULL
+94023.0,Report viewed,Op Note,74,0.728602896796332,Chart Review
+,Orders opened in an ordering activity from Active Guidelines,,304,0.725459285047319,NULL
+17008.0,Report with patient data viewed,AMB HISTORY: PEDS DEV RPT,128,0.721094921694861,Chart Review
+17233.0,Chart Review Media report viewed,MEDIA REPORT: MEDIA INFORMATION,576,0.720170819494459,NULL
+17008.0,Report with patient data viewed,BW AN PERF My Charges and Notes without Index,196,0.715596462620629,Chart Review
+17239.0,Note printed from Chart Review,Pre-Procedure Instructions,927,0.712701949013604,NULL
+17008.0,Report with patient data viewed,Rx TPN Labs Report for Navigator,385,0.707878359158833,Chart Review
+,Visit Navigator section added to navigator,,618,0.705767764780256,NULL
+17008.0,Report with patient data viewed,IP Patient Header Length of Stay - Discharged Patient,91,0.705750467777252,Chart Review
+17008.0,Report with patient data viewed,ED Storyboard Med Status Hover Bubble,138,0.702798442310757,Chart Review
+17008.0,Report with patient data viewed,AN PAT MU SMARTFORM REPORT,2005,0.700134583844078,Chart Review
+17008.0,Report with patient data viewed,RAD Imaging - Results Report 4,108,0.697548992633819,Chart Review
+17008.0,Report with patient data viewed,BW MR Meaningful Use Checklist,281,0.694676439232296,Chart Review
+17008.0,Report with patient data viewed,Rx ordering instructions daptomycin,199,0.694486606650882,Chart Review
+17905.0,SmartForm saved,,783,0.691012831264072,NULL
+17228.0,Chart Review Encounter report viewed,TXP Telephone Report,208,0.688833131260342,Chart Review
+17008.0,Report with patient data viewed,IP PATIENT CALENDAR,110,0.670295493602752,Chart Review
+17008.0,Report with patient data viewed,OR ALL OP NOTES,36,0.657549579408433,Chart Review
+17008.0,Report with patient data viewed,Result Data,84,0.656224976910485,Chart Review
+94023.0,Report viewed,CTO PATIENT SUMMARY WITH ROUNDING INFO,261,0.647746442688836,Chart Review
+17227.0,Chart Review Note report viewed,ECIN Note,220,0.645307733747694,Note Review
+17228.0,Chart Review Encounter report viewed,Encounter: Infusion,147,0.642017544640435,Chart Review
+94023.0,Report viewed,CTO PATIENT MEDICATIONS REPORT,56,0.635742602613237,Chart Review
+,Scheduling ticket created,,92,0.631147581736246,NULL
+15621.0,Patient Relationships subcomponent accessed,,1000,0.629217085043589,NULL
+17008.0,Report with patient data viewed,Rx colchicine ordering instructions,223,0.628805427816179,Chart Review
+94023.0,Report viewed,Medical Student,56,0.624796311325497,Chart Review
+17008.0,Report with patient data viewed,ADOLESCENT IP AVS,123,0.62384654548433,Chart Review
+17309.0,PasteBoard printed,,40,0.61770335012012,NULL
+17008.0,Report with patient data viewed,RX REQUEST PREVIOUS ORDER DETAILS REPORT,80,0.609544444613986,Chart Review
+17008.0,Report with patient data viewed,IP Physician Sidebar Treatment Team,100,0.608465791808234,Chart Review
+17008.0,Report with patient data viewed,Immunization Summary,107,0.604060982068379,Chart Review
+17239.0,Note printed from Chart Review,Discharge Summary,43,0.601420498689015,NULL
+17008.0,Report with patient data viewed,AMB Smarttext Prescription Elect Sig Ladder Style - Controlled Subst,155,0.593439405494266,Chart Review
+17008.0,Report with patient data viewed,ED Encounter Summary,660,0.589878164397345,Chart Review
+17008.0,Report with patient data viewed,IP Admission Review,259,0.589444354905022,Chart Review
+17008.0,Report with patient data viewed,BW RX PED ENOXAPARIN ADJUSTMENT GUIDANCE,140,0.585820302168528,Chart Review
+17008.0,Report with patient data viewed,Encounter: Conversation BW,171,0.582980926831563,Chart Review
+60006.0,View clinical note from copy previous,Telephone Encounter,489,0.581445668008592,NULL
+17227.0,Chart Review Note report viewed,Initial Assessments,75,0.581422211858961,Note Review
+17008.0,Report with patient data viewed,LAST VISIT NOTES HOVER BUBBLE,46,0.579076869752672,Chart Review
+17008.0,Report with patient data viewed,IP Clinical Overview,47,0.574495149188571,Chart Review
+17008.0,Report with patient data viewed,PHARMACY COVERAGE SUMMARY,92,0.572121647198994,Chart Review
+17228.0,Chart Review Encounter report viewed,REGISTRATION REPORT (HTML),204,0.568755678070916,Chart Review
+17330.0,Immunization record saved,,988,0.567786162164476,NULL
+17008.0,Report with patient data viewed,OB Newborn Delivery Report,158,0.567080193625556,Chart Review
+17008.0,Report with patient data viewed,MARK AS REVIEWED PAF HOVER BUBBLE REPORT,33,0.56338171561559,Chart Review
+17008.0,Report with patient data viewed,OB Feeding Plan Hover,77,0.538980900446573,Chart Review
+17008.0,Report with patient data viewed,ED Storyboard Disposition Hover Bubble,35,0.536303746700286,Chart Review
+60005.0,View clinical notes section,Progress Notes,123,0.533748665120866,Note Review
+17008.0,Report with patient data viewed,SPE Snapshot,91,0.531681927839915,Chart Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - Remdesivir,174,0.528892063299814,Chart Review
+,Visit Navigator Follow-Up section accepted,,88,0.528682148456573,NULL
+17008.0,Report with patient data viewed,LAB CHART REVIEW ORDERS REPORT - HYPERLINK,19830,0.522969128555721,Chart Review
+34162.0,Inpatient Patient Lists search,,10485,0.522564300431145,NULL
+,Reporting Workbench report printed,,52,0.52149515973197,NULL
+,Mobile patient Links accessed,,690,0.517799698246849,NULL
+,Inpatient Event Log activity accessed,,56,0.510071519480811,NULL
+17227.0,Chart Review Note report viewed,Pre-Sedation Documentation,156,0.50806410047743,Note Review
+,Vitals modified,,67,0.504347798029581,NULL
+17008.0,Report with patient data viewed,Orthopaedics Sidebar Report,193,0.502403242852952,Chart Review
+94023.0,Report viewed,HKU RESHANDOFF ROUNDING REPORT,42,0.500929635100894,Chart Review
+,Proxy Access Viewed,,55,0.4992340154118,NULL
+17008.0,Report with patient data viewed,IP Physician Checklist,147,0.494303637875451,Chart Review
+94023.0,Report viewed,OR HKU HP INTERVAL NOTE REPORT,52,0.490748168097602,Chart Review
+17008.0,Report with patient data viewed,AN Hover Bubble Report,77,0.489093872441185,Chart Review
+17008.0,Report with patient data viewed,ED Encounter: ED,115,0.488870539135403,Chart Review
+,OR Specimens form selected in Intra-op Navigator,,150,0.487959713141123,NULL
+17008.0,Report with patient data viewed,CV Echo Report,2833,0.487123413350847,Chart Review
+,Report with patient data printed,LAB CHART REVIEW ORDERS REPORT - HYPERLINK,338,0.484799202283223,NULL
+,Order printed from Chart Review,Chart Review: Condensed View For Labs Tab,1195,0.482759052117665,NULL
+,PDMP Review Source Accessed,,265,0.482218873235914,NULL
+17008.0,Report with patient data viewed,ZOOM PRESCHED VIDEO VISIT PROV INSTRUCTIONS,31,0.481510633627573,Chart Review
+17008.0,Report with patient data viewed,IP OT Overview,95,0.464523255030314,Chart Review
+17008.0,Report with patient data viewed,Rx ordering instructions ceftazidime,116,0.462240491973029,Chart Review
+,Detailed report viewed in Reporting Workbench,IP NOTE DETAILS (HTML),183,0.461324039300282,NULL
+17008.0,Report with patient data viewed,rx epoetin alfa-epbx retacrit split screen,179,0.456213131215837,Chart Review
+17239.0,Note printed from Chart Review,,37,0.450918637381659,NULL
+17008.0,Report with patient data viewed,PT Rehab Release,99,0.446649813122219,Chart Review
+60012.0,Clinical Note Signed,ED Re-evaluation Note,751,0.445502423180474,Note Entry
+17008.0,Report with patient data viewed,RESULTS HYPERLINK REPORT: LAB AND COLLECTION DATA (HTML),123,0.444222654766506,Chart Review
+17008.0,Report with patient data viewed,MR Storyboard Referring Provider Hover,44,0.440535357263353,Chart Review
+20607.0,Storyboard viewed,OB Postpartum Provider Storyboard,1194,0.438387540976206,NULL
+17008.0,Report with patient data viewed,Blood Type,74,0.432594830460018,Chart Review
+94023.0,Report viewed,Anesthesia Postprocedure Evaluation,86,0.429040256606207,Chart Review
+60005.0,View clinical notes section,H&P,218,0.425784411695268,Note Review
+,LOS form accessed from visit navigator,,50,0.416706617143419,NULL
+17008.0,Report with patient data viewed,ED Provider and Nursing Notes - Widget,66,0.415242076449924,Chart Review
+17008.0,Report with patient data viewed,Medication Dispense Details,21,0.415170522530873,Chart Review
+20075.0,Prelude Documents list accessed,,291,0.411358403629726,NULL
+17008.0,Report with patient data viewed,CE External Medication Audit History Sidebar,27,0.410382369889153,Chart Review
+17234.0,Chart Review Order report viewed,Chart Review: Condensed View For Labs Tab,2607,0.410181407928466,Chart Review
+,Report with patient data printed,AMB SMARTTEXT LAB REPORT - FUTURE,25,0.405022135840521,NULL
+17008.0,Report with patient data viewed,REGISTRATION REPORT (HTML),2196,0.400990135139889,Chart Review
+17008.0,Report with patient data viewed,ED History (Navigator),90,0.400515065193176,Chart Review
+94023.0,Report viewed,Anesthesia Procedure Notes,86,0.399347840150197,Chart Review
+17008.0,Report with patient data viewed,ORDER NO ADDITIONAL INFO MESSAGE,93,0.398663891686333,Chart Review
+17008.0,Report with patient data viewed,Adult IP Registered Dietitian Pat Sum/List,54,0.395774278905656,Chart Review
+17008.0,Report with patient data viewed,IP LAB MICROBIOLOGY REPORT,71,0.392887542777591,Chart Review
+17228.0,Chart Review Encounter report viewed,CAR Visit Summary: Anticoagulation Check,125,0.388318279584248,Chart Review
+17008.0,Report with patient data viewed,ED Storyboard Clinical Impressions Hover Bubble,32,0.378286854690975,Chart Review
+17227.0,Chart Review Note report viewed,Pre-Cardiac Catheterization Workup and H&P,79,0.375413568284776,Note Review
+17008.0,Report with patient data viewed,RX BJC REMS vigabatrin order instructions,94,0.374174813429514,Chart Review
+17008.0,Report with patient data viewed,Ped Kidney/Liver TXP Snapshot,73,0.368428131209479,Chart Review
+,Medication note saved,,34,0.367320528560214,NULL
+17008.0,Report with patient data viewed,IP TPN History,26,0.364468734264373,Chart Review
+17664.0,Synopsis activity accessed,ONC Synopsis Oncology Focused View,32,0.362055519156985,NULL
+17227.0,Chart Review Note report viewed,ED Triage Provider Note,86,0.355225208070543,Note Review
+17008.0,Report with patient data viewed,BW AN Difficult Airway Report,41,0.355223430262671,Chart Review
+17008.0,Report with patient data viewed,BJC ED DRUG HX - NAVIGATOR,95,0.350543449719746,Chart Review
+17008.0,Report with patient data viewed,IP NOTE DETAILS (HTML),233,0.350266901916927,Chart Review
+17008.0,Report with patient data viewed,ACP Code Status History Report,246,0.341840331554412,Chart Review
+,Visit Navigator SmartForm Flowsheet section accepted,,114,0.339775147702958,NULL
+,External Videoconference Connected,,25,0.330268204477098,NULL
+17008.0,Report with patient data viewed,IP Index Physician,135,0.329624162250094,Chart Review
+17008.0,Report with patient data viewed,ONCBCN Signed and Held Orders,116,0.328849646515316,Chart Review
+17008.0,Report with patient data viewed,MR ONC Treatment Plan Hoverbubble,30,0.326757343610127,Chart Review
+17228.0,Chart Review Encounter report viewed,PREP FOR SURGERY ENCOUNTER REPORT,108,0.325444646146562,Chart Review
+17008.0,Report with patient data viewed,AMB NEWBORN SNAPSHOT REPORT BW,32,0.31538404809104,Chart Review
+17008.0,Report with patient data viewed,AMB Last Specialty Note,47,0.314691596561008,Chart Review
+,Report with patient data printed,AMB SMARTTEXT REFERRAL REPORT,34,0.3136557536655,NULL
+17008.0,Report with patient data viewed,Rx ordering instructions ceftaroline,99,0.312934518390231,Chart Review
+20607.0,Storyboard viewed,ONC Outpatient Oncology Storyboard,632,0.312053826120164,NULL
+94023.0,Report viewed,CTO ORDER RESULTS,88,0.306844952636294,Chart Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - fidaxomicin and oral vanco,128,0.306221974690755,Chart Review
+60010.0,Pend clinical note,Significant Event,325,0.302147676679823,Note Entry
+17008.0,Report with patient data viewed,OR Perioperative Record,111,0.30139823993047,Chart Review
+,Analytics Catalog searched,,37,0.300735099580552,NULL
+17664.0,Synopsis activity accessed,AMB Synopsis Peds Timeline,5056,0.298291997114817,NULL
+17008.0,Report with patient data viewed,Rx ordering instructions levofloxacin,159,0.296260447767045,Chart Review
+,Report with patient data printed,MR Chart Review Labs - Condensed Results,78,0.293545861509111,NULL
+17008.0,Report with patient data viewed,CBO Encounter Summary,51,0.292214294539557,Chart Review
+17008.0,Report with patient data viewed,OB Baby Hover Information,140,0.292033148341708,Chart Review
+,iOS Screenshot Taken,,27,0.285583455032772,NULL
+,Discharge Instructions accepted,,17,0.284152182208167,Discharge
+60012.0,Clinical Note Signed,Procedures,368,0.281900655958387,Note Entry
+17008.0,Report with patient data viewed,BW IP ADD ON LABS,42,0.281465393702189,Chart Review
+17008.0,Report with patient data viewed,Rx Anticoagulation Monitoring,16,0.281372020244598,Chart Review
+,Patient infections viewed,,41,0.28057917382982,NULL
+17008.0,Report with patient data viewed,IP Facesheet,102,0.277454579406314,Chart Review
+17008.0,Report with patient data viewed,IP Care Plan and Patient Education,72,0.276265097988976,Chart Review
+,Annotated Images activity selected,,54,0.275191928280724,NULL
+17008.0,Report with patient data viewed,CV Echo Printable Result Report,68,0.273753861321343,Chart Review
+17008.0,Report with patient data viewed,BW Pathology Results,1810,0.272535992463429,Chart Review
+17259.0,Patient SnapShot viewed,CAR Snapshot,128,0.267969142860836,NULL
+17008.0,Report with patient data viewed,BW RX PED HEPARIN ADJUSTMENT GUIDANCE,63,0.267341256936391,Chart Review
+17008.0,Report with patient data viewed,IMG Result With Result History Hyperlink,54,0.265452414088778,Chart Review
+17259.0,Patient SnapShot viewed,AMB Patient Snapshot,1720,0.263291872342427,NULL
+17228.0,Chart Review Encounter report viewed,Outpatient Care Management Encounter Summary Report,129,0.263269623915354,Chart Review
+17227.0,Chart Review Note report viewed,ACP (Advance Care Planning),69,0.262729584376017,Note Review
+17008.0,Report with patient data viewed,IP Physician Sidebar History,25,0.262513959672715,Chart Review
+20607.0,Storyboard viewed,MR Pulmonology Storyboard,321,0.260480438073476,NULL
+15047.0,Patient Address subcomponent accessed,,5490,0.26015947845247,NULL
+,OR report viewed,OR PREOP/POSTOP DIAGNOSES,121,0.259425736003451,NULL
+17227.0,Chart Review Note report viewed,Committee Review,38,0.257347700595855,Note Review
+17008.0,Report with patient data viewed,REFERRAL SIDEBAR REPORT NPI,22,0.255705709722307,Chart Review
+17008.0,Report with patient data viewed,Rx ordering instructions hydroxychloroquine,92,0.254546428256564,Chart Review
+60012.0,Clinical Note Signed,ED Procedure Note,130,0.251754856374528,Note Entry
+17008.0,Report with patient data viewed,Rx BJC Split Screen - budesonide nebs,73,0.251158733367919,Chart Review
+60005.0,View clinical notes section,Anesthesia Preprocedure Evaluation,11,0.248904303444756,Note Review
+17008.0,Report with patient data viewed,RX ORDER DETAILS REPORT,17,0.24748635371526,Chart Review
+,Chart Review Episodes tab selected,,109,0.24474576473236,NULL
+17331.0,Immunization record deleted,,70,0.240415485170152,NULL
+,SmartSet accessed,,454,0.240120012760162,NULL
+17008.0,Report with patient data viewed,RX Antimicrobial Stewardship Scoring,57,0.239701551331414,Chart Review
+17239.0,Note printed from Chart Review,Consults,32,0.2396694694625,NULL
+,Detailed report viewed in Reporting Workbench,IP RW NOTE DETAILS (RICH TEXT),56,0.236456626256306,NULL
+17227.0,Chart Review Note report viewed,Lactation Note,77,0.23422768804762,Note Review
+17008.0,Report with patient data viewed,MEDS: MEDICATION SUMMARY V2 (HTML),58,0.233677582210964,Chart Review
+94023.0,Report viewed,Initial Assessments,19,0.233520692984263,Chart Review
+17008.0,Report with patient data viewed,IP ACP NOTES,211,0.231684398651123,Chart Review
+17227.0,Chart Review Note report viewed,Teleconsult,27,0.230381297005547,Note Review
+17008.0,Report with patient data viewed,IND Susceptibility Linear View,15,0.227345153755611,Chart Review
+,Cosign clinical note,Medical Student,262,0.227277638647291,NULL
+20607.0,Storyboard viewed,OR Surgeon Plan/Follow-Up Storyboard,371,0.225090736548105,NULL
+94015.0,Care Everywhere Documents viewed,,76,0.224478846920861,NULL
+17008.0,Report with patient data viewed,SCREENING: HEARING AND VISION (RICH TEXT),80,0.217794123490651,Chart Review
+20607.0,Storyboard viewed,RIS Radiologist Storyboard,104,0.216547752486334,NULL
+17008.0,Report with patient data viewed,Ophth Exam: Full Exam via Link,34,0.210405553446875,Chart Review
+17008.0,Report with patient data viewed,AMB PED CAR SNAPSHOT BW,37,0.210185241434309,Chart Review
+,Report with patient data printed,AMB Current Meds and Allergies,26,0.209064800209469,NULL
+,Report with patient data printed,Pathology Specimen Requisition - Reprint,24,0.20861112303204,NULL
+17008.0,Report with patient data viewed,rx dapagliflozin restrictions,54,0.206615703635745,Chart Review
+17227.0,Chart Review Note report viewed,L&D Delivery Note,30,0.199808378219604,Note Review
+17008.0,Report with patient data viewed,IP SINGLE TRANSFUSION SUMMARY DETAILS,121,0.199027098284827,Chart Review
+17008.0,Report with patient data viewed,OR Workspace Header: Surgeon hover report.,22,0.198815539942847,Chart Review
+,Order printed from Chart Review,BW Result Report: Lab Integrated Result Template,25,0.198271842532687,NULL
+17008.0,Report with patient data viewed,IP Physician Sidebar Problem List,21,0.196566557354397,Chart Review
+17008.0,Report with patient data viewed,ED SIDEBAR SEPSIS TRACKING CHECKLIST,31,0.195366621017456,Chart Review
+17008.0,Report with patient data viewed,RX TPN Orders,60,0.194157441986931,Chart Review
+17008.0,Report with patient data viewed,IP FLOWSHEET NOTES,29,0.194063683085971,Chart Review
+60008.0,View FastNote activity,Provider Query,936,0.193482369581858,NULL
+94031.0,Mobile patient dictation accessed,,100,0.192929933865865,NULL
+17008.0,Report with patient data viewed,ED Adolescent AVS,70,0.191615657541486,Chart Review
+94023.0,Report viewed,HKU HOV ENCOUNTER REPORT,52,0.191354337268405,Chart Review
+94023.0,Report viewed,AN Mobile Preprocedure Report,49,0.189685185220506,Chart Review
+17008.0,Report with patient data viewed,Results - Resulting Agency Information,35,0.189626792271932,Chart Review
+17008.0,Report with patient data viewed,Cerner Reference Lab Requisition Without Labels - Reprint,29,0.189248651663462,Chart Review
+24550.0,Patient Station accessed,,38701,0.18906090789371,NULL
+17008.0,Report with patient data viewed,Order Report - Consults,769,0.188529925346374,Chart Review
+94023.0,Report viewed,HKU QUEUED ORDER REPORT,34,0.186043317847781,Chart Review
+17008.0,Report with patient data viewed,CI CURRENTLY ACTIVE BP ADVISORIES DISPLAY,20,0.185890595383114,Chart Review
+72031.0,Care Everywhere outside encounter viewed,,111,0.185738031069437,NULL
+17008.0,Report with patient data viewed,rxamb Refill Encounter Review Report,33,0.18533621152242,Chart Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - Calcitonin injection,45,0.182263656987084,Chart Review
+17227.0,Chart Review Note report viewed,Post-Perfusion,15,0.182193965911865,Note Review
+,Chart Review Bookmarks tab selected,,75,0.178982111083136,NULL
+17008.0,Report with patient data viewed,AMB CAR SIDEBAR REPORT,47,0.178423063755035,Chart Review
+17008.0,Report with patient data viewed,ED REPRINT PRESCRIPTIONS,125,0.178305829366048,Chart Review
+17008.0,Report with patient data viewed,ACP History Report,228,0.172730534871419,Chart Review
+17008.0,Report with patient data viewed,BW Medication Dispense History - Controlled PDMP,137,0.172702173921797,Chart Review
+17008.0,Report with patient data viewed,OR SBAR Active Orders,25,0.172250174681345,Chart Review
+17008.0,Report with patient data viewed,ORDER REPORT (HTML),37,0.169778480264875,Chart Review
+,External Videoconference Disconnected,,25,0.167815687126583,NULL
+17008.0,Report with patient data viewed,IP Shift Assessment Adult,23,0.167757670349544,Chart Review
+17008.0,Report with patient data viewed,OT Rehab Release,67,0.16735430823432,Chart Review
+17008.0,Report with patient data viewed,Oph Sidebar Report,35,0.16630563656489,Chart Review
+17008.0,Report with patient data viewed,IP Patient Header Length of Stay - Expected Admit,31,0.166106375323401,Chart Review
+17008.0,Report with patient data viewed,MR Billing Report,16,0.165147244135538,Chart Review
+17008.0,Report with patient data viewed,BW Encounter: Orders Only with Scans,85,0.164298584196302,Chart Review
+17008.0,Report with patient data viewed,BW AN Timeline and Graph Report,8,0.163695445590549,Chart Review
+17008.0,Report with patient data viewed,Referral Status History,23,0.162093095249599,Chart Review
+17008.0,Report with patient data viewed,IP ORDMGT RELEASER,18,0.161824384795294,Chart Review
+17227.0,Chart Review Note report viewed,Research Note,30,0.160950341754489,Note Review
+60012.0,Clinical Note Signed,Consults,428,0.160798994435204,Note Entry
+17008.0,Report with patient data viewed,IP Orders Needing Second Sign,293,0.158825907442304,Chart Review
+17008.0,Report with patient data viewed,IP Sidebar Selected Labs Facesheet,36,0.155891054736243,Chart Review
+17239.0,Note printed from Chart Review,Medical Student,17,0.154543480078379,NULL
+17008.0,Report with patient data viewed,RESULT DETAIL REPORT,4621,0.153420308430989,Chart Review
+17008.0,Report with patient data viewed,ED Consults - Widget,25,0.152900190883212,Chart Review
+17008.0,Report with patient data viewed,IP NOTE REVISION HISTORY,9,0.152517815960778,Chart Review
+20607.0,Storyboard viewed,TXP Transplant Storyboard,23,0.150651236904992,NULL
+17008.0,Report with patient data viewed,RESULTS HYPERLINK REPORT: HISTORY OF ORDER RESULTS,29,0.14936027738783,Chart Review
+,Report with patient data printed,AMB SMARTTEXT RAD REPORT - FUTURE,8,0.147959869967566,NULL
+,Chart Review Misc Reports tab selected,,109,0.147214494281344,NULL
+,Detailed report viewed in Reporting Workbench,ED Encounter Summary,39,0.147131629255082,NULL
+,SmartText used,,9,0.146026382446289,NULL
+,Chief Complaint navigator section accessed,,18,0.145579773849911,NULL
+17008.0,Report with patient data viewed,Vertical Pt Header: Social Determinants of Health Hover Bubble,33,0.143575585418277,Chart Review
+17008.0,Report with patient data viewed,AMB SMARTTEXT REFERRAL REPORT,42,0.143218593597412,Chart Review
+17008.0,Report with patient data viewed,HP HEALTH MAINTENANCE IMM SCHED,16,0.140969887309604,Chart Review
+17008.0,Report with patient data viewed,ONCBCN Snapshot,59,0.138910098340776,Chart Review
+17008.0,Report with patient data viewed,CV PROCEDURE LOG,21,0.138746771812438,Chart Review
+60012.0,Clinical Note Signed,Provider Query,1280,0.13709052297804,Note Entry
+94001.0,Charges Overview report viewed,,43,0.136802917056613,NULL
+,Report with patient data printed,BW Result Report: Lab Integrated Result Template,7,0.136627462969885,NULL
+,Results Review printed,,6,0.133387286398145,NULL
+17008.0,Report with patient data viewed,IP NEURO RESULT REPORT CHART REVIEW,57,0.132050515545739,Chart Review
+17008.0,Report with patient data viewed,Active ED Familiar Faces Care Plans w/ Notes,11,0.13165050956938,Chart Review
+17008.0,Report with patient data viewed,SNAPSHOT: IMMUNIZATIONS (RICH TEXT),10,0.131416635778215,Chart Review
+17243.0,Demographics modified,,271,0.131292757193247,NULL
+17227.0,Chart Review Note report viewed,Patient Instructions,58,0.12826443168852,Note Review
+17008.0,Report with patient data viewed,RESULTS REPORT: LAB AND IMAGING,49,0.127929493851131,Chart Review
+,Report with patient data printed,ED Medical Necessity Form,50,0.126242174307505,NULL
+,Refill action taken from In Basket,,68,0.124915012518564,Inbox
+17239.0,Note printed from Chart Review,ED Provider Notes,6,0.124781632158491,NULL
+17008.0,Report with patient data viewed,BW RESULTS HYPERLINK REPORT: ORDER ROUTING,16,0.124706427521175,Chart Review
+17008.0,Report with patient data viewed,OB Labor Summary Report,24,0.123004665374755,Chart Review
+,OR Procedures form selected in Intra-op Navigator,,242,0.121112026903364,NULL
+,Patient Sidebar report accessed,Patient Sidebar Appointment Desk (w/o Visit Acct),40,0.120528535313076,NULL
+17008.0,Report with patient data viewed,Patient Header Allergies,16,0.119452996253967,Chart Review
+17008.0,Report with patient data viewed,MR All Results Report,16,0.117927662266625,Chart Review
+60008.0,View FastNote activity,ED Re-evaluation Note,197,0.117899088859558,NULL
+17200.0,Research Studies activity accessed,,45,0.117779821025,NULL
+17008.0,Report with patient data viewed,Nursing Fall Event Detail Report,51,0.117696368959214,Chart Review
+17008.0,Report with patient data viewed,Encounter: Outpatient with Procedure Summary,15,0.11611056751675,Chart Review
+,Canto login success,,149,0.115816530386606,NULL
+17008.0,Report with patient data viewed,Rx BJC Split Screen - Methylnaltexone SQ,52,0.115150808493296,Chart Review
+17008.0,Report with patient data viewed,SMARTFORM DEFAULT REPORT,69,0.115068651040395,Chart Review
+17008.0,Report with patient data viewed,IP Physician Sidebar Diet Orders,8,0.114976894590589,Chart Review
+17227.0,Chart Review Note report viewed,Admission Note,12,0.114168497191535,Note Review
+17008.0,Report with patient data viewed,OB Relevant Results Storyboard Hover,25,0.114119483894771,Chart Review
+15048.0,Patient Demographics subcomponent accessed,,5489,0.113752136760287,NULL
+17008.0,Report with patient data viewed,L & D Admission Encounter,44,0.112013575236002,Chart Review
+17218.0,Home Medications modified,,769,0.111428824795617,NULL
+17008.0,Report with patient data viewed,IP SINGLE FLOWSHEET - TIME RANGE (RICH TEXT),15,0.111238791942596,Chart Review
+,View Mobile Handoff List Activity,,34,0.108414706654018,NULL
+,Patient message sent,,99,0.108212254047393,NULL
+17228.0,Chart Review Encounter report viewed,HH Encounter Report,45,0.108132149643368,Chart Review
+17008.0,Report with patient data viewed,Encounter: Conversation,42,0.107998549143473,Chart Review
+17008.0,Report with patient data viewed,OR Log Case Info,38,0.106195081075032,Chart Review
+17008.0,Report with patient data viewed,MR Chart Review Labs - Condensed Results,82,0.106147730615403,Chart Review
+,OR report viewed,OR RTF CASELOG SUMMARY,7,0.102788171503278,NULL
+17008.0,Report with patient data viewed,rx tolvaptan ordering instructions,40,0.101636370023091,Chart Review
+,Implants edited in Patient Implants,,9,0.10131820069419,NULL
+17008.0,Report with patient data viewed,IP Full Treatment Team,14,0.100515284008449,Chart Review
+17008.0,Report with patient data viewed,Session Information - App Nametag,3,0.0999642870161268,Chart Review
+17008.0,Report with patient data viewed,IP Hemodialysis Treatment,16,0.0994102583991156,Chart Review
+17008.0,Report with patient data viewed,Nephrology Current Encounter,9,0.0989261293411254,Chart Review
+17008.0,Report with patient data viewed,MyChart - Questionnaire Data (Visit Navigator),15,0.0988493792215983,Chart Review
+17227.0,Chart Review Note report viewed,Treatment Plan,20,0.098738621075948,Note Review
+17234.0,Chart Review Order report viewed,OPH Result Report,23,0.0981176386939154,Chart Review
+94023.0,Report viewed,HKU IB CC CHARTS COMM MESSAGE REPORT,174,0.0961547634336683,Chart Review
+17008.0,Report with patient data viewed,IP Screenings Flowsheet,8,0.0961375517315334,Chart Review
+94023.0,Report viewed,Pre-Sedation Documentation,24,0.0957840792338053,Chart Review
+17008.0,Report with patient data viewed,AN Patient Summary,31,0.0955966117646959,Chart Review
+17008.0,Report with patient data viewed,RX PRESCRIPTION DETAILS REPORT,17,0.0925962816344367,Chart Review
+17008.0,Report with patient data viewed,OB Mom Baby Link,51,0.0921936241785685,Chart Review
+17008.0,Report with patient data viewed,Rx Mobile Pharmacy Summary,10,0.0921335691875881,Chart Review
+,Chief Complaint modified,,32,0.092121770646837,NULL
+17008.0,Report with patient data viewed,EpicView Report,21,0.0913287864791022,Chart Review
+60011.0,Save clinical note,,117,0.0901717297236124,NULL
+17228.0,Chart Review Encounter report viewed,TXP Encounter: Committee Review,7,0.0901426996125115,Chart Review
+17008.0,Report with patient data viewed,Img Screening Form Report,16,0.0887363007333543,Chart Review
+,Order printed from Chart Review,LAB CHART REVIEW ORDERS REPORT - HYPERLINK,42,0.0885809400346544,NULL
+17008.0,Report with patient data viewed,HSD Results Report: OR GI Procedure Performed,54,0.0878678290049235,Chart Review
+17008.0,Report with patient data viewed,IP UNRESULTED LABS SINCE ADMISSION,24,0.08743276781506,Chart Review
+60010.0,Pend clinical note,Procedures,76,0.0870993489689297,Note Entry
+17008.0,Report with patient data viewed,Therapy Plan Overview Report,25,0.0869931772020128,Chart Review
+17008.0,Report with patient data viewed,ED Medical Necessity Form,18,0.0867181873321533,Chart Review
+17008.0,Report with patient data viewed,MR All Orders Report,10,0.0859647003809611,Chart Review
+17008.0,Report with patient data viewed,IP NICU Maternal Report,15,0.0858442526393466,Chart Review
+17008.0,Report with patient data viewed,OB Newborn Overview,6,0.085595838493771,Chart Review
+17008.0,Report with patient data viewed,Rx ordering instructions bosentan,23,0.0855535025066799,Chart Review
+,Historical immunizations accessed,,13,0.0855360145039028,NULL
+17008.0,Report with patient data viewed,BW IP AVS - CONTROLLED SUBSTANCES,45,0.0853396293852064,Chart Review
+17008.0,Report with patient data viewed,BW Asthma Action Plan,24,0.0848258018493652,Chart Review
+,Report with patient data printed,IP Handoff Report,10,0.0841580997573004,NULL
+,Progress Notes navigator section accessed,,8,0.0839260707961188,NULL
+,Report with patient data printed,Cerner Reference Lab Requisition Without Labels - Reprint,16,0.0826904551188151,NULL
+,Communication sent,,516,0.0819880602094862,NULL
+17008.0,Report with patient data viewed,Hospice Episode Report,3,0.08170061217414,Chart Review
+17008.0,Report with patient data viewed,AMB MR AFTER VISIT SUMMARY,12,0.0815421091185675,Chart Review
+,Report with patient data printed,AMB THERAPY ORDER REPORT,2,0.0813291788101196,NULL
+17008.0,Report with patient data viewed,ED Orders to Cosign - Physician,20,0.0805108115408155,Chart Review
+17008.0,Report with patient data viewed,OR/INV Storyboard Procedure Pass Summary Hover,14,0.0801276654667324,Chart Review
+17008.0,Report with patient data viewed,Rx ordering instructions clozapine,38,0.0799915011723836,Chart Review
+17227.0,Chart Review Note report viewed,Incidental Note,31,0.0799398363961113,Note Review
+17008.0,Report with patient data viewed,IP Flowsheet Hyperlinks,21,0.0798794203334384,Chart Review
+60005.0,View clinical notes section,Procedures,60,0.0790003760655721,Note Review
+17227.0,Chart Review Note report viewed,Admission/Discharge,2,0.07884397427241,Note Review
+,Break-the-Glass canceled,,22,0.0788370622528923,NULL
+17008.0,Report with patient data viewed,IP Order Requisition Nursing Orders,11,0.078646608988444,Chart Review
+17259.0,Patient SnapShot viewed,Ped Kidney/Liver TXP Snapshot,6,0.0784380992253621,NULL
+,Report with patient data printed,BW IP ADD ON LABS,12,0.0783062341478135,NULL
+17008.0,Report with patient data viewed,BW ED DISCHARGE ORDERS,29,0.0782571877373589,Chart Review
+17008.0,Report with patient data viewed,MR HEALTH MAINTENANCE SUMMARY,2,0.0778425449795193,Chart Review
+17008.0,Report with patient data viewed,BW ED AVS Additional Print Outs - Opioid Education,46,0.0774094385570949,Chart Review
+17008.0,Report with patient data viewed,IP NICU Clinical Overview,9,0.076922091907925,Chart Review
+17227.0,Chart Review Note report viewed,Psych,13,0.0765174603462219,Note Review
+20607.0,Storyboard viewed,ORTHO Orthopaedics Storyboard,248,0.0765014902750651,NULL
+17008.0,Report with patient data viewed,BW RESULT NOTE REPORT,28,0.076500273545583,Chart Review
+94023.0,Report viewed,ED Canto Provider Note,18,0.0760219987233479,Chart Review
+17008.0,Report with patient data viewed,IP Case Manager Facesheet,13,0.0758898901939392,Chart Review
+,Report with patient data printed,Order Report,10,0.0749975554148356,NULL
+17008.0,Report with patient data viewed,Rx BJC Split Screen - Difluprednate ophthalmic,8,0.0735093368424309,Chart Review
+94023.0,Report viewed,HKU RX REQUEST MSG DETAILS RPT,3,0.0734912119971381,Chart Review
+,SmartForm canceled,,26,0.0728514705763922,NULL
+17259.0,Patient SnapShot viewed,PSY Snapshot,6,0.0728128735224405,NULL
+,Report with patient data printed,BW IMAGING REPORT HYPERLINK - DYNAMIC,5,0.0721388787693447,NULL
+,Result entry accessed,,10,0.0720747939745585,NULL
+17008.0,Report with patient data viewed,MYCHART - WMG CONTENT REPORT(HTML),8,0.0720057498084174,Chart Review
+60006.0,View clinical note from copy previous,H&P,9,0.0718438061078389,NULL
+17625.0,FYI activity accessed,,69,0.0716586253378126,NULL
+17008.0,Report with patient data viewed,OR Workspace Header: Procedures hover report,12,0.0714118621084425,Chart Review
+,Bookmark Modified,,68,0.0713662966092427,NULL
+,In Basket message printed,,4,0.0713168329662746,Inbox
+60010.0,Pend clinical note,Pre-Procedure Instructions,125,0.070766589641571,Note Entry
+94023.0,Report viewed,CTO HANDOFF REPORT,10,0.0705820549858941,Chart Review
+,Patient-reported medication created,,98,0.0693981313705444,NULL
+60006.0,View clinical note from copy previous,,24,0.0693269729614257,NULL
+17007.0,Report viewed for an order,MR Meds Adherence Details,17,0.0691216198603312,Note Review
+17259.0,Patient SnapShot viewed,Orthopaedics SnapShot,7,0.0690229773521423,NULL
+17008.0,Report with patient data viewed,OR INTRA-OP NURSING RECORD,10,0.0677443226178487,Chart Review
+17664.0,Synopsis activity accessed,ONCBCN Synopsis Labs - Tumor Markers,10,0.0674400639533996,NULL
+,Immunization or allergy information accessed,,8,0.0672801934348212,NULL
+17008.0,Report with patient data viewed,NEU Snapshot,8,0.0671215176582336,Chart Review
+17008.0,Report with patient data viewed,AMB SMARTTEXT LAB REPORT - FUTURE,30,0.0668590715196397,Chart Review
+17227.0,Chart Review Note report viewed,ED SANE Note,2,0.0659372321764628,Note Review
+17008.0,Report with patient data viewed,MR All Other Notes Report,24,0.0657852713267008,Chart Review
+17279.0,Chart Search result report opened,,973,0.0652375825246175,NULL
+17008.0,Report with patient data viewed,IP Physician Sidebar Checklist,14,0.0636215861638387,Chart Review
+17227.0,Chart Review Note report viewed,ED Observation Provider Note,31,0.0634388258722093,Note Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - LEVALBUTEROL NEBS,8,0.0631808074315389,Chart Review
+17227.0,Chart Review Note report viewed,E-Visit Note,16,0.0631576577822367,Note Review
+,Report with patient data printed,IP Sidebar Physician Index,18,0.0630319831106397,NULL
+17234.0,Chart Review Order report viewed,CV PV Report,20,0.0627820261319478,Results Review
+17008.0,Report with patient data viewed,IP Hospital Course Note Audit History,34,0.0627664444181654,Chart Review
+17008.0,Report with patient data viewed,IND Susceptibility Grid Hover Bubble,4,0.0616079319847954,Chart Review
+,OR report viewed,CV PROCEDURE LOG,16,0.060910694334241997,NULL
+17008.0,Report with patient data viewed,Rx TPN Medication Report for Navigator,17,0.0606689029269748,Chart Review
+17008.0,Report with patient data viewed,CV Cardiac Services Printable Result Report,12,0.0606223524941338,Chart Review
+20607.0,Storyboard viewed,CV Cardiology Procedural Storyboard,39,0.0605752385987175,NULL
+94023.0,Report viewed,AN Mobile Handoff Report,1,0.0604129698541429,Chart Review
+17008.0,Report with patient data viewed,REG COMMUNICATION PREFERENCES CONTACT INFORMATION,15,0.0594141538937886,Chart Review
+17008.0,Report with patient data viewed,BW CV TEE EVENT TIMELINE,5,0.0592271444532606,Chart Review
+,Report with patient data printed,ED Against Medical Advice Form,12,0.0589708765347798,NULL
+17008.0,Report with patient data viewed,BW AVS - COVID-19 DISCHARGE INSTRUCTIONS,29,0.0585712173249986,Chart Review
+17008.0,Report with patient data viewed,NEU PEDS Snapshot,7,0.058256066110399,Chart Review
+17008.0,Report with patient data viewed,PFT Orders Report,7,0.0579419109556409,Chart Review
+17008.0,Report with patient data viewed,Rx Zostavax Varivax ordering instructions,16,0.0575893916024102,Chart Review
+,Order printed from Chart Review,Medication Order Report,9,0.0573433571391635,NULL
+,LDA Avatar accessed,,10,0.0560262844297621,NULL
+17008.0,Report with patient data viewed,IP Summary of Care Document,11,0.0549897559483846,Chart Review
+94023.0,Report viewed,HKU IB RX REQUEST ORDER DETAILS,6,0.0549818160798814,Chart Review
+17008.0,Report with patient data viewed,AMB Letter Report: Encounter,2,0.0548172566625807,Chart Review
+17008.0,Report with patient data viewed,MyChart - PRO Data (Visit Navigator),65,0.0543317445119222,Chart Review
+17008.0,Report with patient data viewed,RIS Snapshot,38,0.0542853977945115,Chart Review
+17008.0,Report with patient data viewed,Accordion Legend,7,0.0541952951749165,Chart Review
+,Medication long-term status modified,,669,0.0540496910942925,NULL
+17259.0,Patient SnapShot viewed,BW AMB END SOGI SNAPSHOT,27,0.0538429358270433,NULL
+20607.0,Storyboard viewed,Patient Access No Encounter Storyboard,36,0.0531173329883151,NULL
+17008.0,Report with patient data viewed,bw ip signed and held orders hyperlink report,9,0.0526940443780687,Chart Review
+,Report with patient data printed,FS AMB ORDER REPORT HYPERLINK - DYNAMIC,13,0.0524273994233873,NULL
+17008.0,Report with patient data viewed,ONCBCN Treatment Plan Springboard,9,0.0520743152830335,Chart Review
+,MyNote opened,,20,0.0520591857698228,NULL
+17008.0,Report with patient data viewed,Rx BJC Split Screen - vedolizumab,14,0.0514740308125813,Chart Review
+17008.0,Report with patient data viewed,EMR PRINT IP NOTE DETAILS,10,0.051407926082611,Chart Review
+17626.0,FYI activity exited,,69,0.050893485546112,NULL
+17008.0,Report with patient data viewed,OB L&D Postpartum,17,0.0508264962832133,Chart Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - Papillomavirus 9-valent vaccine,42,0.0502762757407294,Chart Review
+17008.0,Report with patient data viewed,HIM DT All Orders Wrapper Report,3,0.0502366142802768,Chart Review
+17008.0,Report with patient data viewed,OB GA/EDD STORYBOARD HOVER,22,0.0502124087015787,Chart Review
+,Encounter printed from Chart Review,Amb Encounter Summary with Link to Core Summary,4,0.0500727179315355,NULL
+17379.0,Chart Search result preview report viewed,,4862,0.0496067608727349,NULL
+,Order printed from Chart Review,Amb/IP Result Report v2: Lab and Imaging,4,0.0491894870334201,NULL
+17227.0,Chart Review Note report viewed,Subjective & Objective,30,0.0491349856058756,Note Review
+17008.0,Report with patient data viewed,Encounter: History Report,20,0.0489689262708028,Chart Review
+17008.0,Report with patient data viewed,Social Determinants of Health,14,0.0488710186216566,Chart Review
+17008.0,Report with patient data viewed,Encounter: Outpatient,11,0.0481846268971761,Chart Review
+,Report with patient data printed,RX PRESCRIPTION DETAILS REPORT,4,0.0479601732889811,NULL
+17008.0,Report with patient data viewed,MR All Med Admins Report,10,0.0477643513679504,Chart Review
+17259.0,Patient SnapShot viewed,SPE Snapshot,29,0.0477340618769327,NULL
+17008.0,Report with patient data viewed,PAIN Snapshot,15,0.0477224244011773,Chart Review
+17008.0,Report with patient data viewed,Rx ordering instructions ceftazidime-avibactam,27,0.0473447012901306,Chart Review
+94023.0,Report viewed,HKU IB CC CHARTS MESSAGE REPORT,292,0.0467603762944539,Chart Review
+17008.0,Report with patient data viewed,ONCBCN Sidebar Snapshot,25,0.0467117137379116,Chart Review
+17008.0,Report with patient data viewed,BW IP Physician Sidebar Wound Care Orders,15,0.0465090168846978,Chart Review
+,OB and Lactation Status accessed,,164,0.0464698150422838,NULL
+,Narrator Event Log accessed,,19,0.0462404656410217,NULL
+17008.0,Report with patient data viewed,OP NOTE REPORT,11,0.0460410375065273,Chart Review
+17008.0,Report with patient data viewed,Resulting agency 299 Reprint - Inpatient,4,0.0458679628372192,Chart Review
+17008.0,Report with patient data viewed,IP Clinical Index,28,0.0457193319002787,Chart Review
+17008.0,Report with patient data viewed,SNAPSHOT: PROBLEM DETAIL (RICH TEXT),15,0.0456170762909783,Chart Review
+17008.0,Report with patient data viewed,IP Sidebar Admission Report,6,0.0452800236807929,Chart Review
+17008.0,Report with patient data viewed,IP Hospital Course Note,3,0.0449700119760301,Chart Review
+17008.0,Report with patient data viewed,RESULTS: CONCISE VISIT ORDER RESULT SUMMARY (HTML),10,0.0449175749884711,Chart Review
+17008.0,Report with patient data viewed,MR ALL ENCOUNTER RESULTS,5,0.0449131602711147,Chart Review
+17008.0,Report with patient data viewed,IP Nonviolent Restraints Daily Report For RWB (Rich Text),2,0.044732268916236,Chart Review
+34005.0,Notes viewed,Notes Navigator Display,6,0.0444300598568386,Note Review
+17259.0,Patient SnapShot viewed,IP Pain Management,1,0.0441691904597812,NULL
+17008.0,Report with patient data viewed,ONCBCN Treatment Plan Springboard - Current Day,7,0.0438492899470859,Chart Review
+17246.0,Chart Review LDA tab selected,,43,0.0437733923064337,NULL
+,Chart Review LDA report viewed,IP/AMB LDA HISTORY REPORT,6,0.0435706877708435,NULL
+20607.0,Storyboard viewed,Patient Access Appointment Storyboard,9,0.0433423217137654,NULL
+,Report with patient data printed,IMG Result With Result History Hyperlink,3,0.04304646147622,NULL
+17008.0,Report with patient data viewed,IP NICU Nutrition,1,0.0430105031861199,Chart Review
+,Canto Problem List activity accessed,,12,0.0424071388774448,NULL
+17008.0,Report with patient data viewed,Rx BJC Split Screen - nebivolol,25,0.0423537789450751,Chart Review
+17008.0,Report with patient data viewed,IP Sidebar Signed and Held Orders,1,0.0419602002037896,Chart Review
+17008.0,Report with patient data viewed,OB Encounter: Outpatient with Link to Core Summary,2,0.0415967935985989,Chart Review
+17008.0,Report with patient data viewed,AN Airway Details,6,0.0414245173666212,Chart Review
+,Charge Capture section accepted,,19,0.0408411428663465,NULL
+,Document entry aborted,,4,0.0407393179999457,NULL
+,Authorization forms printed from Request Outside Records,,3,0.0406753269831339,NULL
+,Order printed from Chart Review,RAD Results Report,5,0.0403401104609171,NULL
+17008.0,Report with patient data viewed,AN PACU Report Pop-up,2,0.040265027946896,Chart Review
+17227.0,Chart Review Note report viewed,Anesthesia Post-op Follow-up Note,7,0.0402169982592264,Note Review
+17008.0,Report with patient data viewed,IP Physician My Charges and Notes,4,0.0396328820122612,Chart Review
+17008.0,Report with patient data viewed,OR Pre-op Nursing Report,4,0.0395820996496412,Chart Review
+17008.0,Report with patient data viewed,IP Patient Reminder Lists,33,0.0395329682032267,Chart Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - palonosetron,6,0.0394351988368564,Chart Review
+17008.0,Report with patient data viewed,OB Labor Progress,4,0.0393002173635694,Chart Review
+17259.0,Patient SnapShot viewed,BW IP LONGITUDINAL VITAL SIGNS AND WEIGHT,4,0.0392447736528184,NULL
+,Report with patient data printed,IP Vitals Patient List,12,0.0389302290810479,NULL
+,Order printed from Chart Review,CV Echo Report,7,0.0388010549545288,NULL
+17664.0,Synopsis activity accessed,Vitals-Related Synopsis View,5,0.0382888682683308,NULL
+17008.0,Report with patient data viewed,RX MED RECONCILIATION ADMISSION WITH VCN,6,0.0378852960798475,Chart Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - meningococcal B vaccine (Bexsero),18,0.0378374393781026,Chart Review
+,Report with patient data printed,IP 72h I/O,2,0.0378330667813619,NULL
+17008.0,Report with patient data viewed,CV Stress Echo Printable Result Report,8,0.03748983780543,Chart Review
+17008.0,Report with patient data viewed,CV Cardiac Services Report,134,0.037213569217258,Chart Review
+,Report with patient data printed,RAD Results Report,3,0.0371247500843472,NULL
+17008.0,Report with patient data viewed,Rx BJC Split Screen - Tobramycin/Dexamethasone Ophth,16,0.0359325541390313,Chart Review
+,Encounter printed from Chart Review,Report Redirector,4,0.0357236562834845,NULL
+17008.0,Report with patient data viewed,ONC CANCER STAGING HOVER BUBBLE,9,0.0353055850664774,Chart Review
+,Report Viewer Printed,,1,0.0348869506518046,NULL
+,Report with patient data printed,ED Orders - Sidebar Report,6,0.0348475935724046,NULL
+17008.0,Report with patient data viewed,OB OVERVIEW AND PLAN STORYBOARD HOVER,13,0.0347347937689887,Chart Review
+17259.0,Patient SnapShot viewed,ONCBCN Sidebar Snapshot,13,0.0342632844712999,NULL
+,Active Guidelines is launched,,566,0.0341995029979282,NULL
+17008.0,Report with patient data viewed,rx trikafta restrictions,18,0.0335365279515584,Chart Review
+17008.0,Report with patient data viewed,Rx ordering instructions oseltamivir,16,0.0332567630873786,Chart Review
+17008.0,Report with patient data viewed,Rx PS ADT Events,14,0.0319520656267801,Chart Review
+60006.0,View clinical note from copy previous,Significant Event,16,0.0319054881731669,NULL
+,Encounter printed from Chart Review,AMB Letter Report: Encounter,5,0.0318203960524665,NULL
+,Report with patient data printed,IP NURSE SNAPSHOT (RICH TEXT),35,0.0316976224051581,NULL
+,Cancer stage viewed,,4,0.0316041342417399,NULL
+17227.0,Chart Review Note report viewed,Patient Care Conference,4,0.0314430258009168,Note Review
+17008.0,Report with patient data viewed,BW IP ADMISSION DOCUMENTATION ,6,0.0312917489475674,Chart Review
+17259.0,Patient SnapShot viewed,IP Weights,14,0.0312321840392218,NULL
+17008.0,Report with patient data viewed,TXP Encounter: Committee Review,1,0.0308889881769816,Chart Review
+17259.0,Patient SnapShot viewed,AN Patient Summary,21,0.0307644979159037,NULL
+17008.0,Report with patient data viewed,ONCBCN Sickle Cell Pain Plan,1,0.0306787003411187,Chart Review
+94023.0,Report viewed,CTO ENC - THIS VISIT,21,0.0304042069117228,Chart Review
+,Patient Events Log viewed,,4,0.0303209604157341,NULL
+,BI View Epic-Crystal/WebI Report,,1,0.0302749964925977,NULL
+17008.0,Report with patient data viewed,MyChart - Patient Message Review Report,20,0.029737279150221,Chart Review
+17664.0,Synopsis activity accessed,ONCBCN Synopsis Oncology Navigator,221,0.0296623139911227,NULL
+,New hospital account created,,2,0.0295024477110968,NULL
+17008.0,Report with patient data viewed,IP Order Reconciliation History,9,0.0294317256079779,Chart Review
+17008.0,Report with patient data viewed,RX Return Action Summary,8,0.0293249379263983,Chart Review
+17008.0,Report with patient data viewed,IP Rad 72h,10,0.0289002354939778,Chart Review
+,Patient-reported medication modified,,16,0.0288770254453023,NULL
+17008.0,Report with patient data viewed,MR ONC TREATMENT PLAN SPRINGBOARD (RICH TEXT),3,0.0282826381259494,Chart Review
+17008.0,Report with patient data viewed,BW ED AVS Stop the Spread of Germs,23,0.0278607069121466,Chart Review
+17008.0,Report with patient data viewed,Therapy Plan Order Change Tracking,2,0.0278185253673129,Chart Review
+,Communication set to send upon sign visit,,16,0.0275291646851433,NULL
+94023.0,Report viewed,CTO OP ENCOUNTER REPORT,22,0.0269522661632961,Chart Review
+17008.0,Report with patient data viewed,IP ALERTS OVERRIDE HISTORY REPORT,1,0.0268429941601223,Chart Review
+94023.0,Report viewed,HKU External Info,2,0.0267001141442192,Chart Review
+17008.0,Report with patient data viewed,CV Cardiac Cath Printable Result Report,4,0.026597946219974,Chart Review
+17008.0,Report with patient data viewed,AN OR Log Detail,1,0.026516838868459,Chart Review
+17008.0,Report with patient data viewed,RX CURRENT INGREDIENTS,3,0.0262618295351664,Chart Review
+17008.0,Report with patient data viewed,Pathology Specimen Requisition - Reprint,23,0.0260475508371988,Chart Review
+,Siri speech to text used,,5,0.0259887708557976,NULL
+,Haiku login failure,,8,0.0258717785941229,NULL
+,Chart Review Miscellaneous report viewed,MyChart - Patient Message Review Report,6,0.0257858300209045,NULL
+17228.0,Chart Review Encounter report viewed,OB Encounter: Outpatient with Link to Core Summary,8,0.0257286643981933,Chart Review
+,Report with patient data printed,CV Echo Report,2,0.0256801538997226,NULL
+17008.0,Report with patient data viewed,CHART CORRECTION NOTES REPORT,4,0.0255490358670552,Chart Review
+20607.0,Storyboard viewed,CV Invasive Cardiology Physician Storyboard,9,0.0255333672629462,NULL
+17259.0,Patient SnapShot viewed,PED RHU SNAPSHOT BW,17,0.025527799129486,NULL
+,WP_MYCHART_ADMINISTRATION,,18,0.0254065738783942,NULL
+,Order History Activity accessed,,11,0.0254009654786851,NULL
+17008.0,Report with patient data viewed,SNAPSHOT: HEALTH MAINTENANCE (RICH TEXT),6,0.0253209474351671,Chart Review
+17008.0,Report with patient data viewed,ONCBCN Infusion Times Report,3,0.0249741175439622,Chart Review
+,Result note filed,,134,0.0248401390181647,NULL
+17008.0,Report with patient data viewed,GI Snapshot,2,0.0248129137357076,Chart Review
+17008.0,Report with patient data viewed,IP FLOWSHEET - TIME INTERVAL HYPERLINKS (RICH TEXT),14,0.0245319398244222,Chart Review
+17228.0,Chart Review Encounter report viewed,ED Familiar Faces Encounter Summary Report,7,0.0245019337866041,Chart Review
+17259.0,Patient SnapShot viewed,IP Vitals,18,0.0244550858603583,NULL
+17008.0,Report with patient data viewed,Rx BJC Split Screen - Ustekinumab,6,0.024454022248586,Chart Review
+17008.0,Report with patient data viewed,BW IMAGING REPORT HYPERLINK - DYNAMIC,11201,0.0243735093540615,Chart Review
+17008.0,Report with patient data viewed,IP IFT Status,5,0.0242717586623297,Chart Review
+,Clinical Note viewed,,3,0.0241459512710571,NULL
+17228.0,Chart Review Encounter report viewed,ACO TOC Patient Outreach Summary Report,7,0.0239708844820658,Chart Review
+,Report with patient data printed,Resulting agency 299 Reprint - Inpatient,1,0.0237748429510328,NULL
+17008.0,Report with patient data viewed,ONCBCN Facesheet,1,0.0236587177382575,Chart Review
+17239.0,Note printed from Chart Review,Significant Event,6,0.0236235258314344,NULL
+19040.0,Patient Lookup search,,8809,0.023441064092848,NULL
+17008.0,Report with patient data viewed,Notes: Notes Revision And Routing Report,10,0.0234406987826029,Chart Review
+17008.0,Report with patient data viewed,PATIENT CARE COORDINATION NOTE (STYLED),1,0.023365097840627,Chart Review
+17008.0,Report with patient data viewed,rx tpn navigator prospective calorie/fluid management,17,0.0231246794594658,Chart Review
+,OB and Lactation Status accepted,,25,0.0229965991444057,NULL
+17008.0,Report with patient data viewed,PREP FOR SURGERY ENCOUNTER REPORT,6,0.0226360654830932,Chart Review
+17008.0,Report with patient data viewed,MR Synopsis Report (Rich Text),11,0.0226274646653069,Chart Review
+17008.0,Report with patient data viewed,IP Sedation Review,2,0.0225540357165866,Chart Review
+17259.0,Patient SnapShot viewed,IP Comprehensive Flowsheet,9,0.0224112176895141,NULL
+,Detailed report viewed in Reporting Workbench,IP LDA Active and Removed,1,0.0222032729784647,NULL
+17008.0,Report with patient data viewed,IP Physician My Charges and Notes Sidebar Report,13,0.0221559108628167,Chart Review
+,Patient incapacity status changed,,3,0.0220577377743191,NULL
+17008.0,Report with patient data viewed,VIDEO VISIT - QUESTIONNAIRE RESPONSE (VISIT NAVIGATOR),27,0.0219930744171142,Chart Review
+17008.0,Report with patient data viewed,HIM DT Doc Review Discharge Report,44,0.0218956658575269,Chart Review
+17008.0,Report with patient data viewed,IP Patient Is Admitted Navigator Text,7,0.0217418339517381,Chart Review
+,OR report viewed,TXP OR Sidebar for Organ Note,4,0.0216525141398112,NULL
+17008.0,Report with patient data viewed,IP Code Narrator Documentation Timeline,5,0.0215929052564832,Chart Review
+17008.0,Report with patient data viewed,RESULTS HYPERLINK REPORT: ORDER ROUTING (HTML),6,0.0215762276119656,Chart Review
+17008.0,Report with patient data viewed,BW ED Finish Up Fast (Track Board),9,0.0214536624484592,Chart Review
+17008.0,Report with patient data viewed,ED Excuses Report (Rich Text),13,0.0212766371832953,Chart Review
+,Order Canceled from Note,,45,0.0212404055065578,NULL
+,Visit Navigator Flowsheet section accepted,,4,0.0212399458885192,NULL
+55006.0,Treatment plan accessed,,36,0.0211601826879713,NULL
+,Flowsheet data copied forward,,90,0.0209490007824367,NULL
+17008.0,Report with patient data viewed,IP DIAGNOSTIC ORDERS REPORT,9,0.0208236773808797,Chart Review
+17008.0,Report with patient data viewed,IP Intake/Output Rounding Navigator,4,0.0205831281344095,Chart Review
+17008.0,Report with patient data viewed,TXP Episode Report,2,0.0204390597343444,Chart Review
+17008.0,Report with patient data viewed,CAR Visit Summary: Anticoagulation Check,1,0.0202518158488803,Chart Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - semaglutide,3,0.0199896142217848,Chart Review
+,Chart Review Miscellaneous report viewed,ONCBCN Snapshot,7,0.019951418240865,NULL
+17259.0,Patient SnapShot viewed,MARK AS REVIEWED PAF POPUP REPORT,4,0.019867029984792,NULL
+17664.0,Synopsis activity accessed,CV Synopsis,9,0.0197095417976379,NULL
+17008.0,Report with patient data viewed,BJCWU ONCBCN Index Report Current Day,4,0.0195939286549886,Chart Review
+17008.0,Report with patient data viewed,TXP Patient Checklist Tasks,2,0.0194804824723137,Chart Review
+60005.0,View clinical notes section,Brief Op Note,3,0.0194075507587856,Note Review
+94023.0,Report viewed,HKU IB CC CHARTS CR ENCOUNTERS REPORT,71,0.0192819730440775,Chart Review
+17008.0,Report with patient data viewed,IP NICU PHYSICIAN INDEX,6,0.0189810209804111,Chart Review
+17008.0,Report with patient data viewed,Pathology Dermpath Requisition - Reprint,1,0.0188629261652628,Chart Review
+,Referral Sidebar activity viewed,,22,0.0187580635812547,NULL
+,Document Information form accessed,,11,0.0187454973326789,NULL
+17008.0,Report with patient data viewed,Rx Clinical Overview - general,14,0.0186774161126878,Chart Review
+94023.0,Report viewed,CTO HOV ENCOUNTER REPORT,3,0.0185003076659308,Chart Review
+17008.0,Report with patient data viewed,BW AN AN Resident Report,1,0.0184333512518141,Chart Review
+17008.0,Report with patient data viewed,TXP UNOS Patient Status History,53,0.0184098490079244,Chart Review
+,ED Visit Navigator Arrival section accessed,,381,0.0184031573931376,NULL
+17234.0,Chart Review Order report viewed,Order Report - Consults,5,0.0183750043974982,Chart Review
+17008.0,Report with patient data viewed,Encounter: All Flowsheets,7,0.0182985541555616,Chart Review
+17008.0,Report with patient data viewed,Order Transmittal Tracking Report,4,0.0182438053025139,Chart Review
+17008.0,Report with patient data viewed,IP Interactions,3,0.0181343131595187,Chart Review
+,Report with patient data printed,Medication Order Report,5,0.0181034347746107,NULL
+17008.0,Report with patient data viewed,RX concentrated insulin U 500 warning,7,0.0179473127259148,Chart Review
+17008.0,Report with patient data viewed,IP Sidebar Diagnosis Smartphrases Help Text,3,0.0178639316558837,Chart Review
+60010.0,Pend clinical note,Patient Instructions,45,0.017371810277303,Note Entry
+,Chart Review Episode report viewed,BJCWU ONCBCN THERAPY PLAN OVERVIEW REPORT,3,0.0173496455616421,NULL
+17259.0,Patient SnapShot viewed,BW AMB GI Snapshot,14,0.0170095181465148,NULL
+17008.0,Report with patient data viewed,IP Respiratory Data,3,0.0168370864126417,Chart Review
+,Quick Communication recipient removed,,4,0.0164491372638278,NULL
+17008.0,Report with patient data viewed,TELEPHONE HYPERLINK REPORT: PHARMACY DETAIL (HTML),1,0.0163108468055725,Chart Review
+,Order printed from Chart Review,FS AMB ORDER REPORT HYPERLINK - DYNAMIC,1,0.016299209329817,NULL
+17360.0,Reconcile Outside Information accessed,Medication Dispense History,1,0.0161287930276658,NULL
+17228.0,Chart Review Encounter report viewed,ACO Complex Care Patient Outreach Summary Report,1,0.0160743469662136,Chart Review
+17259.0,Patient SnapShot viewed,ED Encounter Summary,3,0.0160316891140408,NULL
+17008.0,Report with patient data viewed,IP Patient History,1,0.0159064152505662,Chart Review
+17008.0,Report with patient data viewed,BJCWU ONCBCN THERAPY PLAN OVERVIEW REPORT,4,0.015877075460222,Chart Review
+17008.0,Report with patient data viewed,CV Electrophysiology Report,76,0.0156246100531684,Chart Review
+17008.0,Report with patient data viewed,HH Redirect to LCT,4,0.0156057389577229,Chart Review
+17008.0,Report with patient data viewed,AMB PT Snapshot Report,2,0.0153192337354024,Chart Review
+17008.0,Report with patient data viewed,IP ICU CLINICAL OVERVIEW,3,0.0152314617898729,Chart Review
+,Report with patient data printed,IP Vitals,4,0.0151347984208001,NULL
+17008.0,Report with patient data viewed,IP Labs Sorted by Collection Time,3,0.0151095914840698,Chart Review
+17008.0,Report with patient data viewed,ACO Sidebar Summary Report,3,0.0150731950336032,Chart Review
+60012.0,Clinical Note Signed,Hospital Course,6087,0.0150598324669731,Note Entry
+,Note displayed from Tapestry Referrals or Referral Notes,,27,0.0149728780322604,NULL
+17008.0,Report with patient data viewed,Img Study History,3,0.0149526760313246,Chart Review
+17008.0,Report with patient data viewed,ED Work/School Excuse Patient/Caregiver,1,0.0147175388866,Chart Review
+17008.0,Report with patient data viewed,RESULT REPORT LAB/IMAGING,4,0.0147106279267205,Chart Review
+,Report with patient data printed,H&P,1,0.014558941523234,NULL
+17008.0,Report with patient data viewed,In Basket: Refill Protocol Drilldown,4,0.014542142285241,Chart Review
+17227.0,Chart Review Note report viewed,TXP Special Notes,5,0.0143737106853061,Note Review
+,Canto login failed,,3,0.0143051362037658,NULL
+,MAR administration accepted,,3,0.0141958424780103,NULL
+17227.0,Chart Review Note report viewed,Pre-Admission Screening,3,0.0141554029782613,Note Review
+,Order printed from Chart Review,BW IMAGING REPORT HYPERLINK - DYNAMIC,3,0.014112684726715,NULL
+17008.0,Report with patient data viewed,AN Timeline Report,1,0.0140861490037706,Chart Review
+20607.0,Storyboard viewed,BH Behavioral Health Outpatient Storyboard,34,0.0138392286830478,NULL
+17008.0,Report with patient data viewed,Rx BJC Split Screen - Empagliflozin,7,0.013811211321089,Chart Review
+17008.0,Report with patient data viewed,ED ORDER RECONCILIATION REVIEW HISTORY,6,0.0136882776684231,Chart Review
+,Report with patient data printed,AMB SMARTTEXT SUPPLIES REPORT,5,0.0134251099162631,NULL
+17008.0,Report with patient data viewed,TXP IP AVS DISCHARGE MED LIST,1,0.0133433561854892,Chart Review
+17008.0,Report with patient data viewed,MR Encounter All Administration Report,2,0.0133271482255723,Chart Review
+17008.0,Report with patient data viewed,AVATAR LDA REPORT (SINGLE),1,0.0132287989722357,Chart Review
+17008.0,Report with patient data viewed,MR Summary of Care Document,3,0.0131692345937093,Chart Review
+17008.0,Report with patient data viewed,AMB Quick Abstract Instructions,3,0.0131165263387891,Chart Review
+17008.0,Report with patient data viewed,CE External Allergy Audit History Sidebar,3,0.0130924815601772,Chart Review
+17008.0,Report with patient data viewed,MR REFILL ERRORS PATIENT SUMMARY,7,0.0130714797973632,Chart Review
+,Report with patient data printed,IP Pediatric Clinical Overview,4,0.0130529448721143,NULL
+17234.0,Chart Review Order report viewed,CV Vascular Ultrasound Report,20,0.0130412451426188,Results Review
+17008.0,Report with patient data viewed,IMG Reading Physician Snapshot (Dark),3,0.0128318418396843,Chart Review
+17008.0,Report with patient data viewed,BJC IMG Protocol Details,2,0.0128035680452982,Chart Review
+17008.0,Report with patient data viewed,ED Transfer Summary - Widget,2,0.0123744511604309,Chart Review
+17008.0,Report with patient data viewed,IP Lab Orders For Discontinue,2,0.0120752906799316,Chart Review
+94023.0,Report viewed,Plan of Care,3,0.0120727427800496,Chart Review
+17008.0,Report with patient data viewed,IP Single Flowsheet BW,3,0.0120144149992201,Chart Review
+60008.0,View FastNote activity,,92,0.0118887035051981,NULL
+60010.0,Pend clinical note,ED Procedure Note,23,0.0117926987012227,Note Entry
+17008.0,Report with patient data viewed,PHX Storyboard Hover Bubble for Episode List,6,0.0117724593480428,Chart Review
+17008.0,Report with patient data viewed,BW AN Main Intraprocedure Sidebar Report,15,0.011703122721778,Chart Review
+17008.0,Report with patient data viewed,RX ORDER AUDIT TRAIL REPORT,2,0.0115892998377482,Chart Review
+,External web page triggering Hyperspace action,,3,0.0115606440438164,NULL
+17008.0,Report with patient data viewed,MR Encounter Provider Notes,3,0.0112747335433959,Chart Review
+,LOS visit navigator section accessed,,71,0.0112369969156053,NULL
+17008.0,Report with patient data viewed,MR ANSWER QUESTIONNAIRES,2,0.0112193867895338,Chart Review
+,Chart Review Miscellaneous report viewed,ONCBCN Index Report,4,0.0111838139428032,NULL
+17008.0,Report with patient data viewed,Neuro SnapShot,4,0.0111303069856431,Chart Review
+17239.0,Note printed from Chart Review,Op Note,2,0.0111063128047519,NULL
+,MAR administration form accessed,,2,0.0110867513550652,NULL
+,Full Referral Entry activity accessed,,14,0.0110772768656412,NULL
+17008.0,Report with patient data viewed,AMB Episodes Report Default,2,0.0110223878754509,Chart Review
+17008.0,Report with patient data viewed,BW AN REPORT,2,0.0109319705433315,Chart Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - ibalizumab,3,0.0109042702780829,Chart Review
+17008.0,Report with patient data viewed,Quest Reference Lab Requisition With Scheduling SmartText - Reprint,1,0.0108317226833767,Chart Review
+17008.0,Report with patient data viewed,IP Physician My Charges and Notes without Index,1,0.0108218208948771,Chart Review
+17008.0,Report with patient data viewed,CHART CORRECTION FLOWSHEET REPORT,3,0.0108164511786566,Chart Review
+,E-signed After Visit Summary,,5,0.0108154712782965,NULL
+17008.0,Report with patient data viewed,ORD Cosign Tracking Report,3,0.0108060399691263,Chart Review
+,Communication voided,,48,0.0107891877492268,NULL
+,Detailed view printed from Reporting Workbench,OR RTF CASELOG SUMMARY,6,0.0107839147249857,NULL
+17259.0,Patient SnapShot viewed,PED END SOGI Snapshot,7,0.0107601616117689,NULL
+17008.0,Report with patient data viewed,AMB SMARTTEXT SUPPLIES REPORT,4,0.0107460554440816,Chart Review
+17008.0,Report with patient data viewed,TXP Visit Summary (Clinical),1,0.0106458155314127,Chart Review
+,Letters activity accessed,,3,0.0105965362654791,NULL
+17008.0,Report with patient data viewed,Default Summary of Care,4,0.0105914563602871,Chart Review
+17008.0,Report with patient data viewed,TXP Problem List,4,0.0105707708994547,Chart Review
+17008.0,Report with patient data viewed,IP Labs 24h Nav,10,0.0105547780460781,Chart Review
+17008.0,Report with patient data viewed,ED Reminders Physician,1,0.0103210149870978,Chart Review
+17008.0,Report with patient data viewed,BW ED AVS Additional Print Outs - Viral Illness Education,5,0.0101922851138644,Chart Review
+17259.0,Patient SnapShot viewed,DER Snapshot,8,0.0101056808895534,NULL
+,Report with patient data printed,IP Glucose Management,2,0.0100879822836981,NULL
+17008.0,Report with patient data viewed,MR PAIN ASSESS REVIEW FLOW BW,4,0.00998646974563598,Chart Review
+17259.0,Patient SnapShot viewed,IP Labs 21 Day,5,0.00997095770306057,NULL
+17008.0,Report with patient data viewed,RX LINKED ORDER GROUP,4,0.00994366274939643,Chart Review
+17008.0,Report with patient data viewed,BW AVS - OPIOD FACTSHEET,7,0.00991462575064765,Chart Review
+17008.0,Report with patient data viewed,ED Patient Care Timeline-IP,1,0.0097747180196974,Chart Review
+17008.0,Report with patient data viewed,RX stewardship antimicrobial report for navigator,4,0.00969944212171766,Chart Review
+17008.0,Report with patient data viewed,BW RX PED BIVALIRUDIN ADJUSTMENT GUIDANCE,2,0.00966831525166829,Chart Review
+17664.0,Synopsis activity accessed,BW ONC SYNOPSIS BMT VIEW,3,0.00964858982298109,NULL
+19120.0,Identity report accessed,,108,0.00959235297309027,NULL
+,Clinical Note viewed,ED Triage Provider Note,1,0.00935189750459459,NULL
+17008.0,Report with patient data viewed,REN Snapshot,3,0.00930845128165351,Chart Review
+17234.0,Chart Review Order report viewed,BW Lab Result Report - Potential Donor Information,3,0.00916634983486599,Results Review
+17008.0,Report with patient data viewed,OR FUTURE CASES,297,0.00911031034257676,Chart Review
+17008.0,Report with patient data viewed,BW AN Perfusion Charge Report,1,0.00910818444357977,Chart Review
+17228.0,Chart Review Encounter report viewed,Dental Encounter Summary,2,0.00901369227303399,Chart Review
+,Report with patient data printed,IP Nursing Clinical Overview,4,0.00894108162985907,NULL
+17008.0,Report with patient data viewed,IP SEDATION DOC TIMELINE - DOCUMENTATION START&END EVENTS,2,0.00893938117557102,Chart Review
+17286.0,Chart Search encounter report opened,,110,0.0089222682846917,NULL
+17259.0,Patient SnapShot viewed,PEDS GI SnapShot,7,0.00892154163784451,NULL
+17239.0,Note printed from Chart Review,Anesthesia Preprocedure Evaluation,13,0.00886031283272637,NULL
+17008.0,Report with patient data viewed,ED Against Medical Advice Form,5,0.00879943026436699,Chart Review
+17008.0,Report with patient data viewed,IP Care Plan,2,0.0087925993071662,Chart Review
+17008.0,Report with patient data viewed,ORDER HYPERLINK REPORT: APPOINTMENT INFORMATION (HTML),3,0.00877713176939222,Chart Review
+17008.0,Report with patient data viewed,ED Patient Care Timeline - NoteWriter Slim Report,3,0.00872910658518473,Chart Review
+17008.0,Report with patient data viewed,ALLERGY DETAIL (RICH TEXT),3,0.00871831152174208,Chart Review
+17008.0,Report with patient data viewed,BW IP DISCHARGE TO READMIT,10,0.00870333062277899,Chart Review
+17008.0,Report with patient data viewed,OR DISCH INSTRUCTIONS,2,0.00867970969941881,Chart Review
+17008.0,Report with patient data viewed,ONCBCN Pathology Report,3,0.00854535818099975,Chart Review
+17008.0,Report with patient data viewed,Encounter: ED,2,0.00849100775188869,Chart Review
+17008.0,Report with patient data viewed,IP Nutrition Profile,4,0.00841512653562757,Chart Review
+17008.0,Report with patient data viewed,RX Dispense Action Summary,2,0.00840020842022365,Chart Review
+17008.0,Report with patient data viewed,Encounter: WU Ophth Report,2,0.00836186303032769,Chart Review
+17008.0,Report with patient data viewed,Pediatric Snapshot,1,0.00834812031851874,Chart Review
+17008.0,Report with patient data viewed,SLCH ED AVS COVID RESEARCH FLYER,8,0.00829472568300035,Chart Review
+,Appointment Cancel activity accessed,,40,0.00820025655958387,NULL
+,Report with patient data printed,RAD Imaging - Results Report 4,2,0.00819348282284206,NULL
+17008.0,Report with patient data viewed,Neurodiagnostics Result Report Ext,2,0.00810455242792765,Chart Review
+,Report with patient data printed,IP Adult Clinical Overview,6,0.00808662758933173,NULL
+94016.0,Care Everywhere Summaries viewed,,69,0.00802550660239325,NULL
+34004.0,Handoff data printed,,4235,0.00799814303716023,NULL
+17008.0,Report with patient data viewed,PATIENT INFECTION STATUS,6,0.00794680833816528,Chart Review
+,Contacts removed,,2,0.00778729359308878,NULL
+17228.0,Chart Review Encounter report viewed,BPCI-A Encounter Summary Report,3,0.00771653387281629,Chart Review
+17259.0,Patient SnapShot viewed,IP MAR History,6,0.00756493727366129,NULL
+,EpicCare Scheduling activity accessed,,74,0.00752586947547064,NULL
+,Health Maintenance Override Topic form accepted,,36,0.00749403158823649,NULL
+60012.0,Clinical Note Signed,Interval H&P Note,5,0.00747009515762329,Note Entry
+17008.0,Report with patient data viewed,OR Edit Trail Print Group Report Link,1,0.00746875603993733,Chart Review
+,Order Canceled from Note,Procedures,19,0.00732361184226142,NULL
+,Report with patient data printed,ORDER REPORT (HTML),1,0.0073091000980801,NULL
+,Chart Review Miscellaneous report viewed,AMB Diabetes Management Summary,6,0.00727100637223985,NULL
+,Report with patient data printed,BW ED AFTER VISIT SUMMARY REPORT (STYLED),2046,0.00724887715445624,NULL
+17008.0,Report with patient data viewed,MR SPECIALTY COMMENTS - SHOW ALL,3,0.00721693038940429,Chart Review
+17008.0,Report with patient data viewed,OB HISTORY STORYBOARD HOVER,6,0.00718380636639065,Chart Review
+34005.0,Notes viewed,Notes Text Only,2,0.00711783515082465,Note Review
+,Chart Review Miscellaneous report viewed,AMB Health Maintenance w/History (Misc Report),9,0.00711531904008653,NULL
+17008.0,Report with patient data viewed,IP Patient Care Snapshot,1,0.00704841242896185,Chart Review
+,OR report viewed,OR Perioperative Record,3,0.00702828433778551,NULL
+17008.0,Report with patient data viewed,IP FACESHEET,5,0.00699474652608235,Chart Review
+17008.0,Report with patient data viewed,AN PROFESSIONAL BILLING REPORT NO GRAPH,2,0.00690154208077324,Chart Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - dornase alfa for CF,2,0.00682823419570922,Chart Review
+60008.0,View FastNote activity,Discharge Summary,44,0.00681872924168904,NULL
+17008.0,Report with patient data viewed,IP SINGLE LEARNING ASSESSMENT,3,0.00679263035456339,Chart Review
+,Encounter printed from Chart Review,ED Encounter: ED,2,0.00677450895309448,NULL
+17008.0,Report with patient data viewed,IP ICU RM VENT,2,0.00669202804565429,Chart Review
+,Image deleted,,1,0.00664011902279324,NULL
+,Image printed,,1,0.00657751348283555,NULL
+,Chart Review Patient Summary Extract tab selected,,5,0.0065716528892517,NULL
+60008.0,View FastNote activity,Progress Notes,99,0.00649581723743014,NULL
+17664.0,Synopsis activity accessed,ORT ORTHO REVIEW SYNOPSIS VIEW,1,0.00642926295598348,NULL
+17008.0,Report with patient data viewed,AMB Asthma Flowsheet Encounters,5,0.00642530732684665,Chart Review
+17008.0,Report with patient data viewed,IN BASKET ALL RECIPIENTS FOR MESSAGE,3,0.00641855637232462,Chart Review
+,Health Maintenance Postpone Topic form accepted,,30,0.00637828535503811,NULL
+,Patient Merge window accessed,,2,0.00636396990882025,NULL
+17008.0,Report with patient data viewed,RX ALERTS OVERRIDE HISTORY REPORT (RICH TEXT),3,0.00633767392900255,Chart Review
+17664.0,Synopsis activity accessed,AMB Synopsis Asthma Management,2,0.00626737382676866,NULL
+17008.0,Report with patient data viewed,IP Patient Take-Home (Discharge) Meds - Static,1,0.00622192515267266,Chart Review
+17664.0,Synopsis activity accessed,AMB Questionnaire Series Synopsis View,9,0.00620567321777343,NULL
+,Cosign clinical note with attestation,Medical Student,9,0.00620406574673122,NULL
+17664.0,Synopsis activity accessed,AMB Synopsis Ped IBS Mgmt,4,0.00615221156014336,NULL
+17008.0,Report with patient data viewed,CE External Immunization Audit History Sidebar,2,0.00609869692060682,Chart Review
+,Chart Review Miscellaneous report viewed,BJC HH Discharge Summary,2,0.00605600913365681,NULL
+17008.0,Report with patient data viewed,TXP Telephone Report,2,0.00600231515036688,Chart Review
+17008.0,Report with patient data viewed,AMB Diabetes Management Summary,2,0.00599288807974921,Chart Review
+17228.0,Chart Review Encounter report viewed,TXP Abstract Report,15,0.00592423280080159,Chart Review
+,Cumulative Dose Activity in Hyperspace,,1,0.00592005226347181,NULL
+17008.0,Report with patient data viewed,BW ED AVS PATIENT RESULTS,4,0.00588001542621188,Chart Review
+17008.0,Report with patient data viewed,Routing History,5,0.00587862094243367,Chart Review
+17008.0,Report with patient data viewed,OB Episode Scans,3,0.00586404614978366,Chart Review
+17008.0,Report with patient data viewed,BW Food Allergy Action Plan,2,0.00585915644963582,Chart Review
+17008.0,Report with patient data viewed,AN ACTIVE FOLLOW-UP ORDERS,6,0.00580837567647298,Chart Review
+17227.0,Chart Review Note report viewed,Telestroke,1,0.00579310788048638,Note Review
+17228.0,Chart Review Encounter report viewed,Encounter: Orders Only,2,0.00577762550777859,Chart Review
+15632.0,Documents list accessed,,193,0.00570228735605875,NULL
+,Clinical Note viewed,Progress Notes,2,0.00562846819559733,NULL
+17008.0,Report with patient data viewed,IP ICU Liberation,2,0.00553445047802395,Chart Review
+17008.0,Report with patient data viewed,CV Stress Echo Report,108,0.00552705791261461,Chart Review
+,Full Referral entry activity edited,,10,0.00547892702950371,NULL
+17259.0,Patient SnapShot viewed,Glaucoma SnapShot,2,0.00544876813888549,NULL
+17008.0,Report with patient data viewed,ONCBCN Index Report,7,0.00539196438259548,Chart Review
+,Chart Review Miscellaneous report viewed,Immunization Summary,6,0.00538831339942084,NULL
+17008.0,Report with patient data viewed,ONCBCN ONC History SnapShot,1,0.00529673258463541,Chart Review
+17008.0,Report with patient data viewed,HH Deficiency Quality Review Clinical Summary,1,0.00528962347242567,Chart Review
+17008.0,Report with patient data viewed,IP Flowsheet Need Cosign All,2,0.0052340382999844,Chart Review
+,Canto Follow-Up activity accessed,,1,0.0051890484491984,NULL
+17008.0,Report with patient data viewed,HH IB Def Order,369,0.00505793439017401,Chart Review
+,Intraprocedure Attestations viewed,,3,0.00503993405236138,NULL
+17259.0,Patient SnapShot viewed,IP Radiology Results,2,0.00500180032518174,NULL
+,Order printed from Chart Review,BW CV Cardiac Cath Report,1,0.00499319659339057,NULL
+60008.0,View FastNote activity,H&P,28,0.00489329391055636,NULL
+17008.0,Report with patient data viewed,ONCBCN BMT Clinical Overview,1,0.00489115211698744,Chart Review
+17008.0,Report with patient data viewed,BMAT/Mobility Detail Report,1,0.00486584504445393,Chart Review
+94023.0,Report viewed,HKU IB CC CHARTS MISC,30,0.00485128296746148,Chart Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - dornase alfa pleural effusion,3,0.00482872459623548,Chart Review
+,Result filed,,7,0.00477275159623887,NULL
+,Delivery Summary accessed,,1,0.00476781553692287,NULL
+,Report with patient data printed,IP Labs 72h,4,0.00476417965359158,NULL
+17008.0,Report with patient data viewed,Rx BJC Split Screen - Ibuprofen IV,7,0.00476142432954576,Chart Review
+94023.0,Report viewed,CTO SINGLE COMMUNICATION REPORT,2,0.00467455334133572,Chart Review
+17008.0,Report with patient data viewed,AN Record Report W/O Grid Graph W/ Med Details,2,0.00466299507353041,Chart Review
+17664.0,Synopsis activity accessed,INF Synopsis Hepatitis C,1,0.00465048021740383,NULL
+17008.0,Report with patient data viewed,PATIENT ISOLATION STATUS,3,0.00464566045337253,Chart Review
+89026.0,Intraprocedure Events viewed,,50,0.00462677081425984,NULL
+60012.0,Clinical Note Signed,Medical Student,7,0.00459504312939114,Note Entry
+17259.0,Patient SnapShot viewed,ONCBCN Snapshot,3,0.00448455042309231,NULL
+19120.0,Identity report accessed,ID DUPLICATE LIST: PATIENT COMPARISON REPORT,2,0.00448203086853027,NULL
+17008.0,Report with patient data viewed,Rx BJC Split Screen - Ascorbic Acid,4,0.00447769032584296,Chart Review
+17008.0,Report with patient data viewed,SHOP Scrubbing Report,4,0.00441472238964504,Chart Review
+17239.0,Note printed from Chart Review,ED Notes,2,0.00438491529888576,NULL
+,Episode edited,,2,0.00436420599619547,NULL
+17008.0,Report with patient data viewed,BW IP Rehab FIM Accordion,1,0.00434571610556708,Chart Review
+,Report with patient data printed,BW ED AVS Stop the Spread of Germs,1980,0.00434322886996799,NULL
+94023.0,Report viewed,HKU IB PT ADVICE REQUEST,24,0.0042691249317593,Chart Review
+17008.0,Report with patient data viewed,ED ORDERS - NURSE,2,0.00421730915705362,Chart Review
+17008.0,Report with patient data viewed,URO Snapshot,1,0.00409032927619086,Chart Review
+17227.0,Chart Review Note report viewed,Sedation Documentation,5,0.00408160183164808,Note Review
+17008.0,Report with patient data viewed,HIM HC CDI PROVIDER QUERY NAVIGATOR REPORT,3,0.00402469608518812,Chart Review
+17008.0,Report with patient data viewed,Allergy Review Comment History,4,0.00396557913886176,Chart Review
+17227.0,Chart Review Note report viewed,Psy Treatment Planning,2,0.00394014570448133,Note Review
+17228.0,Chart Review Encounter report viewed,ACO Social Worker Patient Outreach Summary Report,3,0.00393741289774576,Chart Review
+17664.0,Synopsis activity accessed,TXP UNOS Information,53,0.00390081352657742,NULL
+,Chart Review Miscellaneous report viewed,BW AMB Facesheet,4,0.00388494624031914,NULL
+94023.0,Report viewed,HKU IB PT Reminder Report,19,0.00386828713946872,Chart Review
+17008.0,Report with patient data viewed,Rx BJC Split Screen - anagrelide,5,0.00382477124532063,Chart Review
+,Encounter printed from Chart Review,BW AN REPORT,1,0.00382424195607503,NULL
+17008.0,Report with patient data viewed,Pending Orders,4,0.00371586004892984,Chart Review
+17008.0,Report with patient data viewed,AMB Health Maintenance w/History (Misc Report),2,0.00370458549923367,Chart Review
+,Health Maintenance Topic Discontinue form accepted,,13,0.00369150347179836,NULL
+17008.0,Report with patient data viewed,AMB Vital Signs,1,0.00365969287024603,Chart Review
+17227.0,Chart Review Note report viewed,Hospice Non-Covered,1,0.00365336550606621,Note Review
+,Intraprocedure Attestations filed,,2,0.00364996062384711,NULL
+,Department Appointments report run,,4,0.00362271520826551,NULL
+17239.0,Note printed from Chart Review,Perioperative Nursing Note,9,0.00357607126235961,NULL
+17008.0,Report with patient data viewed,OB Index Physician,1,0.00356833510928683,Chart Review
+17008.0,Report with patient data viewed,Ophth Exam: Copy Previous Summary,1,0.00355678108003404,Chart Review
+20607.0,Storyboard viewed,BH Behavioral Health Inpatient Physician Storyboard,15,0.00355496274100409,NULL
+,Report with patient data printed,BW ED Single Order Results,2,0.00353781382242838,NULL
+17008.0,Report with patient data viewed,MEDS HYPERLINK REPORT: PHARMACY DETAIL (HTML),1,0.00352835734685262,Chart Review
+60005.0,View clinical notes section,Op Note,3,0.00349550273683336,Note Review
+17259.0,Patient SnapShot viewed,"HH Deficiency Quality Review Allergies, Medications",1,0.00348486370510525,NULL
+17008.0,Report with patient data viewed,AN All Flowsheet Data,2,0.00343204842673407,Chart Review
+17008.0,Report with patient data viewed,Rx ordering instructions macitentan,5,0.00341753085454305,Chart Review
+17008.0,Report with patient data viewed,OR SURGEON NO LOG WARNING,15,0.00341484785079956,Chart Review
+94023.0,Report viewed,IP ROVER SESSION INFORMATION,3,0.0033927665816413,Chart Review
+17008.0,Report with patient data viewed,IP Feedings Report,1,0.00331578652064005,Chart Review
+17008.0,Report with patient data viewed,ED Procedural Sedation Discharge Instructions,4,0.00331310802035861,Chart Review
+17239.0,Note printed from Chart Review,Telephone Encounter,3,0.00330538087420993,NULL
+17008.0,Report with patient data viewed,HH Deficiency Quality Review Patient History,1,0.00329900450176662,Chart Review
+17008.0,Report with patient data viewed,IP Patient Take-Home (Discharge) Meds,2,0.00327600744035508,Chart Review
+17008.0,Report with patient data viewed,IP Hemodialysis Summary,1,0.0032692199283176,Chart Review
+,Flowsheet Filed in Popup/Entry activity,,41,0.00323502461115519,NULL
+,Letters activity exited,,7,0.00321454366048177,NULL
+,Annotated image modified,,5,0.00318102995554606,NULL
+17259.0,Patient SnapShot viewed,IP Fever/Antibiotic Dosing,1,0.00315398534138997,NULL
+60005.0,View clinical notes section,Consults,1,0.00315333896213107,Note Review
+17008.0,Report with patient data viewed,Visit Info Reports: Recent Visits to Visit Provider,692,0.00305283864339192,Chart Review
+,Chart Review Episode report viewed,HH Episode Summary Report,3,0.00305177185270521,NULL
+,Media printed from Chart Review,HIM MEDIA REPORT,1,0.00303908639483981,NULL
+17008.0,Report with patient data viewed,OR Surgeries on This Admission,1,0.00302399317423502,Chart Review
+17008.0,Report with patient data viewed,BW IP Rehab WeeFIM Accordion,1,0.00300260358386569,Chart Review
+17664.0,Synopsis activity accessed,AMB SYNOPSIS PED RHEUM BW,3,0.00298021899329291,NULL
+17008.0,Report with patient data viewed,BW IP Overview Vital Sign Report ,3,0.00297882795333862,Chart Review
+17008.0,Report with patient data viewed,ASAP Result Report: Lab Integrated Result Template,1,0.0029679086473253,Chart Review
+17259.0,Patient SnapShot viewed,REN Snapshot,2,0.00296643363104926,NULL
+17259.0,Patient SnapShot viewed,PUL Snapshot,2,0.00295737981796264,NULL
+17227.0,Chart Review Note report viewed,Miscellaneous,3,0.00295138306087917,Note Review
+,Chart CC sent,,13,0.00293927563561333,NULL
+,Mobile patient encounter created,,13,0.00291998810238308,NULL
+19031.0,Chart Correction alert viewed,,82,0.00291396273507012,NULL
+17008.0,Report with patient data viewed,BW AMB Facesheet,2,0.00289197444915771,Chart Review
+17008.0,Report with patient data viewed,AMB THERAPY ORDER REPORT,2,0.00287086036470201,Chart Review
+60002.0,Route from inpatient notes activity,,58,0.00284550348917643,NULL
+17008.0,Report with patient data viewed,OR Workspace Header: Status hover report,3,0.00276931762695312,Chart Review
+17008.0,Report with patient data viewed,SNAPSHOT: ALLERGIES (HTML),2,0.00274881256951226,Chart Review
+17008.0,Report with patient data viewed,IB Pool/Classification Details,2,0.0027346732881334,Chart Review
+17008.0,Report with patient data viewed,HH Episode Summary Report,5,0.00271586471133761,Chart Review
+,Nurse Triage Care Advice section viewed,,6,0.00263511419296264,NULL
+,Report with patient data printed,RESULTS HYPERLINK REPORT: LAB AND COLLECTION DATA (HTML),1,0.00263362911012437,NULL
+17008.0,Report with patient data viewed,RX IP Labs Since Admission,1,0.0026055113474528,Chart Review
+,Chart Review Miscellaneous report viewed,AMB Medicare Advantage Diagnoses,4,0.00260116391711764,NULL
+17008.0,Report with patient data viewed,OR OTHER NOTES,1,0.00253317170672946,Chart Review
+17008.0,Report with patient data viewed,MR ORDER AUDIT TRAIL,1,0.00250919977823893,Chart Review
+17008.0,Report with patient data viewed,AMB Visit Orders,1,0.00250639650556776,Chart Review
+17008.0,Report with patient data viewed,HIM DT Consent Scans Report,1,0.00250463326772053,Chart Review
+17239.0,Note printed from Chart Review,Plan of Care,1,0.00250270393159654,NULL
+17008.0,Report with patient data viewed,CV Electrophysiology Printable Result Report,1,0.00245167758729722,Chart Review
+34098.0,Secure chat conversation created,,136,0.0024373812145657,NULL
+,Lifetime Activity viewed,,2,0.00243422773149278,NULL
+17008.0,Report with patient data viewed,CV FS ORDER REPORT HYPERLINK - DYNAMIC,1159,0.00243360095553928,Chart Review
+,Verified order dispensed,,38,0.00242444515228271,NULL
+,Report with patient data printed,Quest Reference Lab Requisition With Scheduling SmartText - Reprint,1,0.00236499945322672,NULL
+17008.0,Report with patient data viewed,CE External Medication Audit History Sidebar Inclusive,1,0.00234482924143473,Chart Review
+17008.0,Report with patient data viewed,LETTER REPORT: REVISION DISPLAY,1,0.00232140753004286,Chart Review
+17008.0,Report with patient data viewed,BW IP OVERVIEW LABS LAST 72 HOURS,3,0.0023181128501892,Chart Review
+,Chart Review Miscellaneous report viewed,ONCBCN Treatment Plan Springboard - Current Day,2,0.00229293187459309,NULL
+15141.0,Patient Emergency Contact subcomponent accessed,,903,0.00226890034145779,NULL
+17239.0,Note printed from Chart Review,Pre-Procedure Note,2,0.00225427018271552,NULL
+,Education Sidebar accessed,,1,0.00220981253517998,NULL
+17234.0,Chart Review Order report viewed,IP SINGLE TRANSFUSION SUMMARY DETAILS,1,0.00219152106179131,Chart Review
+,Report with patient data printed,BW ED AVS Additional Print Outs - Opioid Education,560,0.00214267174402872,NULL
+17008.0,Report with patient data viewed,IP REHAB NURSING ACCORDION REPORT,1,0.00212812503178914,Chart Review
+17008.0,Report with patient data viewed,AN AUDIT TRAIL REPORT,3,0.00212746726142035,Chart Review
+,OR Events form selected in Log Entry,,2,0.00212679041756523,NULL
+,OR Case Entry accessed,,6,0.00208536121580335,NULL
+17008.0,Report with patient data viewed,BJC ED PROVIDER/PATIENT EMTALA FORM,1,0.00206682311164008,Chart Review
+,Report with patient data printed,IP AVS,59,0.00205713854895697,NULL
+,Radiology Screening Form accessed,,62,0.00204561048083835,NULL
+17008.0,Report with patient data viewed,IP Sidebar SmartTools Help Text,1,0.00203010373645358,Chart Review
+,Encounter printed from Chart Review,AMB Appointment Report,1,0.00198689116372002,NULL
+17259.0,Patient SnapShot viewed,NEU PEDS Snapshot,2,0.00196923918194241,NULL
+,Patient Data access blocked via Break-the-Glass,,2,0.00196015728844536,NULL
+17008.0,Report with patient data viewed,IP Patient Education,1,0.00195316447152031,Chart Review
+17008.0,Report with patient data viewed,RIS Storyboard Procedure Hover,1,0.00192755460739135,Chart Review
+60012.0,Clinical Note Signed,Post-Procedure Note,3,0.00192379739549424,Note Entry
+17008.0,Report with patient data viewed,Sedation Monitoring,1,0.00188048097822401,Chart Review
+,Intraprocedure sidebar report viewed,BW AN Main Intraprocedure Sidebar Report,7,0.00187704271740383,NULL
+17008.0,Report with patient data viewed,RFL-OUTSTANDING NOTIFICATIONS-INTERACTIVE (HTML),2,0.00185133430692884,Chart Review
+,Single Historical Immunization admin activity accessed,,1,0.00184930483500162,NULL
+17008.0,Report with patient data viewed,IMG Meds w/Allergies,1,0.0018303100268046,Chart Review
+,Order Canceled from Note,ED Procedure Note,2,0.00182679388258192,NULL
+17008.0,Report with patient data viewed,IP/AMB LDA HISTORY REPORT,1,0.00178646511501736,Chart Review
+17664.0,Synopsis activity accessed,AMB SYNOPSIS PED CAR BW,1,0.00178359296586778,NULL
+17259.0,Patient SnapShot viewed,BW ALG SNAPSHOT,3,0.00177132977379692,NULL
+17259.0,Patient SnapShot viewed,IP Vitals Patient List,3,0.00177059200074937,NULL
+17008.0,Report with patient data viewed,New FIM Accordion Report,1,0.00171469423505995,Chart Review
+17259.0,Patient SnapShot viewed,IP MAR Active,1,0.00171452257368299,NULL
+17008.0,Report with patient data viewed,RX Verify Action Summary,1,0.00170257144504123,Chart Review
+,Report with patient data printed,HSD Results Report: OR GI Procedure Performed,1,0.00169888602362738,NULL
+,Patient Education information viewed,,6,0.00168356498082478,NULL
+,List of disclosures accessed,,3,0.00167286899354722,NULL
+17008.0,Report with patient data viewed,RX ORDER RECENT MESSAGES AND DISPENSING ACTIONS (12 Hours),1,0.00162231153912014,Chart Review
+,Chart Review Miscellaneous report viewed,Hospice All Active and Resolved Plan of Care,2,0.00161806901295979,NULL
+17008.0,Report with patient data viewed,BW IP OVERVIEW I/O REPORT,3,0.00160912275314331,Chart Review
+,Results Release comment modified,,6,0.00158433490329318,NULL
+20607.0,Storyboard viewed,OPHTH EyeCare Storyboard,11,0.00158056259155273,NULL
+17259.0,Patient SnapShot viewed,ONC Snapshot,1,0.00156546804640028,NULL
+,Chart Review Miscellaneous report viewed,Chart Review: Routing History,4,0.00155034674538506,NULL
+94023.0,Report viewed,Pre-Admission Screening,1,0.00152736478381686,Chart Review
+17664.0,Synopsis activity accessed,ONC SYNOPSIS Oncology Broad View,1,0.00150538126627604,NULL
+,Report with patient data printed,BW Pathology Results,2,0.00150106350580851,NULL
+17008.0,Report with patient data viewed,IP Sidebar Meds,2,0.0014922817548116,Chart Review
+17008.0,Report with patient data viewed,AMB NS SNAPSHOT ,1,0.00144764900207519,Chart Review
+17259.0,Patient SnapShot viewed,Pediatric Cardiology Snapshot,3,0.00144610510932074,NULL
+17008.0,Report with patient data viewed,Active Dialysis Plans,1,0.00144031233257717,Chart Review
+,Report with patient data printed,AMB MR AFTER VISIT SUMMARY,107,0.00142272631327311,NULL
+17234.0,Chart Review Order report viewed,Order Report,2,0.00140146361456977,Chart Review
+,Plan of Care note modified,,1,0.00138286272684733,NULL
+17239.0,Note printed from Chart Review,Nursing Note,1,0.00137982447942098,NULL
+17008.0,Report with patient data viewed,SPE History,6,0.00135060787200927,Chart Review
+17008.0,Report with patient data viewed,ORDERS SECOND SIGN SUMMARY,1,0.00133671442667643,Chart Review
+,Report with patient data printed,IP Labs Since Admission,2,0.00133602009879218,NULL
+94023.0,Report viewed,HKU IB COSIGN ORDER DETAILS,1,0.00132836553785536,Chart Review
+17008.0,Report with patient data viewed,IP Care Plan Report,1,0.00132818248536851,Chart Review
+,Chart Review Miscellaneous report viewed,Secure Chat Patient messages,3,0.00127573410669962,NULL
+17664.0,Synopsis activity accessed,AMB SYNOPSIS PED NEW,32,0.00127401325437757,NULL
+17259.0,Patient SnapShot viewed,TXP Patient Checklist Tasks,1,0.00125462849934895,NULL
+17008.0,Report with patient data viewed,Orthopaedics Storyboard: Relevant Summary,1,0.00123925473954942,Chart Review
+17008.0,Report with patient data viewed,OR PREOP/POSTOP DIAGNOSES,132,0.00123230907652113,Chart Review
+17008.0,Report with patient data viewed,IP Problem List,1,0.00120042430029975,Chart Review
+,Chart Review Miscellaneous report viewed,Hospice Recent Plan of Care,2,0.00119685490926106,NULL
+17159.0,Health Maintenance Modifier form accessed,,118,0.00117650323443942,NULL
+17259.0,Patient SnapShot viewed,IP Microbiology Results,2,0.0011578541331821,NULL
+,Report with patient data printed,BW OR PATH SPECIMEN REPORT FOR OTX,52,0.00115642547607421,NULL
+17008.0,Report with patient data viewed,BMT Storyboard Hover Bubble,3,0.00113556385040283,Chart Review
+17259.0,Patient SnapShot viewed,Retina SnapShot,2,0.00110950443479749,NULL
+,Flag clinical note for chart correction,,2,0.00110077010260687,NULL
+17008.0,Report with patient data viewed,BW ED AVS SIGNATURE PAGE,1,0.00109748893313937,Chart Review
+,Immunization registry data requested,,3,0.00109403742684258,NULL
+,Chart Review Miscellaneous report viewed,BJC HH Transfer Summary,2,0.00108312235938178,NULL
+17259.0,Patient SnapShot viewed,IP Glucose Management,3,0.00107422908147176,NULL
+60012.0,Clinical Note Signed,ACP (Advance Care Planning),2,0.00104549672868516,Note Entry
+60010.0,Pend clinical note,Provider Query,7,0.00102893617418077,Note Entry
+,Travel Screening accessed,,1,0.00102737850613064,NULL
+17664.0,Synopsis activity accessed,AMB Synopsis Back Pain Management,2,0.001004585425059,NULL
+94023.0,Report viewed,HKU IB HOME CARE CASE COMM,3,0.00100208388434516,Chart Review
+17259.0,Patient SnapShot viewed,Immunization Summary,1,0.000983539687262641,NULL
+17008.0,Report with patient data viewed,IP Sidebar Orders Management,1,0.000965481334262424,Chart Review
+17008.0,Report with patient data viewed,IP Clinical Timeline Overview,1,0.000950882964664035,Chart Review
+,Incomplete immunizations accessed,,1,0.000945920414394802,NULL
+17008.0,Report with patient data viewed,HISTORY: PEDS DEVELOPMENTAL (NAT HTML),9,0.000941577487521701,Chart Review
+17008.0,Report with patient data viewed,OR History Navigator Section Report,1,0.000940342479281955,Chart Review
+17008.0,Report with patient data viewed,AMB PED NEPH SNAPSHOT BW,1,0.000929256280263265,Chart Review
+17008.0,Report with patient data viewed,OB HISTORY,17,0.000905751917097303,Chart Review
+17008.0,Report with patient data viewed,RWB Central Line Detail Report,4,0.000899736086527506,Chart Review
+,Intraprocedure viewed,,7,0.000869690312279595,NULL
+,FYI flag status changed,,1,0.000848416222466362,NULL
+17008.0,Report with patient data viewed,BW CV Cardiac Cath Report,492,0.000817603270212809,Chart Review
+17008.0,Report with patient data viewed,HIM DT Case Management Report,1,0.000816964308420817,Chart Review
+,Report with patient data printed,ED Excuses Report (Rich Text),106,0.000801102055443657,NULL
+60012.0,Clinical Note Signed,Brief Op Note,2,0.000799888239966498,Note Entry
+17008.0,Report with patient data viewed,HRA SNAPSHOT,2,0.000764328903622097,Chart Review
+17664.0,Synopsis activity accessed,AMB Synopsis Diabetes Management - Endo,1,0.000733881261613633,NULL
+17008.0,Report with patient data viewed,AMB Adolescent After Visit Summary,1,0.000731938415103488,Chart Review
+17008.0,Report with patient data viewed,MR ONC ORDER DETAILS (RICH TEXT),1,0.000679124461279975,Chart Review
+,Report with patient data printed,BW AVS - COVID-19 DISCHARGE INSTRUCTIONS,226,0.000664273367987738,NULL
+17228.0,Chart Review Encounter report viewed,Encounter: Post Mortem Doc,2,0.000654331843058268,Chart Review
+,Result entry aborted,,3,0.000646118058098687,NULL
+,Report with patient data printed,Encounter: Conversation,1,0.000645746654934353,NULL
+17008.0,Report with patient data viewed,BW AN OTHER PROVIDER ATTESTATION REPORT,2,0.000624013476901584,Chart Review
+,Image edited,,3,0.000609963470035129,NULL
+17008.0,Report with patient data viewed,Problem List: Relevant Results,1,0.000602077113257514,Chart Review
+,Patient Employer Information subcomponent accessed,,1,0.000582839383019341,NULL
+,Chart Review Miscellaneous report viewed,AAP Discharge Routing History,2,0.000577499866485595,NULL
+17008.0,Report with patient data viewed,MR Allergies Report,1,0.000565835899776882,Chart Review
+,Hospital Billing report accessed,HB CODING HOSPITAL ACCOUNT VISIT REPORT,2,0.000552956793043348,NULL
+,ED Wet Read edited,,3,0.000543895297580295,NULL
+,Imaging Reading Palette accessed,,3,0.000526661607954237,NULL
+17008.0,Report with patient data viewed,OR Pre Screening Call History,4,0.000509094662136501,Chart Review
+,Chart Review Miscellaneous report viewed,BW Food Allergy Action Plan,2,0.000505078103807237,NULL
+60012.0,Clinical Note Signed,Plan of Care,1,0.000502368079291449,Note Entry
+17008.0,Report with patient data viewed,AMB Open Orders,1,0.000501255724165174,Chart Review
+17227.0,Chart Review Note report viewed,AN Medication Signoff Note,2,0.000489197836981879,Note Review
+60010.0,Pend clinical note,Incidental Note,1,0.000475031005011664,Note Entry
+17227.0,Chart Review Note report viewed,Video Visit Routing Comment,1,0.000474119716220431,Note Review
+17008.0,Report with patient data viewed,In Basket: Refill Protocol Hover Bubble,1,0.000473894808027479,Chart Review
+,Health Maintenance Topic Edit Frequency form accepted,,2,0.0004704483350118,NULL
+17008.0,Report with patient data viewed,IP Inter-Facility Transfer After Visit Summary,1,0.000459645324283176,Chart Review
+60008.0,View FastNote activity,Consults,11,0.000452819135453965,NULL
+20607.0,Storyboard viewed,LUME Endoscopy Storyboard,3,0.000447006755405002,NULL
+,Patient photo created,,1,0.000422401693132188,NULL
+17008.0,Report with patient data viewed,RECENT PROCEDURES PAF HOVER BUBBLE REPORT,1,0.00041986518436008,Chart Review
+17008.0,Report with patient data viewed,rx stewardship culture report for navigator,4,0.000400985081990559,Chart Review
+,View Mobile Handoff in Chart,,6,0.000400444931454128,NULL
+60012.0,Clinical Note Signed,Pre-Sedation Documentation,1,0.000386374791463216,Note Entry
+20607.0,Storyboard viewed,MR Anticoagulation Storyboard,2,0.000385426415337456,NULL
+,Report with patient data printed,BW Asthma Action Plan,27,0.000361669328477647,NULL
+,Report with patient data printed,ED Adolescent AVS,140,0.0003432740105523,NULL
+60010.0,Pend clinical note,Brief Op Note,2,0.000338402324252658,Note Entry
+17008.0,Report with patient data viewed,MPM Patient Snapshot,852,0.000325002670288086,Chart Review
+,Allergies timed out,,1,0.000299217700958251,NULL
+60012.0,Clinical Note Signed,Incidental Note,1,0.000296707153320312,Note Entry
+17008.0,Report with patient data viewed,OB EPISODE PROG NOTES (MOST RECENT ORDER WITH TE),2,0.000270674493577745,Chart Review
+60008.0,View FastNote activity,Anesthesia Preprocedure Evaluation,6,0.000258405473497178,NULL
+60012.0,Clinical Note Signed,Result QuickNote,21,0.000221338537004258,Note Entry
+60008.0,View FastNote activity,Significant Event,6,0.000217814710405137,NULL
+,External results created,,9,0.000216151343451605,NULL
+60011.0,Save clinical note,Progress Notes,1,0.000213315751817491,NULL
+17008.0,Report with patient data viewed,CV Vascular Ultrasound Report,33,0.000201015472412109,Chart Review
+17008.0,Report with patient data viewed,OB Log C-Section Log Details,230,0.000198284255133734,Chart Review
+60012.0,Clinical Note Signed,ED Triage Provider Note,1,0.000192470815446641,Note Entry
+60010.0,Pend clinical note,ED Triage Provider Note,1,0.000188777711656358,Note Entry
+,Add Med Details section viewed in AVS,,1,0.000187652905782063,NULL
+60012.0,Clinical Note Signed,Discharge Instr - Supplementary Instructions,1,0.000181497732798258,Note Entry
+,Appointment Desk accessed,,23,0.000180210537380642,NULL
+,One-Step Medication filed,,2,0.000172945658365885,NULL
+,Report exported for ED patient,ED Left Against Medical Advice Form,23,0.000167001618279351,NULL
+,Chart Central report tab accessed,,2,0.000162472989824083,NULL
+,Report with patient data printed,SLCH ED AVS COVID RESEARCH FLYER,80,0.000160809887780083,NULL
+60008.0,View FastNote activity,ED Provider Notes,3,0.000151134067111545,NULL
+,Immunization registry information accessed,,1078,0.000141768190595838,NULL
+,Flag clinical note for chart correction,H&P,1,0.000141304598914252,NULL
+20607.0,Storyboard viewed,HIM Chart Central Storyboard,2,0.00013614813486735,NULL
+,Cancer stage modified,,1,0.000128825240665011,NULL
+,Patient infections edited,,1,0.000125805007086859,NULL
+17008.0,Report with patient data viewed,OR Prov Sched Case Report,503,0.000122083293067084,Chart Review
+,Report with patient data printed,IP MAR Active,2,0.000120502048068576,NULL
+,Report with patient data printed,ED NEGATIVE HIV SCREEN,42,0.000119631555345323,NULL
+18181.0,Results reviewed in IB,,2062,0.000118283960554334,NULL
+17259.0,Patient SnapShot viewed,ED Provider and Nursing Notes - Widget,1,0.000117100874582926,NULL
+,Report with patient data printed,ED Procedural Sedation Discharge Instructions,38,0.000113947656419542,NULL
+60008.0,View FastNote activity,Procedures,3,0.000111415651109483,NULL
+,Specimen Inquiry (by Patient) accessed,,1,9.54066382514106e-05,NULL
+17008.0,Report with patient data viewed,OR RTF CASELOG SUMMARY,398,9.14449161953396e-05,Chart Review
+20607.0,Storyboard viewed,HSPC Encounter Storyboard,1,8.90496042039659e-05,NULL
+,SmartSet used,,1,8.08058844672309e-05,NULL
+,LDA properties accessed,,1,7.42771890428331e-05,NULL
+,Form Reprints activity accessed,,1,7.32753011915419e-05,NULL
+17008.0,Report with patient data viewed,rx stewardship summary report for navigator,4,5.32748964097764e-05,Chart Review
+17008.0,Report with patient data viewed,BW OR PATH SPECIMEN REPORT FOR OTX,24,5.22722138298882e-05,Chart Review
+,Report with patient data printed,BW AMB AVS - CONTROLLED SUBSTANCES,12,4.74482112460666e-05,NULL
+17234.0,Chart Review Order report viewed,AMB SMARTTEXT SUPPLIES REPORT,30,4.68111038208007e-05,Chart Review
+17008.0,Report with patient data viewed,HH Encounter Report,294,4.40814759996202e-05,Chart Review
+17228.0,Chart Review Encounter report viewed,BJC HH Discharge Summary - Encounter,23,4.33116488986545e-05,Chart Review
+,Report with patient data printed,ED Left Against Medical Advice Form,23,4.21320067511664e-05,NULL
+60008.0,View FastNote activity,Telephone Encounter,1,3.80222002665201e-05,NULL
+,Report with patient data printed,bw avs amb -opioid factsheet,8,3.79093488057454e-05,NULL
+17008.0,Report with patient data viewed,IP_RN_MANAGE_LABS,2,3.64949968126085e-05,Chart Review
+17008.0,Report with patient data viewed,ED EXCLUSION ORDER QUESTION,3,3.64854600694444e-05,Chart Review
+,Document edited,,9,3.56088744269477e-05,NULL
+,Successful Break-the-Glass,,23,3.44753265380859e-05,NULL
+17008.0,Report with patient data viewed,ED Previous Visits Summary,3,2.84420119391547e-05,Chart Review
+,Viewed Sign Out Report,,1,2.80915366278754e-05,NULL
+17008.0,Report with patient data viewed,BW IP OB DELIVERY SUMMARY ACTIVITY REPORT,1,2.24823421902126e-05,Chart Review
+,Visit Navigator Assessment Section viewed,,6,1.81150436401367e-05,NULL
+,Report with patient data printed,BW ED AVS Additional Print Outs - Viral Illness Education,2,1.69534153408474e-05,NULL
+,Telephone documentation filed from Card View,Telephone Encounter,161,1.63263744778103e-05,NULL
+17008.0,Report with patient data viewed,IP RW NOTE DETAILS (RICH TEXT),56,1.21418635050455e-05,Chart Review
+,ADT View Only Admission activity accessed,,5,1.1810196770562e-05,NULL
+17664.0,Synopsis activity accessed,,11,1.04729334513346e-05,NULL
+,Interface message resubmitted in Bridges,,6,1.00445747375488e-05,NULL
+,Report with patient data printed,AN Record Report,4,9.76694954766167e-06,NULL
+,Report with patient data printed,AMB Adolescent After Visit Summary,4,9.28693347507053e-06,NULL
+,Report with patient data printed,BW AVS - OPIOD FACTSHEET,2,5.01394271850586e-06,NULL
+,Report with patient data printed,BW IP AVS - CONTROLLED SUBSTANCES,2,4.59935930040147e-06,NULL
+,Travel History accessed,,1,4.49524985419379e-06,NULL
+,Report with patient data printed,BW ED AVS PATIENT RESULTS,2,4.43511539035373e-06,NULL
+,OR report printed,BW OR CASE PREF CARD PRINT 2,2,4.23510869344075e-06,NULL
+,Report with patient data printed,AMB Smarttext Prescription Ladder Style,2,3.70581944783528e-06,NULL
+17008.0,Report with patient data viewed,RIS SCREENING FORM PROB LIST AND SURG HX,59,3.052552541097e-06,Chart Review
+,Report with patient data printed,AMB Smarttext Prescription Elect Sig Ladder Style,1,3.00566355387369e-06,NULL
+17008.0,Report with patient data viewed,HOD Order Report,48,2.99321280585394e-06,Chart Review
+,Document moved,,1,2.9052628411187e-06,NULL
+17228.0,Chart Review Encounter report viewed,BJC HH Transfer Summary - Encounter,1,2.88804372151692e-06,Chart Review
+17008.0,Report with patient data viewed,RIS SCREENING FORM HEADER,59,2.80512703789605e-06,Chart Review
+,Report with patient data printed,Cerner Reference Lab Requisition Without Labels,1,2.66949335734049e-06,NULL
+,Report with patient data printed,BJC ED PROVIDER/PATIENT EMTALA FORM,1,2.28484471638997e-06,NULL
+17008.0,Report with patient data viewed,FS IMG Past Implant MRI Exam Safety,59,2.16060214572482e-06,Chart Review
+,OR report printed,OR Surgical Handoff,1,1.83052486843533e-06,NULL
+,Report with patient data printed,OR RTF CASELOG SUMMARY,6,6.04788462320963e-07,NULL
+17008.0,Report with patient data viewed,ED Wet Reads Results,10,5.3564707438151e-07,Chart Review
+94023.0,Report viewed,HKU SIGNED ORDER REPORT,5,4.4160419040256e-07,Chart Review
+,Potential Duplicate Expand window opened,,1,3.08884514702691e-07,NULL
+,Attestation recorded in Intraprocedure,,2,3.0729505750868e-07,NULL
+,Report with patient data printed,RESULT DETAIL REPORT,5,1.88085767957899e-07,NULL
+17008.0,Report with patient data viewed,CV PV Report,4,1.66893005371093e-07,Chart Review
+,Report with patient data printed,BW OR CASE PREF CARD PRINT 2,2,1.57886081271701e-07,NULL
+17008.0,Report with patient data viewed,BW Lab Result Report - Potential Donor Information,4,1.46759880913628e-07,Chart Review
+,Report with patient data printed,OR Surgical Handoff,1,6.75519307454427e-08,NULL
+17008.0,Report with patient data viewed,OPH Result Report,1,4.42398918999566e-08,Chart Review
+,Order printed from Chart Review,HSD Results Report: OR GI Procedure Performed,1,0.0,NULL
+,Care Everywhere document printed,,1,0.0,NULL
+,Video imported,,1,0.0,NULL
+17008.0,Report with patient data viewed,BW OR RTF REQUISITION REPORT,1,0.0,Chart Review
+17239.0,Note printed from Chart Review,Subjective & Objective,1,0.0,NULL
