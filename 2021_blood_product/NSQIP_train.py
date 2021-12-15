@@ -128,14 +128,13 @@ def fit_NSQIP(random_state = 1, perform_cv=False):
                            need to have only 1 model in model list, and uncomment relevant hyperparameters
     '''
     # Read data
-    data = pd.read_csv('puf16-18_lite_v3.csv')
+    data = pd.read_csv('puf16-18_lite_v4.csv')
 
     feat_to_exclude = ['PUFYEAR', 'CaseID', 'OTHBLEED', 'NOTHBLEED', 'DOTHBLEED', 'CPT', 'PRNCPTX',\
-                       'count', 'HtoODay', 'INOUT', 'SDSA', 'EMERGNCY', 
-                       # 'percent_transfused' #####!!!!
-                       'PRWBC',
+                       'count', 'HtoODay', 'INOUT', 'SDSA', 'EMERGNCY', 'PRWBC',
+                       'ASA', # removed ASA score as a predictor
                        'BLEEDDIS', 'RENAFAIL', 'STEROID',
-                       'NOTHBLEED_d3'
+                       'NOTHBLEED_d0'
                        ]
     feat_used = list(set(data.columns.to_list()) - set(feat_to_exclude))
     print(feat_used)

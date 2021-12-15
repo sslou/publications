@@ -49,7 +49,7 @@ if __name__ == '__main__':
     # this is made up patient data
     example_data = {'PRSODM' : 140, 'PRALBUM' : 4.0, 'DIALYSIS' : 0, 'PRPLATE' : 100, 'HYPERMED' : 1,
               'HEIGHT' : 65, 'PRHCT' : 30, 'PRCREAT' : 1.0 , 'PRPTT' : 33, 'HXCHF' : 0, 'WEIGHT' : 190,
-              'ELECTSURG' : 1, 'HXCOPD' : 1, 'PRBILI' : 1.0, 'ASA': 3, 'SEX' : 1, 'percent_transfused': 1.3,
+              'ELECTSURG' : 1, 'HXCOPD' : 1, 'PRBILI' : 1.0, 'SEX' : 1, 'percent_transfused': 1.3,
               'PRINR' : 1, 'DIABETES' : 1, 'SMOKE' : 1, 'Age': 70}
     example_data = pd.DataFrame(example_data, index=[0])
 

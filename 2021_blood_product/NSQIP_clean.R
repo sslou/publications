@@ -84,8 +84,8 @@ clean_puf19 = function(puf) { # works for PUF19 and onwards presumably
     )
   df = mutate_puf(df)
   df = df %>%
-    mutate(NOTHBLEED_d3 = case_when(NOTHBLEED == 1 & DOTHBLEED < 3 ~ 1,
-                               NOTHBLEED == 1 & DOTHBLEED >= 3 ~ 0,
+    mutate(NOTHBLEED_d0 = case_when(NOTHBLEED == 1 & DOTHBLEED < 1 ~ 1,
+                               NOTHBLEED == 1 & DOTHBLEED >= 1 ~ 0,
                                TRUE ~ 0
                                )
     )
@@ -123,9 +123,9 @@ df = rbindlist(list(df16, df17, df18), use.names = T)
 
 df = df %>%
   mutate(
-    NOTHBLEED_d3 = case_when(
-      NOTHBLEED == 1 & DOTHBLEED < 3 ~ 1,
-      NOTHBLEED == 1 & DOTHBLEED >= 3 ~ 0,
+    NOTHBLEED_d0 = case_when(
+      NOTHBLEED == 1 & DOTHBLEED < 1 ~ 1,
+      NOTHBLEED == 1 & DOTHBLEED >= 1 ~ 0,
       TRUE ~ 0
     )
   ) %>%
@@ -135,4 +135,4 @@ df = df %>%
     percent_transfused = sum(NOTHBLEED_d3)/n() *100
   )
 
-data.table::fwrite(df, '/storage1/fs1/lu/Active/ehrlog/blood_product/puf16-18_lite_v3.csv')
+data.table::fwrite(df, '/storage1/fs1/lu/Active/ehrlog/blood_product/puf16-18_lite_v4.csv')

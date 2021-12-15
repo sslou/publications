@@ -18,7 +18,7 @@ class SK_model:
 
 
 if __name__ == '__main__':
-    data_train = load_NSQIP_data('puf16-18_lite_v3.csv', forward = False)
+    data_train = load_NSQIP_data('puf16-18_lite_v4.csv', forward = False)
     y_train = data_train.NOTHBLEED_d3
     
     # borrow preprocessing pipeline from LR
