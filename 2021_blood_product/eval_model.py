@@ -62,7 +62,7 @@ def run_model(data_pipeline, data_source, prefilter = None):
         y_test = test_data.NOTHBLEED
     else:
         test_data = load_NSQIP_data(data_source, forward = True)
-        y_test = test_data.NOTHBLEED_d3
+        y_test = test_data.NOTHBLEED_d0
         # y_test = test_data.NOTHBLEED
     test_static = test_data[feat_used]
     test_text = test_data['CPT_name']
