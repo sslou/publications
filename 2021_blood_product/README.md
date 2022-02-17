@@ -1,4 +1,6 @@
-# Personalized surgical transfusion risk prediction using machine learning
+# Personalized surgical transfusion risk prediction using machine learning to guide preoperative type and screen orders
+
+Code for the models described in [*Anesthesiology*, 2022](https://doi.org/10.1097/ALN.0000000000004139).
 
 ## Scripts
 1. `NSQIP_train.py`
