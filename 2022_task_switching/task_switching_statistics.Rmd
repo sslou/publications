@@ -1,0 +1,232 @@
+---
+title: "task_switching_analysis"
+authors: "Seunghwan (Nigel) Kim, Sunny Lou"
+date: "1/23/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Setup and load data
+required libraries: dplyr, tidyr, ggplot2, ggpubr, lmerTest, lubridate
+```{r lib, results='hide', error=FALSE, warning=FALSE, message=FALSE}
+# install.packages('ggpubr')
+# install.packages('lmerTest')
+# install.packages('lubridate')
+# install.packages('tidyr')
+
+library(dplyr)
+library(ggplot2)
+library(ggpubr)
+library(lmerTest)
+library(lubridate)
+library(tidyr)
+```
+
+## Generate Table 1
+Basic user measurements (median(IQR))
+
+```{r table1}
+df_phys = read.csv('./result/user_measurements_ICUattendings_physicians_anesthesiologists_01252022.csv')
+df_np_pa = read.csv('./result/user_measurements_NP_PA_shifts_01252022.csv')
+
+# Attending physicians
+
+# imputing NAs to 0 for two columns (Valid. Python code should have been filling these with 0 but it was written in a way that it filled them with NA)
+df_phys$num_pts_w_notes[is.na(df_phys$num_pts_w_notes)] <- 0
+df_phys$num_pts_w_orders[is.na(df_phys$num_pts_w_orders)] <- 0
+
+dim(df_phys)
+df_phys = df_phys[(df_phys$num_actions != 0), ] #decided to use
+
+df_phys %>%
+  select(total_ehr_time, afterhours_ehr_time, num_pts_viewed, num_actions,
+         num_messages, inbox_time, num_orders, order_time, num_note, time_note, 
+         review_time, num_pts_w_notes, num_pts_w_orders, tot_switches, tot_sessions,
+         avg_session_duration, avg_switch_per_session, switch_rate_100, 
+         avg_timedelta_switches, switches_per_minute_session,
+         switches_per_hour_ehr_time) %>%
+  summary()
+
+
+# APPs
+
+df_np_pa$num_pts_w_notes[is.na(df_np_pa$num_pts_w_notes)] <- 0
+df_np_pa$num_pts_w_orders[is.na(df_np_pa$num_pts_w_orders)] <- 0
+
+dim(df_np_pa)
+df_np_pa = df_np_pa[(df_np_pa$num_actions != 0), ]
+dim(df_np_pa)
+
+df_np_pa %>%
+  select(total_ehr_time, afterhours_ehr_time, num_pts_viewed, num_actions,
+         num_messages, inbox_time, num_orders, order_time, num_note, time_note, 
+         review_time, num_pts_w_notes, num_pts_w_orders, tot_switches, tot_sessions,
+         avg_session_duration, avg_switch_per_session, switch_rate_100, 
+         avg_timedelta_switches, switches_per_minute_session,
+         switches_per_hour_ehr_time) %>%
+  summary()
+```
+## Task switching and Total EHR time
+linear mixed effects model
+- target: total_ehr_time
+- fixed effect: switch rate, gender, patient load
+- random effect: individual
+
+```{r physicians}
+m1_phys = lmer(total_ehr_time ~ 
+                 switch_rate_100+Gender+num_pts_w_notes+(1|USER_ID), df_phys)
+
+summary(m1_phys)
+confint(m1_phys)
+
+```
+
+```{r APPs}
+# models
+m1_np_pa = lmer(total_ehr_time ~ 
+                 switch_rate_100+Gender+num_pts_w_notes+(1|USER_ID), df_np_pa)
+
+summary(m1_np_pa)
+confint(m1_np_pa)
+```
+
+### Scale coefficients using interquartile range (IQR)
+Example: For a 1st to 3rd quartile increase in switch rate per 100 actions (i.e., from 4.027 to 8.579 switches per 100 actions), the total time spent on EHR increases by 25% (RR=1.25, 95% CI 1.03-1.47).
+
+```{r coeffs scaled by iqr}
+scale_coefs_by_iqr = function(m, vars, df, ci_method = 'profile') {
+  # m - saved model object
+  # vars - list of string variable names in m, in alphabetical order
+  # df - data table containing the data used for the model
+  # ci_method - "profile" to calculate profile confidence intervals, wald otherwise
+  betas = fixef(m) 
+  if (ci_method == 'profile') {
+    cis = confint(m)
+  } else {
+    cis = confint.default(m)
+  }
+  betas = betas[vars]
+
+  lower_ci = cis[vars, 1]
+  upper_ci = cis[vars, 2]
+
+  
+  iqrs = rstatix::get_summary_stats(df[vars], type='median_iqr')
+  iqrs
+  iqrs = iqrs %>%
+    mutate(
+      beta_scaled = iqr*betas,
+      lower = iqr*lower_ci,
+      upper = iqr*upper_ci
+           )
+  iqrs
+  return(iqrs)
+}
+```
+
+``` {r switch rate per 100}
+# Switch rate per 100 actions
+
+m_app = m1_np_pa # m1_phys
+m_phys = m1_phys
+
+vars = c('num_pts_w_notes', 'switch_rate_100') # alphabetical order
+
+iqrs_app = scale_coefs_by_iqr(m_app, vars, df_np_pa)
+iqrs_app
+iqrs_phys = scale_coefs_by_iqr(m_phys, vars, df_phys)
+iqrs_phys
+
+```
+
+## Wrong patient analysis
+
+### Advanced practice provider RAR statistics
+
+```{r}
+df = read.csv('./result/user_measurements_NP_PA_shifts_01252022.csv') %>%
+  mutate(
+    switch_rate_hour = tot_switches/total_ehr_time
+  ) %>%
+  filter(num_actions > 0)
+
+# head(df)
+```
+
+```{r}
+df %>% # distribution of num RAR events per day per provider
+  count(RAR_count)
+
+df %>% # some providers make more errors than others
+  group_by(USER_ID) %>%
+  summarize(num_errors_tot = sum(RAR_count),
+            num_shifts = n(),
+            errors_per_shift = num_errors_tot/num_shifts
+            ) %>%
+  ggplot(aes(errors_per_shift)) + geom_histogram() + 
+    ylab('count of providers') + xlab('mean RAR events per shift by provider')
+
+# df %>% # num shifts per provider
+#   count(USER_ID)
+# 
+# sum(df$num_actions)
+```
+
+### RAR analysis normalized by number of EHR actions
+
+**Interpretation:** The relationship between switch rate normalized per 100 EHR actions and RAR events is shown below. For a 1st to 3rd quartile increase in switch rate per 100 actions (i.e., from 4.027 to 8.579 switches per 100 actions), the rate of RAR events increases by 28% (RR=1.28, 95% CI 1.04-1.55).
+
+```{r}
+df_ = df %>% filter(num_orders > 0) # remove shifts were no orders were placed
+ 
+rar_model = glm(RAR_count ~ switch_rate_100 + num_pts_w_notes
+                + offset(log(num_orders)),
+                family = "poisson", data = df_)
+summary(rar_model)
+exp(cbind(rate_ratio=coef(rar_model), confint(rar_model)))
+summary(df$switch_rate_100)
+```
+
+```{r coeffs scaled by iqr}
+scale_coefs_by_iqr = function(m, vars, df, ci_method = 'profile') {
+  # m - saved model object
+  # vars - list of string variable names in m, in alphabetical order
+  # df - data table containing the data used for the model
+  # ci_method - "profile" to calculate profile confidence intervals, wald otherwise
+  betas = coef(m) 
+  if (ci_method == 'profile') {
+    cis = confint(m)
+  } else {
+    cis = confint.default(m)
+  }
+  betas = betas[vars]
+  lower_ci = cis[vars, 1]
+  upper_ci = cis[vars, 2]
+  
+  iqrs = rstatix::get_summary_stats(df[vars], type='median_iqr')
+  iqrs = iqrs %>%
+    mutate(
+      beta_scaled = iqr*betas,
+      lower = iqr*lower_ci,
+      upper = iqr*upper_ci
+           )
+  return(iqrs)
+}
+
+m = rar_model
+vars = c('num_pts_w_notes', 'switch_rate_100') # alphabetical order
+# iqrs = scale_coefs_by_iqr(m, vars, df_)
+iqrs = scale_coefs_by_iqr(m, vars, df)
+
+# exponentiated beta coefficients
+iqrs %>%
+  mutate(
+    rate_ratio = exp(beta_scaled),
+    lower = exp(lower),
+    upper = exp(upper)
+  ) %>%
+  select(variable, rate_ratio, lower, upper, median, iqr)
+```
