@@ -30,7 +30,7 @@ def load_BJH_data(data_filename, prefilter=None):
         - returns dataframe 
     '''
     data = pd.read_csv(data_filename, encoding='cp1252')
-    data.rename(columns={'AN_PROC_NAME':'CPT_name'}, inplace=True)
+    data.rename(columns={'AN_PROC_NAME':'CPT'}, inplace=True)
     if prefilter:
         data = data.loc[data['count'] > prefilter, :]
     return data
