@@ -3,7 +3,6 @@ from utils import *
 from single_var_model import SK_model
 import sklearn
 import random
-from song_additionals import *
 from sklearn.calibration import calibration_curve
 import matplotlib.pyplot as plt
 
@@ -66,7 +65,7 @@ def run_model(data_pipeline, data_source, prefilter = None):
         y_test = test_data.NOTHBLEED
     else:
         test_data = load_NSQIP_data(data_source, forward = True)
-        y_test = test_data.NOTHBLEED_d3
+        y_test = test_data.NOTHBLEED_d0
         # y_test = test_data.NOTHBLEED
     test_static = test_data[feat_used]
     test_text = test_data['CPT']
