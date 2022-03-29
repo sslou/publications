@@ -39,7 +39,7 @@ def single_force_plot(i, html=True):
 
 
 if __name__ == '__main__':
-    data_pipeline = joblib.load('model/XGB_pipeline.joblib')
+    data_pipeline = joblib.load('models/XGB_pipeline.joblib')
 
     model = data_pipeline.model
     imputer = data_pipeline.imputer
@@ -63,5 +63,3 @@ if __name__ == '__main__':
     explainer = shap.TreeExplainer(model)
     shap_values = explainer.shap_values(data_scaled)
     single_force_plot(0)
-
-

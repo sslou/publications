@@ -1,7 +1,10 @@
+import sys, joblib
 from utils import *
 from single_var_model import SK_model
 import sklearn
 import random
+from sklearn.calibration import calibration_curve
+import matplotlib.pyplot as plt
 
 def evaluate(model, X_test, y_test, best_threshold=None, plot=False):
     # Testing
@@ -65,11 +68,12 @@ def run_model(data_pipeline, data_source, prefilter = None):
         y_test = test_data.NOTHBLEED_d0
         # y_test = test_data.NOTHBLEED
     test_static = test_data[feat_used]
-    test_text = test_data['CPT_name']
-    
+    test_text = test_data['CPT']
+
     # transform data
     if perform_impute:
         test_static, _ = perform_imputation(test_static, imputer=data_pipeline.imputer)
+        data_imputed = test_static
     else:
         data_imputed = test_static
     X_test = data_pipeline.normalizer.transform(data_imputed)
@@ -84,7 +88,7 @@ def run_model(data_pipeline, data_source, prefilter = None):
 def bootstrap_stats(model, X_test, y_test, best_threshold = None, data_size =100000):
     y_test = np.array(y_test)
     y_prob = model.predict_proba(X_test)[:, 1]
-    observed_result = pd.Series(calculate_metrics(y_test, y_prob, best_threshold), 
+    observed_result = pd.Series(calculate_metrics(y_test, y_prob, best_threshold),
         index = ['AUROC', 'AUPRC', 'Sensitivity', 'Specificity', 'PPV', 'FractionPos', 'Brier'], name='Observed')
     boot_results = []
     # run bootstrapping
@@ -93,9 +97,9 @@ def bootstrap_stats(model, X_test, y_test, best_threshold = None, data_size =100
         y_prob_r = y_prob[rand_i]
         y_test_r = y_test[rand_i]
         boot_results.append(calculate_metrics(y_test_r, y_prob_r, best_threshold))
-    
+
     # summarize results
-    boot_results = pd.DataFrame(boot_results, 
+    boot_results = pd.DataFrame(boot_results,
         columns = ['AUROC', 'AUPRC', 'Sensitivity', 'Specificity', 'PPV', 'FractionPos', 'Brier'])
     return pd.concat([observed_result, boot_results.quantile(0.025), boot_results.quantile(0.975)], axis=1)
 
@@ -120,12 +124,12 @@ def main(data_pipeline, model_name = '', bootstrap = False, plot=False):
     if plot:
         fpr, tpr, prec, rec, obs_pos, pred_pos = plot_auc(model, X_test, y_test)
 
-    data_source = './raw_data/2020_BJH_Labs_Notes.csv'
+    data_source = './bjh/2020_BJH_Labs_Notes.csv'
     model, X_test, y_test, new_threshold = run_model(data_pipeline, data_source, prefilter = 50)
     print('BJH threshold', new_threshold)
 
     if bootstrap:
-        bootstrap_cis2 = bootstrap_stats(model, X_test, y_test, 
+        bootstrap_cis2 = bootstrap_stats(model, X_test, y_test,
             best_threshold=new_threshold, data_size = 20000).add_prefix('BJH50_')
         output = pd.concat([bootstrap_cis, bootstrap_cis2], axis=1)
         output.to_csv('./result/result_bootstrap_' + model_name + '.csv')
@@ -148,16 +152,15 @@ def main(data_pipeline, model_name = '', bootstrap = False, plot=False):
         return (fpr, tpr, rec, prec, fpr1, tpr1, rec1, prec1)
 
 if __name__ == '__main__':
-    model_list = {  
-                    'baseline' : './model/baseline_pipeline.joblib',
-                    'LR' : './model/LogisticRegression_pipeline.joblib',
-                    'DT' : './model/DecisionTreeClassifier_pipeline.joblib',
-                    # 'RF' : './model/RandomForestClassifier_pipeline.joblib',
-                    'XGB': './model/XGB_pipeline.joblib',
+    model_list = {
+                    'baseline' : './models/baseline_pipeline.joblib',
+                    'LR' : './models/LogisticRegression_pipeline.joblib',
+                    'DT' : './models/DecisionTreeClassifier_pipeline.joblib',
+                    # 'RF' : './models/RandomForestClassifier_pipeline.joblib',
+                    'XGB': './models/XGB_pipeline.joblib',
                     }
     curves = []
     for name in model_list:
         data_pipeline = joblib.load(model_list[name])
         c = main(data_pipeline, name, bootstrap = True, plot=True)
         curves.append(c)
-
