@@ -94,3 +94,12 @@ def calculate_metrics(y_test, y_prob, best_threshold = None, verbose = False):
         print('brier:', brier)
         print('threshold:', best_threshold)
     return (auroc, auprc, sens, spec, PPV, frac_pos, brier)
+
+def perform_imputation(data, imputer=None):
+    if imputer == None:
+        imp = SimpleImputer(missing_values=np.nan, strategy='median')
+        imp.fit(data)
+    else:
+        imp = imputer
+    data = imp.transform(data)
+    return pd.DataFrame(data), imp
