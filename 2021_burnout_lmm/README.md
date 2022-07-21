@@ -1,4 +1,6 @@
-# Proximal EHR-based workload explains temporal variation in burnout: a prospective cohort study
+# Temporal Associations Between EHR-Derived Workload, Burnout, and Errors: a Prospective Cohort Study
+
+Code to reproduce audit log-derived workload measurements and statistical models described in [Lou et al., *J. Gen. Intern. Med.*, 2022](https://doi.org/10.1007/s11606-022-07620-3).
 
 ## Files
 - measure_access_logs.py
