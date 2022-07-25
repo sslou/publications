@@ -3,13 +3,14 @@
 Code for Lou et al., Characterizing the macrostructure of EHR work using raw audit logs: an unsupervised action embeddings approach
 
 #### Augmenting raw audit log data with additional report and note detail
-1. Pull relevant audit log data and associated metadata from Clarity using `detailed_audit_log_query.sql`. This query generates 4 files for each user: 
-        - `access_log_raw.csv` (i.e. the raw `ACCESS_LOG` table)
-        - `access_log_raw_mnemonics.csv` (shows all mnemonic metadata available for each action in the raw audit log, i.e., there is one row for each action and mnemonic available)
-        - `access_log_HNO.csv` (contains `REPORT_NAME` for only those audit log entries with HNO mnemonic metadata)
-        - `access_log_LRP_Reports_View.csv` (contains `REPORT_NAME` for only those audit log entries with LRP mnemonic metadata)
+1. Pull relevant audit log data and associated metadata from Clarity using `detailed_audit_log_query.sql`. This query generates 4 files for each user:  
+    * `access_log_raw.csv` (i.e. the raw `ACCESS_LOG` table)
+    * `access_log_raw_mnemonics.csv` (shows all mnemonic metadata available for each action in the raw audit log, i.e., there is one row for each action and mnemonic available)
+    * `access_log_HNO.csv` (contains `REPORT_NAME` for only those audit log entries with HNO mnemonic metadata)
+    * `access_log_LRP_Reports_View.csv` (contains `REPORT_NAME` for only those audit log entries with LRP mnemonic metadata)
+        
 2. Generate the detailed audit log by combining the 4 generated files above using `access_log_pipeline.py`.
-        - output file: `access_log_complete.csv`, this is the final detailed audit log with `METRIC_NAME` and `REPORT_NAME` columns (where available)
+    * output file: `access_log_complete.csv`, this is the final detailed audit log with `METRIC_NAME` and `REPORT_NAME` columns (where available)
 
 #### Parsing detailed audit log files to generate the token list (vocabulary of actions)
 1.  `log_parsing.py` - Reads all audit logs, tokenizes `METRIC_NAME`-`REPORT_NAME` pairs, splits audit logs into sessions, and writes the corpus of tokenized actions to disk.
