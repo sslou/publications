@@ -1,0 +1,86 @@
+token,tsne_x,tsne_y,action,metric_category,count,time_diff
+4,2.2224572,-12.418293,Inpatient system list accessed-nan,Navigation,779862,1894.46747740003
+21,2.8700118,-12.852129,Inpatient Patient Lists list loaded-nan,Navigation,474284,119.656789422829
+70,4.720645,-13.082067,Notes viewed-Notes Activity Display,Note Review,437612,2486.80782960123
+52,4.008481,-11.960284,Storyboard viewed-IP Inpatient Physician Storyboard,Navigator,332478,361.751723598109
+78,3.8314261,-13.450712,Report with patient data viewed-IP Sidebar Physician Index,Chart Review,282916,672.395375913514
+72,4.394422,-15.042058,Viewed Handoff Data-nan,Handoff,224767,1295.33495988369
+85,-0.31541598,-11.747543,Results Review accessed-nan,Chart Review,208511,1375.72156905121
+92,2.949527,-13.834845,Report with patient data viewed-IP Vitals Patient List,Chart Review,206223,684.159699938827
+96,0.11411458,-11.9963665,Results Review exited-nan,Navigation,114810,259.659667174286
+666,4.9128866,-11.596823,Report with patient data viewed-IP Adult Clinical Overview,Chart Review,107741,130.874898094866
+140,4.1842837,-15.214216,Edited Handoff Data-nan,Handoff,67752,228.226503465705
+529,1.4266976,-15.264507,Report with patient data viewed-IP Nursing Clinical Overview,Chart Review,49132,62.9291810989379
+270,5.607824,-15.855367,Report with patient data viewed-IP Labs 72h,Chart Review,42717,140.507248774369
+762,0.052080113,-19.947147,Report with patient data viewed-IP Labs Since Admission,Chart Review,38763,180.40931763596
+111,2.437248,-18.182993,Report with patient data viewed-IP Vitals,Chart Review,31461,237.027730723751
+141,2.3222888,-19.255486,Report with patient data viewed-IP Comprehensive Flowsheet,Chart Review,28664,256.76774282217
+254,-0.47346735,-10.379065,Report with patient data viewed-IP Handoff Report,Handoff,26707,101.42780958467
+113,-2.0738158,-13.765435,Printing occurred-nan,,24734,196.492972894509
+60,0.52050817,-13.695764,BestPractice Advisories viewed-nan,BPA,19167,142.554979270564
+142,1.8796555,-18.843464,Intake/Output activity accessed-nan,Chart Review,15237,148.509188246197
+130,3.5416062,-18.009108,Report with patient data viewed-IP MAR History,Chart Review,14646,152.340606645478
+274,2.7673554,-20.605541,Report with patient data viewed-IP Glucose Management,Chart Review,12229,85.9736603938208
+483,-3.7509162,-16.137604,Report with patient data viewed-Blood Admin Procedure Ordering Report,Chart Review,10257,26.7548691127035
+269,4.7602415,-16.550291,Report with patient data viewed-IP 72h I/O,Chart Review,8668,37.1039025057686
+32,1.0452924,-12.787724,Patient Chart Advisories viewed-PATIENT CHART ADVISORIES REPORT,BPA,7374,18.1692235496309
+338,2.0345914,-21.16986,Report with patient data viewed-IP Microbiology Results,Chart Review,7134,54.0706482916408
+46,8.10151,-11.629147,Sign In viewed-nan,,7082,34.7265476255946
+738,3.960866,-19.506437,Report with patient data viewed-Rx Recent Medication Administrations,Chart Review,6648,52.6226920069588
+47,8.394149,-11.556965,Sign In modified-nan,,6240,5.5524020409584
+184,-3.4799895,-14.158367,BestPractice Advisories acknowledged-nan,BPA,6201,9.52188097715377
+199,1.0088431,-18.437658,Report with patient data viewed-IP Weights,Chart Review,5719,35.2417035712136
+217,1.6983452,-21.216759,Report with patient data viewed-IP Fever/Antibiotic Dosing,Chart Review,4499,26.0504296342531
+480,2.2867548,-22.002958,Report with patient data viewed-IP Radiology Results,Chart Review,4339,24.5862247496181
+112,8.694304,-12.281862,Handoff data printed-nan,,4235,0.0079981430371602
+354,4.1357265,-20.237291,Report with patient data viewed-IP Labs 21 Day,Chart Review,3786,30.9534635138511
+159,-4.039505,-13.890779,Actions taken from a BestPractice Advisory-nan,BPA,3631,16.9884657054477
+948,3.9054916,-10.372763,Storyboard viewed-ONC Inpatient Oncology Physician Storyboard,Navigator,3586,3.48226186752319
+774,6.386824,-17.040462,Report with patient data viewed-IP Current IP Meds,Chart Review,2823,8.30291712601979
+706,2.2593095,-23.013168,Report with patient data viewed-IP Pain Management,Chart Review,2446,15.0853954315185
+874,-0.45449463,-15.966613,Report with patient data viewed-IP MAR,Chart Review,2409,18.3178410747316
+723,-1.9780897,-22.4062,Report with patient data viewed-IP Blood Transfusion Summary,Chart Review,2005,9.74595544868045
+679,-1.3459167,-19.801966,Report with patient data viewed-IP ICU Labs Overview,Chart Review,1819,10.9674286704593
+766,-2.4957464,-19.191458,Report with patient data viewed-IP Active Orders Report,Chart Review,1693,7.12690448628531
+74,6.718673,-14.341234,Report with patient data viewed-IP ORD MANAGE ORDERS NEEDING COSIGN,Chart Review,1455,3.47666792525185
+1364,6.0656867,-12.710244,Report with patient data viewed-IP Therapy/Clerk/Case Management Clinical Overview,Chart Review,1434,4.25525471157497
+698,8.166076,-16.326878,Report with patient data viewed-IP Physician Sidebar LDAs,Chart Review,1273,12.2185171238581
+256,-3.1179361,-18.782747,Report with patient data viewed-IP Provider Notes,Chart Review,1176,4.59189534266789
+304,8.703183,-14.871166,Clinical Note Signed-Significant Event,Note Entry,927,1.54803931448194
+763,7.809999,-19.04499,Report with patient data viewed-MD New Order Time Mark,Chart Review,819,2.50872945944468
+873,0.36435443,-22.277815,Report with patient data viewed-IP Intake Output,Chart Review,791,5.1804202138053
+272,1.9327525,-11.095251,Report with patient data viewed-IP MD Patient Overview Patient Lists,Chart Review,760,2.28642644617292
+823,1.2963982,-23.717949,Report with patient data viewed-IP LDA Documentation,Chart Review,744,5.74685401651594
+717,3.8828413,-21.969225,Report with patient data viewed-IP LDA Active and Removed,Chart Review,729,6.42402027951346
+148,3.0464194,-16.918964,Inpatient Synopsis activity accessed-nan,Navigator,703,7.09471117337544
+925,7.40012,-24.822123,Report with patient data viewed-AMB Current Meds and Allergies,Chart Review,678,3.83695731295479
+896,1.7568536,-25.137611,Report with patient data viewed-Rx Antimicrobial Monitoring,Chart Review,649,3.5238019267718
+696,-0.21825577,-22.799847,Report with patient data viewed-IP URO Clinical Overview,Chart Review,571,4.58384074105156
+1131,5.967859,-18.95849,Report with patient data viewed-Rx BJC Split Screen - chlorothiazide injection,Chart Review,517,1.17978816774156
+678,-0.122937396,-24.476393,Report with patient data viewed-IP Anticoagulation Management,Chart Review,511,1.61041687382592
+484,-2.6840644,-22.377392,Report with patient data viewed-IP Blood Administration Procedure,Chart Review,431,1.75310555908415
+962,3.2095962,-24.557335,Report with patient data viewed-RX MAR ADMINISTRATION HISTORY,Chart Review,339,1.38762241919835
+346,0.16608807,-20.815582,Report with patient data viewed-ACCORDION RESULT DETAIL REPORT,Chart Review,334,3.46456061204274
+303,9.24056,-14.900174,Pend clinical note-Significant Event,Note Entry,325,0.302147676679823
+879,-2.7495449,-26.365679,Report with patient data viewed-IP PT Overview,Chart Review,324,3.24773132960001
+961,0.7025471,-25.432966,Report with patient data viewed-Rx Renal Monitoring/Renal Replacement Therapy,Chart Review,296,0.901577590571509
+764,-0.76242965,-16.870903,MAR accessed-nan,,245,1.96610675520367
+964,4.263738,-24.344858,Report with patient data viewed-IP MAR Active,Chart Review,241,1.82790055990219
+843,1.5278897,-17.084028,Report with patient data viewed-IP Vitals Graph,Chart Review,155,1.65903642018636
+317,5.313442,-23.489176,Report with patient data viewed-IP MAR Administration Info,Chart Review,153,1.54038252300686
+1352,-4.1840796,-10.639483,Report with patient data viewed-ED Admit - Widget,Chart Review,150,1.28052934514151
+1039,8.76126,-18.974533,Report with patient data viewed-IP Physician Checklist,Chart Review,147,0.494303637875451
+466,-4.533458,-22.063381,Report with patient data viewed-IP SINGLE TRANSFUSION SUMMARY DETAILS,Chart Review,121,0.199027098284827
+998,5.6032553,-21.286016,Report with patient data viewed-BW IP LONGITUDINAL VITAL SIGNS AND WEIGHT,Chart Review,116,0.826772738827599
+1636,7.000415,-28.44786,Report with patient data viewed-PT Rehab Release,Chart Review,99,0.446649813122219
+880,-2.6959484,-26.439318,Report with patient data viewed-IP OT Overview,Chart Review,95,0.464523255030314
+740,0.5344896,-28.40489,Report with patient data viewed-IP LAB MICROBIOLOGY REPORT,Chart Review,71,0.392887542777591
+1678,7.4641275,-29.061632,Report with patient data viewed-OT Rehab Release,Chart Review,67,0.16735430823432
+921,1.4312625,-27.418747,Report with patient data viewed-IND Narrative/Impression Hover Bubble,Chart Review,62,0.76867678589291
+936,3.3906143,-28.04885,Report with patient data viewed-Adult IP Registered Dietitian Pat Sum/List,Chart Review,54,0.395774278905656
+1067,7.928925,-21.646574,Report with patient data viewed-IP Clinical Overview,Chart Review,47,0.574495149188571
+1241,9.825202,-21.584957,Report with patient data viewed-rx tolvaptan ordering instructions,Chart Review,40,0.101636370023091
+1075,-1.7790803,-11.006049,Report with patient data viewed-IP Patient Reminder Lists,Chart Review,33,0.0395329682032267
+810,2.4616253,-27.523024,Report with patient data viewed-IP FLOWSHEET NOTES,Chart Review,29,0.194063683085971
+1768,8.238127,-25.153393,Report with patient data printed-AMB Current Meds and Allergies,,26,0.209064800209469
+1105,-0.69822913,-26.647003,Report with patient data viewed-IP Flowsheet Hyperlinks,Chart Review,21,0.0798794203334384

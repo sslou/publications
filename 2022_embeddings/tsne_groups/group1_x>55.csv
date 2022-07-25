@@ -1,0 +1,71 @@
+token ID,tsne_x,tsne_y,action,metric_category,count,time_diff
+5,62.7,-1.1,Report viewed-HKU PATIENT SUMMARY WITH ROUNDING INFO,Chart Review,30216,81.90924832
+48,62.0,0.4,Mobile platform opened patient-nan,,28765,3.952453444
+292,62.8,-0.3,Allergies viewed-nan,,28052,1.842922381
+293,63.1,0.4,Medications viewed-nan,Chart Review,28044,8.70137551
+3,60.3,-0.3,Patient List printed-nan,,21478,14.57201782
+6,64.1,-0.1,Notes Review accessed-nan,Note Review,19870,44.56293268
+2,59.2,-0.8,Haiku login-nan,Navigation,16319,32.18950358
+17,61.6,-0.7,Patient photo viewed-nan,Chart Review,15386,11.59495489
+381,58.9,0.2,Mobile session created-nan,,14087,8.568691441
+228,63.7,-1.1,Results List viewed-nan,Results Review,12918,38.22040138
+18,64.6,0.6,Report viewed-Progress Notes,Note Review,12807,115.1336479
+229,64.1,-2.0,Results table viewed-nan,Results Review,10894,60.52349392
+230,62.4,-3.1,Active Orders viewed-nan,Order Entry,4178,54.43374753
+232,64.7,-1.3,Report viewed-HKU ORDER RESULTS,Chart Review,3842,27.67056471
+49,65.6,-0.6,Report viewed-H&P,Note Review,2505,33.52953658
+697,66.8,-2.0,Report viewed-Telephone Encounter,Chart Review,2410,9.056551412
+7,65.6,0.3,Report viewed-Consults,Note Review,2092,23.25602769
+802,65.1,2.8,Notes Entry accessed-nan,Note Entry,1197,2.975159478
+792,67.3,0.9,Report viewed-Nursing Note,Chart Review,1178,5.394988849
+19,63.7,1.6,Encounter List viewed-nan,,1169,3.726741455
+689,66.8,0.1,Report viewed-Significant Event,Chart Review,1086,7.299218324
+294,63.6,2.5,Report viewed-CTO PATIENT ALLERGIES REPORT,Chart Review,1019,6.779081195
+705,61.3,3.9,Image imported-nan,,770,8.256265599
+838,66.5,1.2,Report viewed-Procedures,Chart Review,758,3.552386113
+775,69.0,2.3,Mobile patient Links accessed-nan,,690,0.517799698
+1025,68.9,2.6,Report viewed-HKU ROUNDING REPORT W HANDOFF,Chart Review,639,5.639086077
+355,67.5,-0.7,Report viewed-Discharge Summary,Chart Review,609,6.106068206
+801,68.8,-1.1,Report viewed-ED Triage Notes,Chart Review,573,1.726676277
+673,68.8,-0.1,Report viewed-ED Provider Notes,Chart Review,454,5.015992697
+231,70.3,2.4,Epic Monitor activity accessed-nan,,410,2.894850901
+710,62.3,3.5,Media Manager accessed-nan,,405,2.745301127
+20,69.7,-2.8,Report viewed-HKU OP ENCOUNTER REPORT,Chart Review,388,2.302485677
+973,66.6,9.1,Report viewed-HKU IB CC CHARTS MESSAGE REPORT,Chart Review,292,0.046760376
+809,70.1,-0.1,Report viewed-ED Procedure Note,Chart Review,262,0.767902433
+803,66.7,2.8,Report viewed-nan,Chart Review,262,2.146576151
+1049,79.3,2.8,Report viewed-CTO PATIENT SUMMARY WITH ROUNDING INFO,Chart Review,261,0.647746443
+690,69.7,-0.9,Report viewed-ED Notes,Chart Review,208,0.791336616
+862,70.7,3.3,Report viewed-HKU CARE TEAM,Chart Review,203,1.330731333
+974,67.0,9.2,Report viewed-HKU IB CC CHARTS COMM MESSAGE REPORT,Chart Review,174,0.096154763
+927,71.0,-0.4,Report viewed-ED Re-evaluation Note,Chart Review,166,1.233012486
+1046,68.1,6.0,Canto login success-nan,,149,0.11581653
+981,70.7,4.9,Active Medications viewed-nan,,135,1.371208289
+476,72.8,0.4,Report viewed-HKU IP ENCOUNTER REPORT,Chart Review,131,1.110145063
+707,75.1,-0.3,Report viewed-Anesthesia Preprocedure Evaluation,Chart Review,102,0.867495179
+681,71.5,3.3,Mobile patient dictation accessed-nan,,100,0.192929934
+1163,73.2,-3.5,Report viewed-OPH HKU OP ENCOUNTER REPORT,Chart Review,99,1.321340952
+1081,79.6,0.5,Report viewed-CTO ORDER RESULTS,Chart Review,88,0.306844953
+816,75.9,-1.2,Report viewed-Anesthesia Procedure Notes,Chart Review,86,0.39934784
+834,75.9,-0.3,Report viewed-Anesthesia Postprocedure Evaluation,Chart Review,86,0.429040257
+692,75.5,5.1,Care Everywhere Documents viewed-nan,,76,0.224478847
+765,75.0,-2.1,Report viewed-Op Note,Chart Review,74,0.728602897
+397,67.7,9.0,Report viewed-HKU IB CC CHARTS CR ENCOUNTERS REPORT,Chart Review,71,0.019281973
+691,75.4,5.0,Care Everywhere Summaries viewed-nan,,69,0.008025507
+780,72.5,4.3,Report viewed-CTO PATIENT MEDICATIONS REPORT,Chart Review,56,0.635742603
+898,74.7,-1.1,Report viewed-Medical Student,Chart Review,56,0.624796311
+791,74.1,0.7,Report viewed-HKU HOV ENCOUNTER REPORT,Chart Review,52,0.191354337
+412,73.2,-1.0,Report viewed-OR HKU HP INTERVAL NOTE REPORT,Chart Review,52,0.490748168
+811,76.2,2.0,Intraprocedure Events viewed-nan,,50,0.004626771
+812,76.8,2.4,Report viewed-AN Mobile Preprocedure Report,Chart Review,49,0.189685185
+926,75.9,2.9,Charges Overview report viewed-nan,,43,0.136802917
+970,75.2,2.2,Report viewed-HKU RESHANDOFF ROUNDING REPORT,Chart Review,42,0.500929635
+867,72.6,2.8,Report viewed-HKU QUEUED ORDER REPORT,Chart Review,34,0.186043318
+1337,78.2,-0.3,View Mobile Handoff List Activity-nan,,34,0.108414707
+1043,68.1,9.5,Report viewed-HKU IB CC CHARTS MISC,Chart Review,30,0.004851283
+887,72.3,5.7,iOS Screenshot Taken-nan,,27,0.285583455
+1015,77.0,0.5,Report viewed-Pre-Sedation Documentation,Chart Review,24,0.095784079
+1047,68.2,8.4,Report viewed-HKU IB PT ADVICE REQUEST,Chart Review,24,0.004269125
+1085,78.7,1.2,Report viewed-CTO OP ENCOUNTER REPORT,Chart Review,22,0.026952266
+1048,79.2,2.3,Report viewed-CTO ENC - THIS VISIT,Chart Review,21,0.030404207
+1040,76.3,0.8,Report viewed-Initial Assessments,Chart Review,19,0.233520693

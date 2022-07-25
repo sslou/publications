@@ -1,0 +1,122 @@
+token,tnse_x,tsne_y,action,metric_category,count,time_diff
+13,-8.1824465,6.29252,Chart Review Encounters tab selected-nan,Chart Review,130237,300.123400356504
+87,-10.675806,5.940561,Chart Review Notes tab selected-nan,Chart Review,126730,463.266904527346
+36,-8.815503,5.2634754,Chart Review Other Orders tab selected-nan,Chart Review,87408,272.640334658887
+198,-13.105247,7.2586846,Chart Review Note report viewed-Progress Notes,Note Review,74946,584.897426298724
+149,-9.29207,2.825306,Chart Review Order report viewed-BW Result Report: Lab Integrated Result Template,Chart Review,38797,118.787664231194
+499,-9.2156925,13.052165,Chart Search result hover bubble viewed-nan,Chart Review,38262,79.398135573599
+102,-12.479417,8.832221,Chart Review Note report viewed-Telephone Encounter,Note Review,33078,78.1810210299491
+83,-11.70831,0.9473907,Chart Review Order report viewed-RAD Results Report,Results Review,21595,131.454242684841
+189,-6.6278543,12.301981,Care Everywhere document accessed-nan,Chart Review,14048,119.174397029346
+171,-6.376649,19.086382,Image viewed-nan,Imaging,12635,147.932984199258
+172,-6.6241107,17.773693,Chart Review Media report viewed-HIM MEDIA REPORT,Chart Review,12577,7.45093188020918
+44,-8.929168,12.878543,Chart searched-nan,Chart Review,11822,19.4776086338361
+103,-11.872792,5.381224,Chart Review Note report viewed-H&P,Note Review,11360,132.026375373999
+89,-15.884726,2.623494,Chart Review Note report viewed-ED Provider Notes,Note Review,11182,106.414243669509
+185,-9.256377,2.674891,Chart Review Order report viewed-LAB CHART REVIEW ORDERS REPORT - HYPERLINK,Chart Review,11000,34.7138700048128
+88,-13.76937,5.7170606,Chart Review Note report viewed-Consults,Note Review,10420,104.358602805932
+210,-11.300607,6.995407,Chart Review Note report viewed-Discharge Summary,Note Review,10056,120.130149111217
+182,-15.054896,7.196398,Chart Review Note report viewed-Plan of Care,Note Review,9236,23.6102791841824
+169,0.31026188,17.482824,Chart Review Medications tab selected-nan,Chart Review,8822,50.2989087520705
+108,-13.090561,8.181393,Chart Review Note report viewed-nan,Note Review,6565,23.6944211167759
+146,-5.518469,11.551702,Home tab accessed in Care Everywhere activity-nan,Chart Review,6221,10.3602606140242
+257,-14.132707,18.840446,Chart Review Order report viewed-Amb/IP Result Report v2: Lab and Imaging,Chart Review,5118,18.4820080134603
+420,-13.740868,19.862663,Chart Review Order report viewed-HSD Results Report: OR GI Procedure Performed,Chart Review,4923,17.069107240041
+500,-9.895364,13.622461,Chart Search result preview report viewed-nan,,4862,0.0496067608727349
+233,-11.822729,0.7527924,Chart Review Order report viewed-BW IMAGING REPORT HYPERLINK - DYNAMIC,Results Review,4660,15.9655154424243
+423,-17.332947,17.891373,Chart Review Order report viewed-CV Echo Report,Results Review,4484,45.5934402632713
+170,-7.2435555,17.857037,Chart Review Media tab selected-nan,Chart Review,4246,11.6676988715595
+285,-5.223726,11.951953,Documents tab accessed in Care Everywhere activity-nan,Chart Review,4233,13.526253639592
+567,-15.941137,7.431494,Chart Review Note report viewed-Nursing Note,Note Review,3871,11.6426850965287
+395,-17.047894,2.1078386,Chart Review Note report viewed-ED Triage Notes,Note Review,3858,16.5885847992367
+212,0.19651857,17.66629,Chart Review Order report viewed-Medication Order Report,Chart Review,3444,21.9854315956433
+566,-15.414903,4.892147,Chart Review Note report viewed-Significant Event,Note Review,3324,18.7727236776881
+110,-17.204298,2.5521936,Chart Review Note report viewed-ED Notes,Note Review,3020,5.17756892389721
+286,-5.305712,12.7636175,Lab Results tab accessed in Care Everywhere activity-nan,Chart Review,2523,19.5043771319919
+548,-16.745937,3.3737183,Chart Review Note report viewed-ED Procedure Note,Note Review,2298,4.61998955594168
+523,-5.0207534,13.251348,Other Results tab accessed in Care Everywhere activity-nan,Chart Review,2047,20.4547424038251
+546,-16.338737,8.290056,Chart Review Note report viewed-Procedures,Note Review,1963,7.2669381181399
+195,-15.20162,18.99918,Chart Review Order report viewed-FS AMB ORDER REPORT HYPERLINK - DYNAMIC,Chart Review,1896,5.93284977462556
+614,-16.255127,3.64545,Chart Review Note report viewed-ED Re-evaluation Note,Note Review,1609,8.37286575953165
+454,-20.785675,11.436089,Chart Review Note report viewed-Anesthesia Preprocedure Evaluation,Note Review,1457,8.34295458210839
+417,-4.4082646,12.485986,Summary tab accessed in Care Everywhere activity-nan,Chart Review,1304,3.59359242359797
+431,-17.979975,18.072014,Chart Review Order report viewed-BW CV Cardiac Cath Report,Results Review,1241,15.5729234030511
+268,-4.787616,10.78951,Report with patient data viewed-CE STORYBOARD HOVER BUBBLE REPORT,Chart Review,1202,6.816711499691
+440,-17.707926,17.385674,Chart Review Order report viewed-CV FS ORDER REPORT HYPERLINK - DYNAMIC,Chart Review,1034,5.45206533352533
+98,0.90824765,1.0181934,Allergies activity accessed-nan,,1000,2.93932835472954
+535,-8.962272,13.959637,Chart Search result report opened-nan,,973,0.0652375825246175
+301,-18.210573,10.759879,Chart Review Note report viewed-Op Note,Note Review,957,9.63031563970777
+465,-15.79542,19.204132,Chart Review Order report viewed-IP NEURO RESULT REPORT CHART REVIEW,Chart Review,793,5.19586947335137
+196,-8.362071,3.6542892,Chart Review Order report viewed-BW Pathology Results,Results Review,774,3.29427905744976
+453,-19.885334,11.190569,Chart Review Note report viewed-Anesthesia Postprocedure Evaluation,Note Review,771,2.046164074209
+463,-20.002321,12.104285,Chart Review Note report viewed-Anesthesia Procedure Notes,Note Review,750,2.26246735413869
+449,-19.23145,18.302004,Chart Review Order report viewed-CV Cardiac Services Report,Results Review,638,1.74446781502829
+606,-14.996805,6.1687326,Chart Review Note report viewed-Medical Student,Note Review,634,4.43498342408074
+620,-18.177986,1.8724775,Chart Review Note report viewed-ED Pre-Arrival Note,Note Review,634,3.18449794001049
+511,-21.46642,11.830835,Chart Review Note report viewed-Perioperative Nursing Note,Note Review,621,1.30767093420028
+461,-20.114536,9.799775,Chart Review Note report viewed-Post-Procedure Note,Note Review,612,3.28636476728651
+719,1.3182651,16.64572,Medications activity accessed-nan,Order Entry,593,4.94038137250476
+246,-8.464736,18.370417,Chart Review Media report viewed-MEDIA REPORT: MEDIA INFORMATION,,576,0.720170819494459
+109,-11.73436,4.0688643,Note printed from Chart Review-H&P,,532,5.43103966050677
+683,-17.169575,6.786061,Chart Review Note report viewed-Provider Query,Note Review,483,1.05462918334537
+552,-19.132763,12.130897,Chart Review Note report viewed-Interval H&P Note,Note Review,459,1.6522606033749
+276,-7.0932794,4.7380204,Flowsheets activity selected-nan,Chart Review,434,3.38144182735019
+741,-19.680712,9.494957,Chart Review Note report viewed-Pre-Procedure Note,Note Review,385,2.21868932300143
+394,-17.478415,12.544166,Chart Review Note report viewed-Result QuickNote,Note Review,377,0.74174369626575
+549,-8.953242,18.820747,Document viewed-nan,Chart Review,352,3.31458821455637
+345,-4.247699,9.458789,Report with patient data viewed-Reg Storyboard FYI,Chart Review,347,2.4037322364913
+1496,-2.147733,4.0920534,SmartSet suggested-nan,,315,0.993953042560153
+452,-19.09532,10.991029,Chart Review Note report viewed-Brief Op Note,Note Review,299,2.10053002728356
+281,-0.74150497,2.0661657,Report with patient data viewed-ONC Patient Has Active Plans Hoverbubble,Chart Review,294,1.77931934992472
+239,-3.642057,17.252449,Patient SnapShot viewed-AMB PEDIATRIC PATIENT SNAPSHOT (HTML/CSS),,275,0.733280165195465
+540,-19.138603,18.865028,Chart Review Order report viewed-CV Stress Echo Report,Results Review,270,2.24142225291993
+291,-14.329417,9.373295,Note printed from Chart Review-Progress Notes,,250,3.15238954676522
+748,-18.882675,7.1008472,Chart Review Note report viewed-ECIN Note,Note Review,220,0.645307733747694
+786,-12.368862,14.222341,Chart Review Note report viewed-Assessment & Plan Note,Note Review,210,0.977462346288893
+711,0.59407175,2.058746,Allergies modified-nan,,192,0.98356403377321
+716,-3.4170318,11.854717,Care Everywhere Request Outside Records activity accessed-nan,,167,1.6166144129965
+562,-20.612413,14.035454,Chart Review Note report viewed-Pre-Sedation Documentation,Note Review,156,0.50806410047743
+804,-2.3449845,13.692234,MyChart Admin Viewed-nan,,144,0.781710583898756
+797,-11.5041065,13.931778,Report with patient data viewed-PROBLEM DETAIL (RICH TEXT),Chart Review,143,0.776081585884094
+789,-10.92685,15.25984,Chart Search encounter report opened-nan,,110,0.0089222682846917
+699,4.4872003,10.397681,View FastNote activity-Progress Notes,,99,0.0064958172374301
+564,-20.234953,17.1321,Chart Review Order report viewed-CV Electrophysiology Report,Results Review,96,0.946957084867689
+594,-1.2033896,4.5510125,Report with patient data viewed-MR ONC Active Plans Summary,Chart Review,90,0.885061909357706
+625,-20.498312,2.750674,Chart Review Note report viewed-ED Triage Provider Note,Note Review,86,0.355225208070543
+561,-20.527033,15.4007845,Chart Review Note report viewed-Pre-Cardiac Catheterization Workup and H&P,Note Review,79,0.375413568284776
+145,-21.624449,5.7684116,Chart Review Note report viewed-Lactation Note,Note Review,77,0.23422768804762
+856,-19.77652,7.0700936,Chart Review Note report viewed-Initial Assessments,Note Review,75,0.581422211858961
+538,0.070416294,12.165211,FYI activity accessed-nan,,69,0.0716586253378126
+539,0.15223914,12.144558,FYI activity exited-nan,,69,0.050893485546112
+712,-21.378975,7.79147,Chart Review Note report viewed-ACP (Advance Care Planning),Note Review,69,0.262729584376017
+459,-18.053188,16.120998,Report with patient data viewed-CV Echo Printable Result Report,Chart Review,68,0.273753861321343
+967,4.3997054,16.050606,Refill action taken from In Basket-nan,Inbox,68,0.124915012518564
+312,-24.430391,8.085772,Bookmark Modified-nan,,68,0.0713662966092427
+1393,2.9412344,4.6885467,Report with patient data viewed-ONCBCN Snapshot,Chart Review,59,0.138910098340776
+560,-12.391892,13.631659,Chart Review Note report viewed-Patient Instructions,Note Review,58,0.12826443168852
+536,-10.817445,11.786566,Report with patient data viewed-IP NEURO RESULT REPORT CHART REVIEW,Chart Review,57,0.132050515545739
+481,-2.565543,11.133474,Proxy Access Viewed-nan,,55,0.4992340154118
+468,4.808068,9.125261,Report with patient data viewed-OB Mom Baby Link,Chart Review,51,0.0921936241785685
+854,3.2473633,0.3415682,Report with patient data viewed-Rx BJC Split Screen - Calcitonin injection,Chart Review,45,0.182263656987084
+772,3.8662324,13.605307,View FastNote activity-Discharge Summary,,44,0.006818729241689
+313,-10.148708,7.7751846,Note printed from Chart Review-Discharge Summary,,43,0.601420498689015
+437,-5.2262526,7.1198106,Storyboard viewed-CV Cardiology Procedural Storyboard,,39,0.0605752385987175
+919,-21.620426,13.425384,Chart Review Note report viewed-Committee Review,Note Review,38,0.257347700595855
+674,-15.067398,10.632465,Note printed from Chart Review-nan,,37,0.450918637381659
+1091,1.476601,5.217628,Treatment plan accessed-nan,,36,0.0211601826879713
+790,-23.275278,14.953443,Report with patient data viewed-OR ALL OP NOTES,Chart Review,36,0.657549579408433
+413,-13.795,4.4701433,Note printed from Chart Review-Consults,,32,0.2396694694625
+1570,1.3741878,6.296278,Synopsis activity accessed-ONC Synopsis Oncology Focused View,,32,0.362055519156985
+1119,-21.438334,9.462468,Chart Review Note report viewed-Incidental Note,Note Review,31,0.0799398363961113
+702,-20.961725,2.9172401,Chart Review Note report viewed-ED Observation Provider Note,Note Review,31,0.0634388258722093
+813,-13.540329,14.226547,Chart Review Note report viewed-Subjective & Objective,Note Review,30,0.0491349856058756
+1126,0.85063905,5.347281,Report with patient data viewed-MR ONC Treatment Plan Hoverbubble,Chart Review,30,0.326757343610127
+271,-22.674877,5.657569,Chart Review Note report viewed-L&D Delivery Note,Note Review,30,0.199808378219604
+663,-23.213644,10.339029,Chart Review Note report viewed-Research Note,Note Review,30,0.160950341754489
+1062,-22.951174,9.225145,Chart Review Note report viewed-Teleconsult,Note Review,27,0.230381297005547
+1281,2.3106942,4.1889024,Report with patient data viewed-ONCBCN Sidebar Snapshot,Chart Review,25,0.0467117137379116
+1367,-1.7415974,6.0932713,Report with patient data viewed-Therapy Plan Overview Report,Chart Review,25,0.0869931772020128
+1002,-22.759079,19.540075,Chart Review Order report viewed-OPH Result Report,Chart Review,23,0.0981176386939154
+966,-21.909489,18.192644,Chart Review Order report viewed-CV Vascular Ultrasound Report,Results Review,20,0.0130412451426188
+518,-23.132652,12.124403,Chart Review Note report viewed-Treatment Plan,Note Review,20,0.098738621075948
+572,-21.92416,18.737545,Chart Review Order report viewed-CV PV Report,Results Review,20,0.0627820261319478

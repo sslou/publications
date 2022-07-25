@@ -1,0 +1,29 @@
+,token,tsne_x,tsne_y,action,metric_category,count,time_diff
+147,494,-37.609707,28.007292,Report with patient data viewed-AN NoteWriter Patient Snapshot Pre/Post Dynamic,Chart Review,6949,80.2176625029246
+177,451,-37.016514,29.49925,Storyboard viewed-AN Anesthesia Storyboard,Navigator,4792,3.22900985664791
+211,510,-38.833687,26.572899,Report with patient data viewed-OR Signed and Held Orders,Chart Review,3172,11.7356512056456
+231,490,-37.906395,29.534067,Report with patient data viewed-AN PROCEDURE INFO REPORT W/CPT,Chart Review,2465,1.37424486239751
+246,498,-37.506958,22.582361,Chart Review Note report viewed-Pre-Procedure Instructions,Note Review,2136,3.33411933342615
+255,493,-38.236435,28.776455,Report with patient data viewed-AN PAT MU SMARTFORM REPORT,Chart Review,2005,0.700134583844078
+257,491,-38.627556,29.382273,Report with patient data viewed-AN Relevant Encounters,Chart Review,1965,5.74405608707004
+277,505,-37.551388,24.886072,Report with patient data viewed-OR POST-OP CALL UPCOMING CASES AND APPTS,Chart Review,1680,10.1814010702239
+278,503,-36.489162,27.578615,Report with patient data viewed-AN History Report,Chart Review,1621,3.87557641320758
+300,492,-37.926388,27.254402,Report with patient data viewed-AN Procedure Summary Report for Storyboard,Chart Review,1343,15.8261201755205
+318,501,-36.70311,26.65412,Pend clinical note-Anesthesia Preprocedure Evaluation,Note Entry,1185,8.92364984432856
+324,495,-39.41398,28.395266,Clinical Note Signed-Anesthesia Preprocedure Evaluation,Note Entry,1157,3.07768083122041
+350,513,-38.171024,23.12184,Note printed from Chart Review-Pre-Procedure Instructions,,927,0.712701949013604
+393,504,-37.470238,25.738945,View clinical notes section-Pre-Procedure Instructions,Note Review,674,1.37381521251466
+441,520,-35.40996,29.907309,Report with patient data viewed-AN Record Report,Chart Review,474,0.791995738082461
+442,512,-37.15803,24.050444,Clinical Note Signed-Pre-Procedure Instructions,Note Entry,468,0.886349377367231
+453,507,-36.55134,24.991594,Report with patient data viewed-OR Demographic Summary,Chart Review,429,2.31072734038035
+560,537,-34.441257,27.305702,Report with patient data viewed-Screening Report,Chart Review,203,1.04664091746012
+621,521,-33.457886,26.130297,Report with patient data viewed-NON-SPECIALTY PROBLEM LIST,Chart Review,136,1.6599665485488
+625,517,-34.777393,24.707718,View clinical note from copy previous-Anesthesia Preprocedure Evaluation,,134,1.80891210132175
+628,516,-35.063126,25.947765,Report with patient data viewed-AN Medical History Report,Chart Review,132,2.18831686231825
+637,509,-35.768177,23.675808,Pend clinical note-Pre-Procedure Instructions,Note Entry,125,0.070766589641571
+659,502,-34.188602,25.76154,Report with patient data viewed-AN Staff Summary Report,Chart Review,108,1.12289354165395
+813,508,-32.873795,24.556698,Report with patient data viewed-BW AN Difficult Airway Report,Chart Review,41,0.355223430262671
+822,534,-31.032063,23.51481,Report with patient data viewed-OR Log Case Info,Chart Review,38,0.106195081075032
+895,902,-32.000572,28.172136,OB and Lactation Status accepted-nan,,25,0.0229965991444057
+896,550,-32.055256,26.546848,Report with patient data viewed-OR SBAR Active Orders,Chart Review,25,0.172250174681345
+924,497,-30.743353,23.39385,Report with patient data viewed-OR Workspace Header: Surgeon hover report.,Chart Review,22,0.198815539942847
