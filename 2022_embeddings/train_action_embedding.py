@@ -37,18 +37,21 @@ def train_embeddings(corpus, args):
     # train embeddings
     print('Training action embeddings ...')
     model = Word2Vec(sentences=corpus,
+                     iter=args.epochs, # gensim 3.8.3
                      size=args.embedding_size,
+                     # epochs = args.epochs, # gensim 4.2.0
+                     # vector_size = args.embedding_size
                      window=args.context,
                      min_count=args.min_count,
                      workers=10,
                      callbacks=[lossLogger()],
-                     sg=1,  # sg=1 means using skipgram
-                     iter=20)
+                     sg=1  # sg=1 means using skipgram
+                     )
 
     # save model
     print('Training complete!')
     wv = model.wv
-    wv.save(word_vector_file)
+    return wv
 
 
 def compute_tsne(wv, df_metric_cat, metric_dict, token_dict, all_words=True, perplexity=40, n_iter=2000):
@@ -240,9 +243,6 @@ if __name__ == "__main__":
     print(args)
 
     # Paths
-    # data_dir = '../../IGNITE/data_output_from_SSIS_2'
-    # access_file_name = 'access_log_complete.csv'
-    logs_file = './aux_data/logs_all.csv'
     metric_cat = './aux_data/metric_categorized.csv'
     df_metric_cat = pd.read_csv(metric_cat)
 
@@ -261,21 +261,22 @@ if __name__ == "__main__":
 
     metric_dict = dict(zip(df_metric_cat['action'].values, df_metric_cat['metric_category']))
 
+
     # Load processed corpus (of actions)
     with open(corpus_file, 'rb') as f:
         corpus = pickle.load(f)
     with open(dict_file, 'rb') as f:
         token_dict = pickle.load(f)
 
-
     # Train action embeddings
     if args.if_train:
-        train_embeddings(corpus, args)
+        wv = train_embeddings(corpus, args)
+        wv.save(word_vector_file)
 
     # Load saved embeddings
     wv = KeyedVectors.load(word_vector_file)
 
-    # Plot
+    # Plot tSNE visualization
     if args.if_plot:
         tsne_out = compute_tsne(wv, df_metric_cat, metric_dict, token_dict,
                                 perplexity=30, n_iter=5000, all_words=False)
@@ -286,7 +287,9 @@ if __name__ == "__main__":
     if args.if_neighbors:
         # action_name = 'Chart Review Note report viewed-Lactation Note'
         action_name = 'Inpatient system list accessed-nan'
-        get_neighbors(action_name, wv, token_dict)
+        get_neighbors(action_name, wv, token_dict) # print nearest 10 neighbors
 
-        compute_topN_proximity(wv, token_dict, topN = 10)
+        compute_topN_proximity(wv, token_dict, topN = 10) # compute average similarity metric for all actions
+
+        print(identify_clusters('x1 > 5 and x2 > 10', tsne_out)) # example to pull actions from a certain location in tSNE plot
 
