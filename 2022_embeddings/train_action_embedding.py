@@ -20,17 +20,16 @@ def boolean_string(s):
 class lossLogger(CallbackAny2Vec):
     '''Output loss at each epoch'''
     def __init__(self):
-        self.epoch = 1
-        self.losses = []
-
-    def on_epoch_begin(self, model):
-        print(f'Epoch: {self.epoch}')
+        self.epoch = 0
 
     def on_epoch_end(self, model):
         loss = model.get_latest_training_loss()
-        self.losses.append(loss)
-        # print(f'  Loss: {loss}')
+        if self.epoch == 0:
+            print('Loss after epoch {}: {}'.format(self.epoch, loss))
+        else:
+            print('Loss after epoch {}: {}'.format(self.epoch, loss- self.loss_previous_step))
         self.epoch += 1
+        self.loss_previous_step = loss
 
 
 def train_embeddings(corpus, args):
@@ -44,8 +43,9 @@ def train_embeddings(corpus, args):
                      window=args.context,
                      min_count=args.min_count,
                      workers=10,
-                     callbacks=[lossLogger()],
-                     sg=1  # sg=1 means using skipgram
+                     sg=1,  # sg=1 means using skipgram
+                     compute_loss=True,
+                     callbacks=[lossLogger()]
                      )
 
     # save model
