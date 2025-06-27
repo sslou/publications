@@ -1,6 +1,6 @@
 # Personalized surgical transfusion risk prediction using machine learning to guide preoperative type and screen orders
 
-Code for the models described in [Lou et al., *Anesthesiology*, 2022](https://doi.org/10.1097/ALN.0000000000004139).
+Code for the models described in [Lou et al., *Anesthesiology*, 2022](https://doi.org/10.1097/ALN.0000000000004139), [Lou et al., *J Am Col Surg*, 2024](http://doi.org/10.1097/XCS.0000000000000874), and [Lou et al., *JAMA Network Open*, 2025](https://doi.org/10.1001/jamanetworkopen.2025.17760).
 
 ## Scripts
 1. `NSQIP_train.py`
@@ -24,7 +24,7 @@ Code for the models described in [Lou et al., *Anesthesiology*, 2022](https://do
 
 
 ## Notebooks
-[jupyter notebook](https://colab.research.google.com/drive/1PavgJqsxjkRvQ6-2psj-crBCV8gmJZzk?usp=sharing) for making and visualizing model predictions on new patient data, running on Google Colab.
+[jupyter notebook](https://colab.research.google.com/drive/1PavgJqsxjkRvQ6-2psj-crBCV8gmJZzk?usp=sharing) for making and visualizing model predictions on new patient data, running on Google Colab. *Note: this is currently broken due to inability to downgrade necessary dependencies in Colab, but the example code provided should work within the appropriate python environment as specified below*
 
 
 ## Folders
@@ -32,6 +32,8 @@ Code for the models described in [Lou et al., *Anesthesiology*, 2022](https://do
     - `*.joblib` saved models for baseline, LR, DT, XGB (Random Forest is not provided because file size is prohibitively large, but is available on request). Requires sklearn v0.22.1 to load.
 - /result/
     - scripts are hard-coded to drop output files here
+- /mpog_validation/
+    - jupyter notebooks for (a) converting MPOG standardized data file format to format expected by the model, and (b) evaluating the model at individual institutions
 
 
 ## Python environment
