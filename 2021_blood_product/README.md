@@ -1,10 +1,15 @@
 # Personalized surgical transfusion risk prediction using machine learning to guide preoperative type and screen orders
 
-Code for the a machine learning model to predict the risk for surgical transfusion. Model development described in [Lou et al., *Anesthesiology*, 2022](https://doi.org/10.1097/ALN.0000000000004139). Multi-center external validation performed in:
-- [Lou et al., *J Am Col Surg*, 2024](http://doi.org/10.1097/XCS.0000000000000874) : evaluating AUROC among cases submitted to NSQIP from 700+ hospitals
+Code for a machine learning model that predicts the probability for red cell transfusion during surgery using patient demographic characteristics, comorbidities, laboratory values, and characteristics of the planned surgery. 
+
+Model development described in [Lou et al., *Anesthesiology*, 2022](https://doi.org/10.1097/ALN.0000000000004139). 
+
+Multi-center external validation described in:
+- [Lou et al., *J Am Coll Surg*, 2024](http://doi.org/10.1097/XCS.0000000000000874) : evaluating AUROC among cases submitted to NSQIP from 700+ hospitals
 - [Lou et al., *JAMA Network Open*, 2025](https://doi.org/10.1001/jamanetworkopen.2025.17760) : evaluating difference in type and screen recommendations between the model and the conventional maximum surgical blood ordering schedule (MSBOS) approach among all surgical cases performed at 45 US hospitals
 
 ## Scripts
+Python files used for model development from [Lou et al., *Anesthesiology*, 2022](https://doi.org/10.1097/ALN.0000000000004139).
 1. `NSQIP_train.py`
     - trains penalized logistic regression, decision tree, random forest, and XGBoost models to predict surgical transfusion
     - usage: `python NSQIP_train.py`
