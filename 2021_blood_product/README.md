@@ -1,6 +1,8 @@
 # Personalized surgical transfusion risk prediction using machine learning to guide preoperative type and screen orders
 
-Code for the models described in [Lou et al., *Anesthesiology*, 2022](https://doi.org/10.1097/ALN.0000000000004139), [Lou et al., *J Am Col Surg*, 2024](http://doi.org/10.1097/XCS.0000000000000874), and [Lou et al., *JAMA Network Open*, 2025](https://doi.org/10.1001/jamanetworkopen.2025.17760).
+Code for the a machine learning model to predict the risk for surgical transfusion. Model development described in [Lou et al., *Anesthesiology*, 2022](https://doi.org/10.1097/ALN.0000000000004139). Multi-center external validation performed in:
+- [Lou et al., *J Am Col Surg*, 2024](http://doi.org/10.1097/XCS.0000000000000874) : evaluating AUROC among cases submitted to NSQIP from 700+ hospitals
+- [Lou et al., *JAMA Network Open*, 2025](https://doi.org/10.1001/jamanetworkopen.2025.17760) : evaluating difference in type and screen recommendations between the model and the conventional maximum surgical blood ordering schedule (MSBOS) approach among all surgical cases performed at 45 US hospitals
 
 ## Scripts
 1. `NSQIP_train.py`
@@ -24,7 +26,7 @@ Code for the models described in [Lou et al., *Anesthesiology*, 2022](https://do
 
 
 ## Notebooks
-[jupyter notebook](https://colab.research.google.com/drive/1PavgJqsxjkRvQ6-2psj-crBCV8gmJZzk?usp=sharing) for making and visualizing model predictions on new patient data, running on Google Colab. *Note: this is currently broken due to inability to downgrade necessary dependencies in Colab, but the example code provided should work within the appropriate python environment as specified below*
+[jupyter notebook](https://colab.research.google.com/drive/1PavgJqsxjkRvQ6-2psj-crBCV8gmJZzk?usp=sharing) for making and visualizing model predictions on new patient data, running on Google Colab. (*Note: this is currently broken due to inability to downgrade necessary dependencies in Colab, but the example code provided should work within the appropriate python environment as specified below*)
 
 
 ## Folders
