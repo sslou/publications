@@ -1,0 +1,29 @@
+﻿MPOG,NSQIP/WASHU
+MPOG_Case_ID,CaseID
+Sex,SEX
+Predicted Anes CPT Code 1,CPT_PRED
+Anesthesia CPT (Primary),CPT_PRIMARY
+ASA Class,ASA
+Emergency Status (ASA Class) Yes/No,EMERGNCY
+ELECTSURG,ELECTSURG
+Age (Years),Age
+Height (inch),HEIGHT
+Weight (pounds),WEIGHT
+Elixhauser: Diabetes (Complicated),DIABETES
+SMOKE,SMOKE
+Elixhauser: Chronic Pulmonary Disease,HXCOPD
+Elixhauser: Congestive Heart Failure,HXCHF
+Elixhauser: Hypertension (Complicated),HYPERMED
+DIALYSIS,DIALYSIS
+Preop Sodium,PRSODM
+Preop Creatinine,PRCREAT
+Preop Albumin,PRALBUM
+Preop Total Bilirubin,PRBILI
+Preop Hematocrit,PRHCT
+Preop Platelet Count,PRPLATE
+Preop PTT,PRPTT
+Preop INR,PRINR
+NOTHBLEED,NOTHBLEED
+count_transfused,count
+percent_transfused,percent_transfused
+Institution,Institution
