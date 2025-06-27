@@ -35,7 +35,7 @@ Code for the a machine learning model to predict the risk for surgical transfusi
 - /result/
     - scripts are hard-coded to drop output files here
 - /mpog_validation/
-    - jupyter notebooks for (a) converting MPOG standardized data file format to format expected by the model, and (b) evaluating the model at individual institutions
+    - jupyter notebooks for (a) converting MPOG standardized data file format to format expected by the model, and (b) evaluating the model at individual institutions. This code was used to generate the results shown in [Lou et al., *JAMA Network Open*, 2025](https://doi.org/10.1001/jamanetworkopen.2025.17760)
 
 
 ## Python environment
